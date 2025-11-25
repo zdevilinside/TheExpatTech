@@ -50,7 +50,7 @@ title = "The Expat Tech"
   enable = false
 
 [params.home.posts]
-  enable = false
+  enable = true
 
 [params.author]
   name = "ZDevilInside"
