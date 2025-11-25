@@ -5,6 +5,7 @@ title = "The Expat Tech"
 [taxonomies]
   category = "categories"
   tag      = "tags"
+  author = "authors"
 
 [module]
   [[module.imports]]
