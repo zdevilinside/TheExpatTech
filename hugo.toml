@@ -1,11 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = "https://zdevilinside.github.io/TheExpatTech/"
 languageCode = 'en-us'
 title = 'The Expat Tech'
 
 [taxonomies]
   category = "categories"
   tag      = "tags"
-  # remove or comment out "author = authors" since LoveIt uses global author params
 
 [module]
   [[module.imports]]
@@ -31,9 +30,9 @@ title = 'The Expat Tech'
     weight = 50
     
   [[menu.main]]
-    identifier = "LivingInMexico"
+    identifier = "living-in-mexico"
     name = "Living In Mexico"
-    url = "/posts/Living In Mexico/"
+    url = "/posts/living-in-mexico/"
     weight = 60
 
 [params.header]
@@ -41,11 +40,11 @@ title = 'The Expat Tech'
   mobileMode = "auto"
 
   [params.header.title]
-    logo = ""                # optional logo path, e.g. "/images/logo.png"
-    name = "The Expat Tech"  # upper-left corner site title
-    pre = ""                 # remove demo icon
-    post = ""                # optional text after the name
-    typeit = false           # disable typewriter animation
+    logo = ""
+    name = "The Expat Tech"
+    pre = ""
+    post = ""
+    typeit = false
 
 [params.home.profile]
   enable = false
@@ -55,6 +54,7 @@ title = 'The Expat Tech'
 
 [params.author]
   name = "ZDevilInside"
-  link = "/about/"   # optional link to your About page or external profile
+  link = "/about/"
+
 [params]
-  defaultTheme = "dark"
+  theme = "dark"
