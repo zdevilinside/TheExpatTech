@@ -54,7 +54,8 @@ title = "The Expat Tech"
 
 [params.author]
   name = "ZDevilInside"
-  link = "/about/"   # optional link to your About page or external profile
+  link = "/TheExpatTech/about/"
+  # optional link to your About page or external profile
 
 [params]
   defaultTheme = "dark"
