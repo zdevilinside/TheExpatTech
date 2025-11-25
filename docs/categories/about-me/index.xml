@@ -10,9 +10,9 @@
     <atom:link href="https://zdevilinside.github.io/TheExpatTech/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://zdevilinside.github.io/TheExpatTech/about/about/</link>
+      <link>https://zdevilinside.github.io/TheExpatTech/about/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://zdevilinside.github.io/TheExpatTech/about/about/</guid>
+      <guid>https://zdevilinside.github.io/TheExpatTech/about/</guid>
       <description>&lt;p&gt;Hi everyone! I’ve been working in IT for a long time—my first experiences go all the way back to playing on Apple IIe computers in 1983. One of the first “skills” I picked up was learning how to turn single-sided, double-density 5.25” floppy disks into double-sided disks using nothing more than a hole punch. I’ll also admit that I got into BBSes mainly so I could download games over a 300-baud modem.&lt;/p&gt;</description>
     </item>
   </channel>
