@@ -1,6 +1,6 @@
 baseURL = "https://zdevilinside.github.io/TheExpatTech/"
-languageCode = 'en-us'
-title = 'The Expat Tech'
+languageCode = "en-us"
+title = "The Expat Tech"
 
 [taxonomies]
   category = "categories"
@@ -37,14 +37,14 @@ title = 'The Expat Tech'
 
 [params.header]
   desktopMode = "fixed"
-  mobileMode = "auto"
+  mobileMode  = "auto"
 
   [params.header.title]
-    logo = ""
-    name = "The Expat Tech"
-    pre = ""
-    post = ""
-    typeit = false
+    logo   = ""                # optional logo path, e.g. "/images/logo.png"
+    name   = "The Expat Tech"  # upper-left corner site title
+    pre    = ""                # remove demo icon
+    post   = ""                # optional text after the name
+    typeit = false             # disable typewriter animation
 
 [params.home.profile]
   enable = false
@@ -54,7 +54,7 @@ title = 'The Expat Tech'
 
 [params.author]
   name = "ZDevilInside"
-  link = "/about/"
+  link = "/about/"   # optional link to your About page or external profile
 
 [params]
-  theme = "dark"
+  defaultTheme = "dark"
