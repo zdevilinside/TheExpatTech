@@ -14,25 +14,25 @@ title = "The Expat Tech"
   [[menu.main]]
     identifier = "aviation"
     name = "Aviation"
-    url = "/posts/aviation/"
+    url = "posts/aviation/"
     weight = 30
 
   [[menu.main]]
     identifier = "tech-tips"
     name = "Tech Tips"
-    url = "/posts/tech-tips/"
+    url = "posts/tech-tips/"
     weight = 40
 
   [[menu.main]]
     identifier = "digital-nomading"
     name = "Digital Nomading"
-    url = "/posts/digital-nomading/"
+    url = "posts/digital-nomading/"
     weight = 50
     
   [[menu.main]]
     identifier = "living-in-mexico"
     name = "Living In Mexico"
-    url = "/posts/living-in-mexico/"
+    url = "posts/living-in-mexico/"
     weight = 60
 
 [params.header]
@@ -40,7 +40,7 @@ title = "The Expat Tech"
   mobileMode  = "auto"
 
   [params.header.title]
-    logo   = ""                # optional logo path, e.g. "/images/logo.png"
+    logo   = ""                # optional logo path, e.g. "images/logo.png"
     name   = "The Expat Tech"  # upper-left corner site title
     pre    = ""                # remove demo icon
     post   = ""                # optional text after the name
@@ -54,8 +54,7 @@ title = "The Expat Tech"
 
 [params.author]
   name = "ZDevilInside"
-  link = "/TheExpatTech/about/"
-  # optional link to your About page or external profile
+  link = "about/"   # relative to baseURL, resolves to /TheExpatTech/about/
 
 [params]
   defaultTheme = "dark"
