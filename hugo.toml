@@ -47,7 +47,7 @@ title = "The Expat Tech"
     typeit = false             # disable typewriter animation
 
 [params.home.profile]
-  enable = false
+  enable = true
 
 [params.home.posts]
   enable = true
