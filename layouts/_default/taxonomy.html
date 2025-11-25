@@ -1,0 +1,34 @@
+{{ define "content" }}
+  <h1>{{ .Title }}</h1>
+  <div class="taxonomy-grid">
+    {{ range .Pages }}
+      <article class="taxonomy-card">
+        {{ $img := .Resources.GetMatch .Params.image }}
+        {{ if $img }}
+          {{ $thumb := $img.Fill "400x250 center" }}
+          <div class="thumb">
+            <a href="{{ .RelPermalink }}">
+              <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}">
+            </a>
+          </div>
+        {{ else if .Params.image }}
+          <div class="thumb">
+            <a href="{{ .RelPermalink }}">
+              <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+            </a>
+          </div>
+        {{ else }}
+          <div class="thumb">
+            <a href="{{ .RelPermalink }}">
+              <img src="/images/default-thumb.jpg" alt="Default thumbnail">
+            </a>
+          </div>
+        {{ end }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.description }}
+          <p>{{ . }}</p>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+{{ end }}
