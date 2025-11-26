@@ -1,6 +1,7 @@
 baseURL = "https://zdevilinside.github.io/TheExpatTech/"
 languageCode = "en-us"
 title = "The Expat Tech"
+publishDir = "docs"
 
 [taxonomies]
   category = "categories"
@@ -14,25 +15,25 @@ title = "The Expat Tech"
   [[menu.main]]
     identifier = "aviation"
     name = "Aviation"
-    url = "posts/aviation/"
+    url = "/posts/aviation/"
     weight = 30
 
   [[menu.main]]
     identifier = "tech-tips"
     name = "Tech Tips"
-    url = "posts/tech-tips/"
+    url = "/posts/tech-tips/"
     weight = 40
 
   [[menu.main]]
     identifier = "digital-nomading"
     name = "Digital Nomading"
-    url = "posts/digital-nomading/"
+    url = "/posts/digital-nomading/"
     weight = 50
     
   [[menu.main]]
     identifier = "living-in-mexico"
     name = "Living In Mexico"
-    url = "posts/living-in-mexico/"
+    url = "/posts/living-in-mexico/"
     weight = 60
 
 [params.header]
@@ -41,10 +42,10 @@ title = "The Expat Tech"
 
   [params.header.title]
     logo   = ""                # optional logo path, e.g. "images/logo.png"
-    name   = "The Expat Tech"  # upper-left corner site title
-    pre    = ""                # remove demo icon
-    post   = ""                # optional text after the name
-    typeit = false             # disable typewriter animation
+    name   = "The Expat Tech"
+    pre    = ""
+    post   = ""
+    typeit = false
 
 [params.home.profile]
   enable = true
@@ -54,7 +55,7 @@ title = "The Expat Tech"
 
 [params.author]
   name = "ZDevilInside"
-  link = "about/"   # relative to baseURL, resolves to /TheExpatTech/about/
+  link = "/about/"
 
 [params]
   defaultTheme = "dark"
