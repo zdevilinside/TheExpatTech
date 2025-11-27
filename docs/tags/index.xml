@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Expat Tech</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://theexpattech.com/tags/</link>
     <description>Recent content in Tags on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theexpattech.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Nomading</title>
-      <link>http://localhost:1313/tags/digital-nomading/</link>
+      <link>https://theexpattech.com/tags/digital-nomading/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digital-nomading/</guid>
+      <guid>https://theexpattech.com/tags/digital-nomading/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Tips</title>
-      <link>http://localhost:1313/tags/tech-tips/</link>
+      <link>https://theexpattech.com/tags/tech-tips/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech-tips/</guid>
+      <guid>https://theexpattech.com/tags/tech-tips/</guid>
       <description></description>
     </item>
     <item>
       <title>FlipperZero</title>
-      <link>http://localhost:1313/tags/flipperzero/</link>
+      <link>https://theexpattech.com/tags/flipperzero/</link>
       <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
-      <guid>http://localhost:1313/tags/flipperzero/</guid>
+      <guid>https://theexpattech.com/tags/flipperzero/</guid>
       <description></description>
     </item>
     <item>
       <title>MacOS</title>
-      <link>http://localhost:1313/tags/macos/</link>
+      <link>https://theexpattech.com/tags/macos/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>http://localhost:1313/tags/macos/</guid>
+      <guid>https://theexpattech.com/tags/macos/</guid>
       <description></description>
     </item>
     <item>
       <title>Virtualization</title>
-      <link>http://localhost:1313/tags/virtualization/</link>
+      <link>https://theexpattech.com/tags/virtualization/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>http://localhost:1313/tags/virtualization/</guid>
+      <guid>https://theexpattech.com/tags/virtualization/</guid>
       <description></description>
     </item>
     <item>
       <title>VMware</title>
-      <link>http://localhost:1313/tags/vmware/</link>
+      <link>https://theexpattech.com/tags/vmware/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>http://localhost:1313/tags/vmware/</guid>
+      <guid>https://theexpattech.com/tags/vmware/</guid>
       <description></description>
     </item>
     <item>
       <title>DigitalNomad</title>
-      <link>http://localhost:1313/tags/digitalnomad/</link>
+      <link>https://theexpattech.com/tags/digitalnomad/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digitalnomad/</guid>
+      <guid>https://theexpattech.com/tags/digitalnomad/</guid>
       <description></description>
     </item>
     <item>
       <title>MovingToMexico</title>
-      <link>http://localhost:1313/tags/movingtomexico/</link>
+      <link>https://theexpattech.com/tags/movingtomexico/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/movingtomexico/</guid>
+      <guid>https://theexpattech.com/tags/movingtomexico/</guid>
       <description></description>
     </item>
     <item>
       <title>SR-71</title>
-      <link>http://localhost:1313/tags/sr-71/</link>
+      <link>https://theexpattech.com/tags/sr-71/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sr-71/</guid>
+      <guid>https://theexpattech.com/tags/sr-71/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/tags/about-me/</link>
+      <link>https://theexpattech.com/tags/about-me/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/about-me/</guid>
+      <guid>https://theexpattech.com/tags/about-me/</guid>
       <description></description>
     </item>
   </channel>
