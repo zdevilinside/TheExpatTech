@@ -1,4 +1,4 @@
-baseURL = "https://theexpattech.com/"
+baseURL = "https://www.theexpattech.com/"
 languageCode = "en-us"
 title = "The Expat Tech"
 publishDir = "docs"

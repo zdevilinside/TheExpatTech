@@ -106,8 +106,9 @@ The SR-71 is my favorite aircraft of the Cold War. I have been a fan of the plan
     - The U.S. maintains one of the safest aviation systems worldwide, overseen by the FAA and NTSB.  
 
 ---
-
+<!--
 ## Watch the Video
 
 Have Blue was the technology demonstrator for stealth. Here is declassified video of one of its test flights.  
 [▶️ Watch Have Blue Test Flight](haveblue.mp4)
+-->
