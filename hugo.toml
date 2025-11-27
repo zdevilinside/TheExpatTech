@@ -67,4 +67,8 @@ publishDir = "docs"
   themeToggle = true      # show toggle button in header
 
 [permalinks]
-posts = "/posts/:slug/"
+aviation = "/posts/aviation/:slug/"
+digital-nomading = "/posts/digital-nomading/:slug/"
+living-in-mexico = "/posts/living-in-mexico/:slug/"
+tech-tips = "/posts/tech-tips/:slug/"
+misc = "/posts/misc/:slug/"
