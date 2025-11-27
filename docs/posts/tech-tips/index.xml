@@ -1,43 +1,43 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Tech Tips - The Expat Tech</title>
-        <link>https://www.theexpattech.com/posts/tech-tips/</link>
+        <link>http://localhost:1313/posts/tech-tips/</link>
         <description>All Tech Tips | The Expat Tech</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.theexpattech.com/posts/tech-tips/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/tech-tips/" rel="self" type="application/rss+xml" /><item>
     <title>GL.iNet Beryl AX review</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/gl.inet-beryl-ax-review/</link>
+    <link>http://localhost:1313/posts/gl.inet-beryl-ax-review/</link>
     <pubDate>Tue, 25 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/gl.inet-beryl-ax-review/</guid>
+    <guid>http://localhost:1313/posts/gl.inet-beryl-ax-review/</guid>
     <description><![CDATA[<h1 id="-glinet-beryl-ax-gl-mt3000-review">🌐 GL.iNet Beryl AX (GL-MT3000) Review</h1>
 <p></p>
 <p>I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &ldquo;capture portal&rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.</p>]]></description>
 </item>
 <item>
     <title>Resetting a Flipper Zero</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</link>
+    <link>http://localhost:1313/posts/resetting-a-flipper-zero/</link>
     <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
+    <guid>http://localhost:1313/posts/resetting-a-flipper-zero/</guid>
     <description><![CDATA[<p>A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&rsquo;t work, they decided to do a &ldquo;hard reset&rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.</p>
 <p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>]]></description>
 </item>
 <item>
     <title>Build a Mac OS 15 Sequoia VM?</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
+    <link>http://localhost:1313/posts/build-a-mac-os-15-sequoia-vm/</link>
     <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
+    <guid>http://localhost:1313/posts/build-a-mac-os-15-sequoia-vm/</guid>
     <description><![CDATA[<h2 id="getting-started">Getting Started</h2>
 <p><strong>How to create a MacOS 15 Sequoia VM in VMware</strong></p>
 <p>Over the years, I have noticed that a lot of people seem to have bought into the marketing of Apple and believe that the Mac is the best computer. Apple has won the marketing game just like Bose has done with speakers. Audiophiles say that if you want no highs or lows, you buy Bose!  Most people just don&rsquo;t seem to get that while Apple does provide a good product, they are overpriced for what they provide and it isn&rsquo;t close to the value most Windows-based computers are. Yes, you can find value with Linux but most people are more comfortable with what they already have been using for years &ndash; Windows.</p>]]></description>
 </item>
 <item>
     <title>Network Troubleshooting Scripts</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</link>
+    <link>http://localhost:1313/posts/network-troubleshooting-scripts/</link>
     <pubDate>Wed, 01 Oct 2025 19:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</guid>
+    <guid>http://localhost:1313/posts/network-troubleshooting-scripts/</guid>
     <description><![CDATA[<p>I recently had problems with my Digital Nomad VPN setup.  I went to the GL.iNet Discord and asked for help but they wanted results from various tests to be able to help me.  I provided those responses but felt there had to be a better way.
 I saw these types of questions asked all the time in the tech support sub of GL.iNet&rsquo;s Discourd.  I found that there were very few options out there that allowed you to find a single, simple source with logs to troubleshoot a VPN network and decided to create my own.  With the assistance of &ldquo;Wicked Yoda&rdquo;, I created these and shared them.  Wicked has taken on the torch to building these troubleshooting tools.  You can find them here:  <a href="https://github.com/wickedyoda/Network-Diag-Utilities" target="_blank" rel="noopener noreffer ">https://github.com/wickedyoda/Network-Diag-Utilities</a></p>]]></description>
 </item>

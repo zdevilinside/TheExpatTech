@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>Digital Nomad VPN Setup - The Expat Tech</title><meta name="Description" content="Setting up your Digital Nomad VPN"><meta property="og:url" content="http://localhost:1313/posts/digital-nomad-vpn-setup/">
+  <meta property="og:site_name" content="The Expat Tech">
+  <meta property="og:title" content="Digital Nomad VPN Setup">
+  <meta property="og:description" content="Setting up your Digital Nomad VPN">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-11-24T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-11-24T00:00:00+00:00">
+    <meta property="article:tag" content="Digital Nomading">
+    <meta property="article:tag" content="Tech Tips">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Digital Nomad VPN Setup">
+  <meta name="twitter:description" content="Setting up your Digital Nomad VPN">
+<meta name="application-name" content="My cool site">
+<meta name="apple-mobile-web-app-title" content="My cool site"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://localhost:1313/posts/digital-nomad-vpn-setup/" /><link rel="prev" href="http://localhost:1313/posts/becoming-a-digital-nomad/" /><link rel="next" href="http://localhost:1313/posts/what-is-a-digital-nomad-vpn/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Digital Nomad VPN Setup",
+        "inLanguage": "en-us",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/localhost:1313\/posts\/digital-nomad-vpn-setup\/"
+        },"genre": "posts","keywords": "Digital Nomading, Tech Tips","wordcount":  2081 ,
+        "url": "http:\/\/localhost:1313\/posts\/digital-nomad-vpn-setup\/","datePublished": "2025-11-24T00:00:00+00:00","dateModified": "2025-11-24T00:00:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "ZDevilInside"
+            },"description": "Setting up your Digital Nomad VPN"
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('dark' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'dark' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="The Expat Tech">The Expat Tech</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/categories/aviation/"> Aviation </a><a class="menu-item" href="/categories/tech-tips/"> Tech Tips </a><a class="menu-item" href="/categories/digital-nomading/"> Digital Nomading </a><a class="menu-item" href="/categories/living-in-mexico/"> Living In Mexico </a><a class="menu-item" href="/categories/misc/"> Misc </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="The Expat Tech">The Expat Tech</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/categories/aviation/" title="">Aviation</a><a class="menu-item" href="/categories/tech-tips/" title="">Tech Tips</a><a class="menu-item" href="/categories/digital-nomading/" title="">Digital Nomading</a><a class="menu-item" href="/categories/living-in-mexico/" title="">Living In Mexico</a><a class="menu-item" href="/categories/misc/" title="">Misc</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Digital Nomad VPN Setup</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/about/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>ZDevilInside</a></span>&nbsp;<span class="post-category">included in <a href="/categories/digital-nomading/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Digital Nomading</a>&nbsp;<a href="/categories/tech-tips/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>Tech Tips</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2025-11-24">2025-11-24</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;2081 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;10 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
+            </div><div class="content" id="content"><h1 id="top-secret---unauthorized-personnel-will-be-shot-if-they-continue-to-read-this-post">Top Secret - Unauthorized personnel will be shot if they continue to read this post&hellip;..</h1>
+<p>Okay, you have made the decision.  You want to take a chance with your job and work from somewhere that you are not authorized.  You now need to set things up so that you can make it the least likely to get caught.  You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.</p>
+<p>First things first, you have to talk about the prerequisite requirements before you attempt to set this up.  I will be using GL.iNet devices for this setup because it is the most &ldquo;friendly&rdquo; way to do this.  If you are stupid about tech and don&rsquo;t know what you are doing, this is the best way to follow this.  It DOES take some skills to set up BUT this guide is going to help you set it up and make it as easy as possible to do so.</p>
+<ol>
+<li>You should buy 2 GL.iNet routers.  I recommend buying 1 rull router and 1 travel router.  Those will be discussed later.</li>
+<li>We will be using WireGuard as the VPN technology.  There are other ways to do this but I will not be discussing those in this post.  I might do a future post about this later on.</li>
+<li>If you are not using the GL.iNet routers on both sides, this post isn&rsquo;t for you.  I am trying to do this in a KISS manner - keep it simple stupid.  I want this post to be as non-technical as possible so the majority of people can follow the set up.</li>
+<li>I will be using a GL.iNet Beryl AX to show you how to set up both the VPN server and client.  Screens might be slightly different for you but you should be able to figure it out.  If not, I suggest the GL.iNet Reddit to ask for help.  <a href="https://www.reddit.com/r/GlInet/" target="_blank" rel="noopener noreffer ">https://www.reddit.com/r/GlInet/</a></li>
+<li>From now on, I will refer the VPN server as the &ldquo;HOME&rdquo; system.  The VPN client - which you will take with you on your travels - will be called the VPN client.  I will also refer them to &ldquo;server&rdquo; and &ldquo;client&rdquo;.  Just remember that the &ldquo;server&rdquo; is where you want to pretend to be and that the &ldquo;client&rdquo; is where you actually are.</li>
+<li>We will be using terms &ldquo;LAN&rdquo; and &ldquo;WAN&rdquo; shortly.  Just remember LAN = Local and WAN = World.  The LAN is for local things, and WAN is for the world at large.</li>
+<li>There is a step that I cannot help you with easily other than tell you that you need to go to another site and look up how to do it.  That step is called &ldquo;port forwarding&rdquo;.  You need to look at the device that your ISP gave you and find the make/model# of it.  Once you do, go to YouTube.com and search for &ldquo;make/model port forwarding&rdquo; to find a video on how to do it.  You can also go to <a href="https://portforward.com/router.htm" target="_blank" rel="noopener noreffer ">https://portforward.com/router.htm</a> and see if they have a primer for you.  We are going to be leaving the port that needs to be forwarded to the default 51820 and it should be UDP, not TCP or TCP/UDP - UDP only.  I sometimes forget that critical issue myself.</li>
+</ol>
+<h1 id="vpn-server---where-you-want-to-pretend-to-be">VPN server - where you want to pretend to be</h1>
+<p>Okay, you are ready to take the first step - you want to start to set up your VPN server.  Here, you will be taking the VPN server device out of the box (yes, that is a requirement), put that on the desk, and plug it in.  GL.iNet devices have a &ldquo;universal&rdquo; type power adapter that you will have to twist the plug type on the end.  Once you twist that on, plug that into the power strip, and the other side into the router itself.  Next, you need to take a network cable AKA CAT-5e AKA Ethernet AKA &ldquo;telephone jack cable but bigger&rdquo; and plug one end into the ISP modem/gateway/ONT and the other end into the WAN port on the router.<br>
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image2.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image2.jpg, /posts/digital-nomad-vpn-setup/image2.jpg 1.5x, /posts/digital-nomad-vpn-setup/image2.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image2.jpg"
+        title="image 2" width="1665" height="1172" />
+Please look at this photo.  The WAN port is labeled &ldquo;2.5G WAN&rdquo;.  The key is WAN here.  WAN = World.  You want to connect the world to your ISP&rsquo;s equipment and therefore the cable goes from WAN to their equipment.
+Next, you will want to plug another CAT-5e (Ethernet/giant telephone jack cable) into your computer and the other end into the LAN port on the router.<br>
+Once you have done this, you have the hardware set up.  Now you need to use your computer.</p>
+<p>I will do this as a table so you can see what step you are at and what you should be seeing side by side.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1. Open your web browser.</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2. Enter this address at the top of your browser and hit enter.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image3.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image3.jpg, /posts/digital-nomad-vpn-setup/image3.jpg 1.5x, /posts/digital-nomad-vpn-setup/image3.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image3.jpg"
+        title="image 3" width="366" height="81" /></td>
+      </tr>
+      <tr>
+          <td>3. You will see this screen where you need to set the password for the router.  Keep it simple so you can remember it in the future.  Once you have, click &ldquo;Next&rdquo; at the bottom.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image4.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image4.jpg, /posts/digital-nomad-vpn-setup/image4.jpg 1.5x, /posts/digital-nomad-vpn-setup/image4.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image4.jpg"
+        title="image 4" width="1989" height="1410" /></td>
+      </tr>
+      <tr>
+          <td>4. You will see the &ldquo;Set Up Wi-Fi screen next.  I would leave these at the defaults for now and come back to them later.  Click &ldquo;Next&rdquo; at the bottom of the screen.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image5.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image5.jpg, /posts/digital-nomad-vpn-setup/image5.jpg 1.5x, /posts/digital-nomad-vpn-setup/image5.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image5.jpg"
+        title="image 5" width="1959" height="1377" /></td>
+      </tr>
+      <tr>
+          <td>5. After a few moments, you will be greated by this screen.  You can read about the various modes and such but in the end you will just click the blue &ldquo;Exit&rdquo; button on the top right.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image6.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image6.jpg, /posts/digital-nomad-vpn-setup/image6.jpg 1.5x, /posts/digital-nomad-vpn-setup/image6.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image6.jpg"
+        title="image 6" width="1989" height="1633" /></td>
+      </tr>
+      <tr>
+          <td>6. You should be at this now:</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image7.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image7.jpg, /posts/digital-nomad-vpn-setup/image7.jpg 1.5x, /posts/digital-nomad-vpn-setup/image7.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image7.jpg"
+        title="image 7" width="1984" height="1584" /></td>
+      </tr>
+      <tr>
+          <td>7.  Do you see the selection called &ldquo;Cloud Services&rdquo; on the left side?  Click on it.  You should see this:</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image8.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image8.jpg, /posts/digital-nomad-vpn-setup/image8.jpg 1.5x, /posts/digital-nomad-vpn-setup/image8.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image8.jpg"
+        title="image 8" width="492" height="315" /></td>
+      </tr>
+      <tr>
+          <td>8. Click on &ldquo;GoodCloud&rdquo;. It will bring you to this screen.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image9.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image9.jpg, /posts/digital-nomad-vpn-setup/image9.jpg 1.5x, /posts/digital-nomad-vpn-setup/image9.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image9.jpg"
+        title="image 9" width="1993" height="603" /></td>
+      </tr>
+      <tr>
+          <td>9. Click &ldquo;Get Started&rdquo;.  If you do, it will come up with something about Cloud Service is currently disabled.  Click &ldquo;Enable&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image10.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image10.jpg, /posts/digital-nomad-vpn-setup/image10.jpg 1.5x, /posts/digital-nomad-vpn-setup/image10.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image10.jpg"
+        title="image 10" width="1485" height="562" /></td>
+      </tr>
+      <tr>
+          <td>10. It will have you create an account and/or login.  Do it.  Once you do, it should show something like this:</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image11.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image11.jpg, /posts/digital-nomad-vpn-setup/image11.jpg 1.5x, /posts/digital-nomad-vpn-setup/image11.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image11.jpg"
+        title="image 11" width="958" height="555" /></td>
+      </tr>
+      <tr>
+          <td>11.  Click somewhere outside of that popup on the web browser&rsquo;s screen and you will be greeted by this:</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image12.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image12.jpg, /posts/digital-nomad-vpn-setup/image12.jpg 1.5x, /posts/digital-nomad-vpn-setup/image12.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image12.jpg"
+        title="image 12" width="1491" height="974" /></td>
+      </tr>
+      <tr>
+          <td>12.  You will be clicking on the toggle switches for both &ldquo;Enable Remote SSH&rdquo; and &ldquo;Enable Remote Web Access&rdquo; and then click Apply.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image13.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image13.jpg, /posts/digital-nomad-vpn-setup/image13.jpg 1.5x, /posts/digital-nomad-vpn-setup/image13.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image13.jpg"
+        title="image 13" width="1453" height="870" /></td>
+      </tr>
+      <tr>
+          <td>13.  Oh, I forgot to tell you what GoodCloud is.  It is simple.  It is a service that allows you to access your various equipment via the web even if your VPN is not connect.  Why is that important?  If your VPN goes down for any reason, you can use a web browser on another piece of equipment to troubleshoot.</td>
+          <td>You don&rsquo;t want to have problems back home and have no way to fix it if you are someone on a beach.</td>
+      </tr>
+      <tr>
+          <td>14.  It is now time to setup the VPN server.  Click on VPN on the left side of the screen. It will bring up this dropdown. Select &ldquo;WireGuard Server&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image14.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image14.jpg, /posts/digital-nomad-vpn-setup/image14.jpg 1.5x, /posts/digital-nomad-vpn-setup/image14.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image14.jpg"
+        title="image 14" width="479" height="657" /></td>
+      </tr>
+      <tr>
+          <td>15. You will see this screen.  Click on &ldquo;Generate Configuration&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image15.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image15.jpg, /posts/digital-nomad-vpn-setup/image15.jpg 1.5x, /posts/digital-nomad-vpn-setup/image15.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image15.jpg"
+        title="image 15" width="1525" height="978" /></td>
+      </tr>
+      <tr>
+          <td>16. You will see this screen.  Click on &ldquo;Start&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image16.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image16.jpg, /posts/digital-nomad-vpn-setup/image16.jpg 1.5x, /posts/digital-nomad-vpn-setup/image16.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image16.jpg"
+        title="image 16" width="1514" height="1199" /></td>
+      </tr>
+      <tr>
+          <td>17.  Congratulations!  You have setup a WireGuard VPN server! You are not done yet but this is a milestone to be proud of! You still have some work to do but it is a milestone!  Be proud of yourself for a few seconds and then click on the &ldquo;profiles&rdquo; tab underneath the light blue window.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image17.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image17.jpg, /posts/digital-nomad-vpn-setup/image17.jpg 1.5x, /posts/digital-nomad-vpn-setup/image17.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image17.jpg"
+        title="image 17" width="1494" height="1003" /></td>
+      </tr>
+      <tr>
+          <td>18.  You will see this screen.  Click on the blue &ldquo;+ Add&rdquo; button on the bottom right.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image18.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image18.jpg, /posts/digital-nomad-vpn-setup/image18.jpg 1.5x, /posts/digital-nomad-vpn-setup/image18.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image18.jpg"
+        title="image 18" width="1455" height="963" /></td>
+      </tr>
+      <tr>
+          <td>19. Okay, now it is time to name your client connection.  You can call it &ldquo;puff puff pass&rdquo; or &ldquo;On the beach&rdquo; or something like that but I would keep it simple and name it something that you can consistentially remember about its location or some other thing that will be.  This naming convention will be something you will want to be able to figure out in the future when you are stoned, drunk, or both!  In this case, I am going to call it &ldquo;client&rdquo; just to make it easy to follow.  Don&rsquo;t be an idiot and call it &ldquo;ICE Kidnap Team #3&rdquo; or something like that because it might be hard to figure out in the future.  After naming it, hit &ldquo;Apply&rdquo;</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image19.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image19.jpg, /posts/digital-nomad-vpn-setup/image19.jpg 1.5x, /posts/digital-nomad-vpn-setup/image19.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image19.jpg"
+        title="image 19" width="1311" height="567" /></td>
+      </tr>
+      <tr>
+          <td>20. You should see something like this.  Click &ldquo;Download&rdquo; at the bottom and save it to a place you can find.  I suggest you put it in a folder structure that you can easily find and know what in the hell it is.  I will save mine to the Downloads/VPN Profiles Directory that I created.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image20.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image20.jpg, /posts/digital-nomad-vpn-setup/image20.jpg 1.5x, /posts/digital-nomad-vpn-setup/image20.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image20.jpg"
+        title="image 20" width="1269" height="1143" /></td>
+      </tr>
+      <tr>
+          <td>That&rsquo;s it!  You are done with setting up the Server!  Congratulations!</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h1 id="vpn-client---the-device-that-you-take-with-you">VPN Client - the device that you take with you.</h1>
+<p>With the client, you are going to be following the same set of directions 1-13 as you did above.  Let&rsquo;s not remake the wheel here.  Just go up to the previous section of the server setup and do 1-13.  What?  You don&rsquo;t want to do that?  TOO BAD!  I am not going to duplicate all that stuff again!  Follow those directions and when you get to step 14, continue from there with these directions.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>14.  Click on &ldquo;WireGuard Client&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image14.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image14.jpg, /posts/digital-nomad-vpn-setup/image14.jpg 1.5x, /posts/digital-nomad-vpn-setup/image14.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image14.jpg"
+        title="image 14" width="479" height="657" /></td>
+      </tr>
+      <tr>
+          <td>15. You will see this.  Scroll down until you see &ldquo;+Add Manually&rdquo;.  Click on that.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image21.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image21.jpg, /posts/digital-nomad-vpn-setup/image21.jpg 1.5x, /posts/digital-nomad-vpn-setup/image21.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image21.jpg"
+        title="image 21" width="1287" height="1014" /></td>
+      </tr>
+      <tr>
+          <td>16.  You will see this screen.  You will click on &ldquo;Select a file to upload or drag it here&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image22.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image22.jpg, /posts/digital-nomad-vpn-setup/image22.jpg 1.5x, /posts/digital-nomad-vpn-setup/image22.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image22.jpg"
+        title="image 22" width="1485" height="807" /></td>
+      </tr>
+      <tr>
+          <td>17. Navigate to the directory where you saved the config file in step 20 of the server.  Select it and click &ldquo;open&rdquo;</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image23.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image23.jpg, /posts/digital-nomad-vpn-setup/image23.jpg 1.5x, /posts/digital-nomad-vpn-setup/image23.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image23.jpg"
+        title="image 23" width="1575" height="859" /></td>
+      </tr>
+      <tr>
+          <td>18. At this screen you will click &ldquo;Apply&rdquo; on the bottom.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image24.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image24.jpg, /posts/digital-nomad-vpn-setup/image24.jpg 1.5x, /posts/digital-nomad-vpn-setup/image24.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image24.jpg"
+        title="image 24" width="1433" height="1084" /></td>
+      </tr>
+      <tr>
+          <td>19.  If all goes as it should, you should see something like this.  The &ldquo;client&rdquo; name will be replaced by whatever you called the VPN client&rsquo;s name in Step 20 of the server setup.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image25.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image25.jpg, /posts/digital-nomad-vpn-setup/image25.jpg 1.5x, /posts/digital-nomad-vpn-setup/image25.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image25.jpg"
+        title="image 25" width="1003" height="634" /></td>
+      </tr>
+      <tr>
+          <td>20.  Do you see the &hellip; on the right side of the screen next to where it has a # combination that ends in :51280?  Click on them. You will see this. If you do, click &ldquo;start&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image26.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image26.jpg, /posts/digital-nomad-vpn-setup/image26.jpg 1.5x, /posts/digital-nomad-vpn-setup/image26.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image26.jpg"
+        title="image 26" width="267" height="249" /></td>
+      </tr>
+      <tr>
+          <td>21. It will come back to this screen.  See the blue dot to the left of &ldquo;client&rdquo;?  That means it is connected.  It will start out at a yellow dot but change when it is connected.  That means that you did everything correct so far!  Congratulations!  Having said that, there is one VERY import part that still needs to be done.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image27.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image27.jpg, /posts/digital-nomad-vpn-setup/image27.jpg 1.5x, /posts/digital-nomad-vpn-setup/image27.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image27.jpg"
+        title="image 27" width="909" height="438" /></td>
+      </tr>
+      <tr>
+          <td>22.  On the left side of the screen you should see this:  Click on &ldquo;VPN Dashboard&rdquo;.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image28.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image28.jpg, /posts/digital-nomad-vpn-setup/image28.jpg 1.5x, /posts/digital-nomad-vpn-setup/image28.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image28.jpg"
+        title="image 28" width="490" height="483" /></td>
+      </tr>
+      <tr>
+          <td>23.  This is the MOST important screen if you want to hide your location.  Do you see that toggle switch on the right side that  says &ldquo;off&rdquo;?  That is the on/off button for the kill switch.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image29.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image29.jpg, /posts/digital-nomad-vpn-setup/image29.jpg 1.5x, /posts/digital-nomad-vpn-setup/image29.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image29.jpg"
+        title="image 29" width="1500" height="733" /></td>
+      </tr>
+      <tr>
+          <td>24.   The &ldquo;kill switch&rdquo; makes it so that NO traffic will go from connected equipment to anywhere if the VPN connection drops.  Sure, you might be disconnected from a VoIP session or video call, whatever, but that means that you are being protected from your location being found.  It isn&rsquo;t foolproof but it is the best that is available.  MAKE SURE IT IS ON like it is on this picture.</td>
+          <td><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/digital-nomad-vpn-setup/image30.jpg"
+        data-srcset="/posts/digital-nomad-vpn-setup/image30.jpg, /posts/digital-nomad-vpn-setup/image30.jpg 1.5x, /posts/digital-nomad-vpn-setup/image30.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/digital-nomad-vpn-setup/image30.jpg"
+        title="image 30" width="1496" height="605" /></td>
+      </tr>
+  </tbody>
+</table>
+<p>There you have it.  You have a VPN server and client now setup.  I will be doing a new post soon on how you can test the VPN setup but this is it for tonight.  I didn&rsquo;t sleep enough at work today to be able to stay awake long enough to do the rest tonight.</p>
+<p>NOTE:  You are going to need to leave the server plugged into the power and connected to your ISP&rsquo;s equipment while gone.  You will also need to pay your ISP&rsquo;s bill while you are away.  It could be hooked up at a friend, relative, or parent&rsquo;s house but it needs to be connected somewhere.  I know, you might have to bribe someone to let you do it but hell, that is part of the fun!</p>
+<p>NOTE 2:  You might want to be sure that whomever you are abusing&hellip;err&hellip;using for the VPN server should get as fast as an Internet package as possible at a reasonable cost.  Reasonable is whatever you think it is but it needs to be as quick as affordable.  You will also want to have them using either fiber or, if that is not possible, cable Internet service.  Speeds and latency are going to be critical for you going forward.  Fiber has the best speeds/latency usually.  Cable is the #2.  There are other ones out there but can open a huge can of worms that I don&rsquo;t want to deal with explaining tonight.</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2025-11-24</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://localhost:1313/posts/digital-nomad-vpn-setup/" data-title="Digital Nomad VPN Setup" data-hashtags="Digital Nomading,Tech Tips"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://localhost:1313/posts/digital-nomad-vpn-setup/" data-hashtag="Digital Nomading"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://localhost:1313/posts/digital-nomad-vpn-setup/" data-title="Digital Nomad VPN Setup"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://localhost:1313/posts/digital-nomad-vpn-setup/" data-title="Digital Nomad VPN Setup"><i data-svg-src="/lib/simple-icons/icons/line.min.svg" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="http://localhost:1313/posts/digital-nomad-vpn-setup/" data-title="Digital Nomad VPN Setup"><i class="fab fa-weibo fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/digital-nomading/">Digital Nomading</a>,&nbsp;<a href="/tags/tech-tips/">Tech Tips</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/becoming-a-digital-nomad/" class="prev" rel="prev" title="Becoming a Digital Nomad"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Becoming a Digital Nomad</a>
+            <a href="/posts/what-is-a-digital-nomad-vpn/" class="next" rel="next" title="What is a Digital Nomad VPN?">What is a Digital Nomad VPN?<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.152.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.3.0"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2025</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/about/" target="_blank">ZDevilInside</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

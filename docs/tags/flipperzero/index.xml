@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FlipperZero on The Expat Tech</title>
-    <link>https://www.theexpattech.com/tags/flipperzero/</link>
+    <link>http://localhost:1313/tags/flipperzero/</link>
     <description>Recent content in FlipperZero on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Nov 2025 14:35:49 -0600</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/tags/flipperzero/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flipperzero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resetting a Flipper Zero</title>
-      <link>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</link>
+      <link>http://localhost:1313/posts/resetting-a-flipper-zero/</link>
       <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
+      <guid>http://localhost:1313/posts/resetting-a-flipper-zero/</guid>
       <description>&lt;p&gt;A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&amp;rsquo;t work, they decided to do a &amp;ldquo;hard reset&amp;rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.&lt;/p&gt;&#xA;&lt;p&gt;Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.&lt;/p&gt;</description>
     </item>
   </channel>
