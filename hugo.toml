@@ -1,4 +1,4 @@
-baseURL = "https://zdevilinside.github.io/TheExpatTech/"
+baseURL = "https://theexpattech.com/"
 languageCode = "en-us"
 title = "The Expat Tech"
 publishDir = "docs"
@@ -40,7 +40,11 @@ publishDir = "docs"
   desktopMode = "fixed"
   mobileMode  = "auto"
 
-# Removed [params.header.title] block to avoid duplicate site title
+  [params.header.title]
+    name = "The Expat Tech"
+    type = "text"   # options: "text" or "img"
+    url  = "/"      # clicking the title takes you home
+
 
 [params.home.profile]
   enable = true
@@ -53,4 +57,6 @@ publishDir = "docs"
   link = "/about/"
 
 [params]
-  defaultTheme = "dark"
+  # Theme settings
+  defaultTheme = "dark"   # options: "light", "dark", "auto"
+  themeToggle = true      # show toggle button in header
