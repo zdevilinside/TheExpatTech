@@ -7,6 +7,8 @@ tags: ["Digital Nomading", "Tech Tips"]
 image: "image1.jpg"
 description: "Setting up your Digital Nomad VPN"
 draft: false
+slug: "digital-nomad-vpn-setup"
+
 ---
 # Top Secret - Unauthorized personnel will be shot if they continue to read this post.....
 
