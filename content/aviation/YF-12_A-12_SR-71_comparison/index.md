@@ -29,6 +29,8 @@ The A-12 was able to reach Mach 3.29/2,171 mph (3,494 kph) and an altitude of 96
 
 All A-12s were owned by the CIA and flown by 11 "sheep dipped" former USAF pilots.  There were a total of 18 A-12 pilots between the CIA and Lockheed test pilots.  They flew nearly 2,900 flights and more than 5,000 hours.  29 were operational missions over North Vietnam, North Korea, and Laos/Cambodia between May 31, 1967 and May 8, 1968.  These missions were taken over by the USAF in 1968 using their SR-71 in the A-12's place.  The 7 A-12s were put into non-flyable storage for over 20 years.
 
+ ![image 7](a-12damage.jpg)
+
 # YF-12  
 
 The YF-12 was a Mach 3+, high-altitude interceptor prototype.  It was developed in the late 1950s and early 1960s as a potential preplacement for the F-106 Delta Dart.  It was based off the A-12.  It used the Hughes AN/ASG-18 fire-control radar and could be armed with AIM-47 Falcon air-to-air missiles.  The funding that would have been used to put it into operating use was due to the Vietnam war and other military priorities.  According to Ben Rich's *Shunk Works*, the YF-12 was not funded because there would have been a need for fewer aircraft to defend the North American continent and American generals didn't want to have smaller commands as a result of this.  
