@@ -2,13 +2,17 @@
 title: "Qualifying for Legal Residency in Mexico"
 date: 2025-11-27
 authors: ["ZDevilInside"]
-image: "mexico.jpg"
+image: "card.jpg"
 categories: ["Living In Mexico"]
 tags: ["Living In Mexico"]
 description: "It isn't as easy as it used to be."
 ---
 
-Since 2016, Mexico has increased the financial requirements to qualify for residency visas significantly.  They used the country's Daily Minimum Wage to calculate the minimum monthly incomes for foreigners that wish to live legally in Mexico as a temporary or permanent resident.  
+![image 1](card.jpg)  
+
+So you want to become a resident of Mexico but don't know where to start?  Well, it isn't as easy as just moving to Mexico and you are a resident.  You have to follow specific steps to become one.  If you are thinking of just getting a FMM (AKA Tourist Visa) and live in Mexico on it, those days are rapidly coming to an end.  INM (Mexican Immigration) has now networked their systems so that they can see who is trying to game the system and live in Mexico without follow the legal process.  
+
+Anyhow, one of the largest sticking points for Americans wanting to live in Mexico full-time is the income requirements.  Since 2016, Mexico has increased the financial requirements to qualify for residency visas significantly.  They used the country's Daily Minimum Wage to calculate the minimum monthly incomes for foreigners that wish to live legally in Mexico as a temporary or permanent resident.  
 
 Mexico's daily minimum wage has gone up over 3x what it was since 2016.  That means that monthly incomes or savings/investments have increased along with those increases.  The minimum wage in Mexico was 73 pesos/day in 2016.  It is now 280 pesos a day.  
 
