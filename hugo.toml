@@ -40,12 +40,7 @@ publishDir = "docs"
   desktopMode = "fixed"
   mobileMode  = "auto"
 
-  [params.header.title]
-    logo   = ""                # optional logo path, e.g. "images/logo.png"
-    name   = "The Expat Tech"
-    pre    = ""
-    post   = ""
-    typeit = false
+# Removed [params.header.title] block to avoid duplicate site title
 
 [params.home.profile]
   enable = true
