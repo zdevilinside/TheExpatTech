@@ -6,6 +6,7 @@ categories: ["Aviation"]
 tags: ["SR-71"]
 image: "sr-71.jpg"
 description: "Amazing facts about US military aviation over the years."
+slug: "facts-you-may-not-know-about-us-aviation"
 ---
 
 Throughout the 20th century, the United States has had many innovations. From Orville and Wilbur Wright's first flight at Kitty Hawk, NC to today, there have been numerous events that would not have been thought possible the generation before it.  
