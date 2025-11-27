@@ -3,9 +3,28 @@
         <title>The Expat Tech</title>
         <link>https://www.theexpattech.com/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://www.theexpattech.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Happy Thanksgiving!</title>
+    <link>https://www.theexpattech.com/posts/posts/misc/happy-thanksgiving/</link>
+    <pubDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>ZDevilInside</author>
+    <guid>https://www.theexpattech.com/posts/posts/misc/happy-thanksgiving/</guid>
+    <description><![CDATA[<p>I want to wish you all a Happy Thanksgiving.</p>
+<p>Having said that, I want to share a fun piece of trivia.</p>
+<p>Did you know that the &ldquo;star&rdquo; of Thanksgiving dinner, the turkey, is actually Mexican? If you think the turkey is American, you’re mistaken. The turkey is an immigrant. Mexico&rsquo;s Aztecs domesticated the turkey over 2,000 years ago. It was called the huexolotl. They didn’t eat it the way we do today—with gravy and stuffing. The Aztecs ate it with mole.</p>]]></description>
+</item>
+<item>
+    <title>Qualifying for Legal Residency in Mexico</title>
+    <link>https://www.theexpattech.com/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</link>
+    <pubDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>ZDevilInside</author>
+    <guid>https://www.theexpattech.com/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</guid>
+    <description><![CDATA[<p>Since 2016, Mexico has increased the financial requirements to qualify for residency visas significantly.  They used the country&rsquo;s Daily Minimum Wage to calculate the minimum monthly incomes for foreigners that wish to live legally in Mexico as a temporary or permanent resident.</p>
+<p>Mexico&rsquo;s daily minimum wage has gone up over 3x what it was since 2016.  That means that monthly incomes or savings/investments have increased along with those increases.  The minimum wage in Mexico was 73 pesos/day in 2016.  It is now 280 pesos a day.</p>]]></description>
+</item>
+<item>
     <title>It is time to pay annual bonuses</title>
     <link>https://www.theexpattech.com/posts/posts/living-in-mexico/it-is-time-to-pay-annual-bonuses/</link>
     <pubDate>Wed, 26 Nov 2025 00:00:00 &#43;0000</pubDate>
@@ -31,30 +50,8 @@ It is that time of the year again where workers are given their yearly bonuses. 
     <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
     <guid>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
-    <description><![CDATA[<p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>
-<table>
-  <thead>
-      <tr>
-          <th></th>
-          <th></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>1.  Remove the microSD card from the device.</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>2.  Hold the UP and BACK buttons for 30 seconds.</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>3.  When it asks you if you want to reset, push the right button to confirm that you want to reset it.</td>
-          <td>:)</td>
-      </tr>
-  </tbody>
-</table>
-<p>If that doesn&rsquo;t work, you will need to run qFlipper.</p>]]></description>
+    <description><![CDATA[<p>A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&rsquo;t work, they decided to do a &ldquo;hard reset&rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.</p>
+<p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>]]></description>
 </item>
 <item>
     <title>What is a Digital Nomad VPN?</title>
@@ -87,18 +84,9 @@ It is that time of the year again where workers are given their yearly bonuses. 
 <p>Over the years, I have noticed that a lot of people seem to have bought into the marketing of Apple and believe that the Mac is the best computer. Apple has won the marketing game just like Bose has done with speakers. Audiophiles say that if you want no highs or lows, you buy Bose!  Most people just don&rsquo;t seem to get that while Apple does provide a good product, they are overpriced for what they provide and it isn&rsquo;t close to the value most Windows-based computers are. Yes, you can find value with Linux but most people are more comfortable with what they already have been using for years &ndash; Windows.</p>]]></description>
 </item>
 <item>
-    <title>Network Troubleshooting Scripts</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</link>
-    <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-    <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</guid>
-    <description><![CDATA[<p>I recently had problems with my Digital Nomad VPN setup.  I went to the GL.iNet Discord and asked for help but they wanted results from various tests to be able to help me.  I provided those responses but felt there had to be a better way.
-I saw these types of questions asked all the time in the tech support sub of GL.iNet&rsquo;s Discourd.  I found that there were very few options out there that allowed you to find a single, simple source with logs to troubleshoot a VPN network and decided to create my own.  With the assistance of &ldquo;Wicked Yoda&rdquo;, I created these and shared them.  Wicked has taken on the torch to building these troubleshooting tools.  You can find them here:  <a href="https://github.com/wickedyoda/Network-Diag-Utilities" target="_blank" rel="noopener noreffer ">https://github.com/wickedyoda/Network-Diag-Utilities</a></p>]]></description>
-</item>
-<item>
     <title>Archangel</title>
     <link>https://www.theexpattech.com/posts/posts/aviation/archangel/</link>
-    <pubDate>Sat, 01 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <pubDate>Sun, 16 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
     <guid>https://www.theexpattech.com/posts/posts/aviation/archangel/</guid>
     <description><![CDATA[<p>Kelly Johnson&rsquo;s drawings of the Archangel design alonside Convair&rsquo;s drawings of the Fish series.</p>
@@ -115,18 +103,9 @@ Corvair Kingfish design
 </p>]]></description>
 </item>
 <item>
-    <title>Becoming a Digital Nomad</title>
-    <link>https://www.theexpattech.com/posts/posts/digital-nomading/becoming-a-digital-nomad/</link>
-    <pubDate>Sat, 01 Nov 2025 00:00:00 &#43;0000</pubDate>
-    <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/digital-nomading/becoming-a-digital-nomad/</guid>
-    <description><![CDATA[<p>You are feeling wunderlust.  Your job is online so you feel that you can start working from anywhere.  You decide to give it a go.  You look online at the rules needed to travel the world while working online.  That is how you get your start.  This site will explain <em>my</em> path down this rabbit hole.</p>
-<p>In my case, it came about as a necessity.  I was on my way to graduate school in Germany when that was cut short due to illness.  I looked around and did research online for the best places to go and live for 6 months before I gave another shot at going to Germany.</p>]]></description>
-</item>
-<item>
     <title>Facts you may not know about US aviation.</title>
     <link>https://www.theexpattech.com/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</link>
-    <pubDate>Sat, 01 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <pubDate>Wed, 12 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
     <guid>https://www.theexpattech.com/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</guid>
     <description><![CDATA[<p>Throughout the 20th century, the United States has had many innovations. From Orville and Wilbur Wright&rsquo;s first flight at Kitty Hawk, NC to today, there have been numerous events that would not have been thought possible the generation before it.</p>

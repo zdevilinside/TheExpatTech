@@ -1,6 +1,6 @@
 ---
 title: "The Amazing SR-71"
-date: 2025-11-01
+date: 2025-11-03
 authors: ["ZDevilInside"]
 categories: ["Aviation"]
 tags: ["SR-71"]

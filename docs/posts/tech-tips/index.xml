@@ -19,30 +19,8 @@
     <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
     <guid>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
-    <description><![CDATA[<p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>
-<table>
-  <thead>
-      <tr>
-          <th></th>
-          <th></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>1.  Remove the microSD card from the device.</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>2.  Hold the UP and BACK buttons for 30 seconds.</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>3.  When it asks you if you want to reset, push the right button to confirm that you want to reset it.</td>
-          <td>:)</td>
-      </tr>
-  </tbody>
-</table>
-<p>If that doesn&rsquo;t work, you will need to run qFlipper.</p>]]></description>
+    <description><![CDATA[<p>A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&rsquo;t work, they decided to do a &ldquo;hard reset&rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.</p>
+<p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>]]></description>
 </item>
 <item>
     <title>Build a Mac OS 15 Sequoia VM?</title>
@@ -57,7 +35,7 @@
 <item>
     <title>Network Troubleshooting Scripts</title>
     <link>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</link>
-    <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
+    <pubDate>Wed, 01 Oct 2025 19:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
     <guid>https://www.theexpattech.com/posts/posts/tech-tips/network-troubleshooting-scripts/</guid>
     <description><![CDATA[<p>I recently had problems with my Digital Nomad VPN setup.  I went to the GL.iNet Discord and asked for help but they wanted results from various tests to be able to help me.  I provided those responses but felt there had to be a better way.

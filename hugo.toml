@@ -15,26 +15,32 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "aviation"
     name = "Aviation"
-    url = "/posts/aviation/"
+    url = "/categories/aviation/"
     weight = 30
 
   [[menu.main]]
     identifier = "tech-tips"
     name = "Tech Tips"
-    url = "/posts/tech-tips/"
+    url = "/categories/tech-tips/"
     weight = 40
 
   [[menu.main]]
     identifier = "digital-nomading"
     name = "Digital Nomading"
-    url = "/posts/digital-nomading/"
+    url = "/categories/digital-nomading/"
     weight = 50
     
   [[menu.main]]
     identifier = "living-in-mexico"
     name = "Living In Mexico"
-    url = "/posts/living-in-mexico/"
+    url = "/categories/living-in-mexico/"
     weight = 60
+  
+  [[menu.main]]
+    identifier = "misc"
+    name = "Misc"
+    url = "/categories/misc/"
+    weight = 70 
 
 [params.header]
   desktopMode = "fixed"
@@ -44,7 +50,6 @@ publishDir = "docs"
     name = "The Expat Tech"
     type = "text"   # options: "text" or "img"
     url  = "/"      # clicking the title takes you home
-
 
 [params.home.profile]
   enable = true

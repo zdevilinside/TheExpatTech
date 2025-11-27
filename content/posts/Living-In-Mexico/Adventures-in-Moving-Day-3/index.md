@@ -1,11 +1,11 @@
 ---
-title: "The Adventures in Moving - Day 3"
+title: "The Misadventures in Moving - Day 3"
 date: 2015-08-03
 authors: ["ZDevilInside"]
-categories: ["MovingToMexico"]
-tags: ["MovingToMexico"]
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
 image: "mexico.jpg"
-description: "Adventures in Moving - Day 3"
+description: "Misadventures in Moving - Day 3"
 ---
 The next morning, I get up, get on my laptop and contact a friend from boarding school that lives in Mexico City.  Pedro gives me some tips for the rest of my trip into Mexico - always tip people 10 pesos or so if they fill your gas tank (Mexico is a "full service" country where you cannot fill your own gas tank!), and gives us the name of the place to go to exchange our US dollars for pesos.  Dipshit Farmers had gone to Mexico before but they took US dollars and we thought it was that way still.  NOPE!  Mexico implemented new rules that was intended to stop money-laundering.  Anyhow, Pedro tells us to go to a "casa de cambio" to get that done.  We find one on the map and program it into my wife's GPS.
 

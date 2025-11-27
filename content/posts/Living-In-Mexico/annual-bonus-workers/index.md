@@ -2,9 +2,9 @@
 title: "It is time to pay annual bonuses"
 date: 2025-11-26
 authors: ["ZDevilInside"]
-categories: ["MovingToMexico"]
 image: "image1.jpg"
-tags: ["MovingToMexico"]
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
 description: "Annual bonus calculations"
 ---
   ![image 1](image1.jpg)

@@ -1,11 +1,11 @@
 ---
-title: "The Adventures in Moving - Day 2"
+title: "The Misadventures in Moving - Day 2"
 date: 2015-08-02
 authors: ["ZDevilInside"]
 image: "mexico.jpg"
-categories: ["MovingToMexico"]
-tags: ["MovingToMexico"]
-description: "Adventures in Moving - Day 2"
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
+description: "Misadventures in Moving - Day 2"
 ---
 We wake up the next morning and it is late - 11 AM or so.  We wanted to sleep and be on the road by 9am but that just didn't happen.  I sneak the cats back into the van and we start on the move once more.
 

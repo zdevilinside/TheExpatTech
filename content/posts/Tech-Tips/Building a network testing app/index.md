@@ -1,6 +1,6 @@
 ---
 title: "Network Troubleshooting Scripts"
-date: 2025-11-18T19:35:49-06:00
+date: 2025-10-01T19:35:49-06:00
 authors: ["ZDevilInside"]
 draft: false
 categories: ["Tech Tips"]

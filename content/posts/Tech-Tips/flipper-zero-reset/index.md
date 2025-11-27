@@ -9,6 +9,9 @@ draft: false
 image: "image1.jpg"      # filename of bundled image (placed next to index.md)
 ---
 
+A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn't work, they decided to do a "hard reset" of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.
+
+
 Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.
 
  | |

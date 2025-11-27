@@ -1,6 +1,6 @@
 ---
 title: "Archangel"
-date: 2025-11-01
+date: 2025-11-16
 authors: ["ZDevilInside"]
 categories: ["Aviation"]
 tags: ["SR-71"]

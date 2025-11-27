@@ -1,10 +1,10 @@
 ---
 title: "Qualifying for Legal Residency in Mexico"
-date: 2015-08-01
+date: 2025-11-27
 authors: ["ZDevilInside"]
-categories: ["MovingToMexico"]
 image: "mexico.jpg"
-tags: ["MovingToMexico"]
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
 description: "It isn't as easy as it used to be."
 ---
 
@@ -49,3 +49,5 @@ Residency in Mexico using a capital investment
 - You must make a capital investment of at least $5,580,000 pesos; and
 - The capital must be invested in one of a prescribed sets of ways; and
 - these applications are considerably more complex than applications that are made using one of the 3 other economic solvency routes.
+
+Each year, Mexico increases these requirements.  If you are considering taking the plunge and are barely going to make the requirements, do so because after January 1, those requirements are going up and you may no longer qualify.

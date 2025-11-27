@@ -1,11 +1,11 @@
 ---
-title: "The Adventures in Moving - Day 1"
+title: "The Misadventures in Moving - Day 1"
 date: 2015-08-01
 authors: ["ZDevilInside"]
-categories: ["MovingToMexico"]
 image: "mexico.jpg"
-tags: ["MovingToMexico"]
-description: "Adventures in Moving - Day 1"
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
+description: "Misadventures in Moving - Day 1"
 ---
 Moving to Mexico was a rushed endeavor for us.  We were moving down to Mexico in a used minivan that we bought just for the move.  You cannot rent a U-Haul to move across international borders.  The van we bought has cheap and the plan was to get to Mexico and then just get rid of it.  That turns out not to be something you can do.  
 

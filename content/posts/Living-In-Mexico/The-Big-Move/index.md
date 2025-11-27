@@ -1,9 +1,9 @@
 ---
 title: "How and why I moved to Mexico?"
-date: 2025-11-01
+date: 2015-07-01
 authors: ["ZDevilInside"]
-categories: ["MovingToMexico"]
-tags: ["MovingToMexico"]
+categories: ["Living In Mexico"]
+tags: ["Living In Mexico"]
 image: "mexico.jpg"
 description: "How and why did I end up in mexico?"
 ---
