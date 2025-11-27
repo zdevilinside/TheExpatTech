@@ -13,4 +13,4 @@ I saw these types of questions asked all the time in the tech support sub of GL.
 
 If you want to see my original scripts, they can be accessed here:  https://github.com/zdevilinside/network_testing_scripts/tree/main
 
-![image 1](/kittentechs.jpeg) 
+{{< figure src="kittentechs.jpeg" alt="image 1" >}}

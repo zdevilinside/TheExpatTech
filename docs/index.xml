@@ -1,64 +1,64 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>The Expat Tech</title>
-        <link>https://www.theexpattech.com/</link>
+        <link>http://localhost:1313/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="https://www.theexpattech.com/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Happy Thanksgiving!</title>
-    <link>https://www.theexpattech.com/posts/posts/misc/happy-thanksgiving/</link>
+    <link>http://localhost:1313/posts/posts/misc/happy-thanksgiving/</link>
     <pubDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/misc/happy-thanksgiving/</guid>
+    <guid>http://localhost:1313/posts/posts/misc/happy-thanksgiving/</guid>
     <description><![CDATA[<p>I want to wish you all a Happy Thanksgiving.</p>
 <p>Having said that, I want to share a fun piece of trivia.</p>
 <p>Did you know that the &ldquo;star&rdquo; of Thanksgiving dinner, the turkey, is actually Mexican? If you think the turkey is American, you’re mistaken. The turkey is an immigrant. Mexico&rsquo;s Aztecs domesticated the turkey over 2,000 years ago. It was called the huexolotl. They didn’t eat it the way we do today—with gravy and stuffing. The Aztecs ate it with mole.</p>]]></description>
 </item>
 <item>
     <title>Qualifying for Legal Residency in Mexico</title>
-    <link>https://www.theexpattech.com/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</link>
+    <link>http://localhost:1313/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</link>
     <pubDate>Thu, 27 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</guid>
+    <guid>http://localhost:1313/posts/posts/living-in-mexico/qualifying-for-legal-residency-in-mexico/</guid>
     <description><![CDATA[<p></p>
 <p>So you want to become a resident of Mexico but don&rsquo;t know where to start?  Well, it isn&rsquo;t as easy as just moving to Mexico and you are a resident.  You have to follow specific steps to become one.  If you are thinking of just getting a FMM (AKA Tourist Visa) and live in Mexico on it, those days are rapidly coming to an end.  INM (Mexican Immigration) has now networked their systems so that they can see who is trying to game the system and live in Mexico without follow the legal process.</p>]]></description>
 </item>
 <item>
     <title>It is time to pay annual bonuses</title>
-    <link>https://www.theexpattech.com/posts/posts/living-in-mexico/it-is-time-to-pay-annual-bonuses/</link>
+    <link>http://localhost:1313/posts/posts/living-in-mexico/it-is-time-to-pay-annual-bonuses/</link>
     <pubDate>Wed, 26 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/living-in-mexico/it-is-time-to-pay-annual-bonuses/</guid>
+    <guid>http://localhost:1313/posts/posts/living-in-mexico/it-is-time-to-pay-annual-bonuses/</guid>
     <description><![CDATA[<p>
 It is that time of the year again where workers are given their yearly bonuses.  This is NOT an optional thing either.  Mexico&rsquo;s previous President Andres Manuel Lopez Obrador (AMLO) completely redid the Mexico Ley de Trabajo and this is what it says now:</p>
 <p><em>Article 87.- Workers will have the right to an annual bonus that must be paid before the twentieth of December, equivalent to at least fifteen days of salary. Those who have not completed the year of service, regardless of whether they are working or not on the date of settlement of the bonus, will have the right to be paid the proportional part of it, according to the time they have worked, whatever this may be.</em></p>]]></description>
 </item>
 <item>
     <title>GL.iNet Beryl AX review</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/gl.inet-beryl-ax-review/</link>
+    <link>http://localhost:1313/posts/posts/tech-tips/gl.inet-beryl-ax-review/</link>
     <pubDate>Tue, 25 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/gl.inet-beryl-ax-review/</guid>
+    <guid>http://localhost:1313/posts/posts/tech-tips/gl.inet-beryl-ax-review/</guid>
     <description><![CDATA[<h1 id="-glinet-beryl-ax-gl-mt3000-review">🌐 GL.iNet Beryl AX (GL-MT3000) Review</h1>
 <p></p>
 <p>I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &ldquo;capture portal&rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.</p>]]></description>
 </item>
 <item>
     <title>Resetting a Flipper Zero</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</link>
+    <link>http://localhost:1313/posts/posts/tech-tips/resetting-a-flipper-zero/</link>
     <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
+    <guid>http://localhost:1313/posts/posts/tech-tips/resetting-a-flipper-zero/</guid>
     <description><![CDATA[<p>A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&rsquo;t work, they decided to do a &ldquo;hard reset&rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.</p>
 <p>Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.</p>]]></description>
 </item>
 <item>
     <title>What is a Digital Nomad VPN?</title>
-    <link>https://www.theexpattech.com/posts/posts/digital-nomading/what-is-a-digital-nomad-vpn/</link>
+    <link>http://localhost:1313/posts/posts/digital-nomading/what-is-a-digital-nomad-vpn/</link>
     <pubDate>Sun, 23 Nov 2025 19:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/digital-nomading/what-is-a-digital-nomad-vpn/</guid>
+    <guid>http://localhost:1313/posts/posts/digital-nomading/what-is-a-digital-nomad-vpn/</guid>
     <description><![CDATA[<h1 id="digital-nomad-vpn-guide">Digital Nomad VPN Guide</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Let&rsquo;s start this off with a few explanations so you can better understand some basic concepts.</p>
@@ -66,29 +66,29 @@ It is that time of the year again where workers are given their yearly bonuses. 
 </item>
 <item>
     <title>Digital Nomad VPN Setup</title>
-    <link>https://www.theexpattech.com/posts/posts/digital-nomading/digital-nomad-vpn-setup/</link>
+    <link>http://localhost:1313/posts/posts/digital-nomading/digital-nomad-vpn-setup/</link>
     <pubDate>Mon, 24 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/digital-nomading/digital-nomad-vpn-setup/</guid>
+    <guid>http://localhost:1313/posts/posts/digital-nomading/digital-nomad-vpn-setup/</guid>
     <description><![CDATA[<h1 id="top-secret---unauthorized-personnel-will-be-shot-if-they-continue-to-read-this-post">Top Secret - Unauthorized personnel will be shot if they continue to read this post&hellip;..</h1>
 <p>Okay, you have made the decision.  You want to take a chance with your job and work from somewhere that you are not authorized.  You now need to set things up so that you can make it the least likely to get caught.  You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.</p>]]></description>
 </item>
 <item>
     <title>Build a Mac OS 15 Sequoia VM?</title>
-    <link>https://www.theexpattech.com/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
+    <link>http://localhost:1313/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
     <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
+    <guid>http://localhost:1313/posts/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
     <description><![CDATA[<h2 id="getting-started">Getting Started</h2>
 <p><strong>How to create a MacOS 15 Sequoia VM in VMware</strong></p>
 <p>Over the years, I have noticed that a lot of people seem to have bought into the marketing of Apple and believe that the Mac is the best computer. Apple has won the marketing game just like Bose has done with speakers. Audiophiles say that if you want no highs or lows, you buy Bose!  Most people just don&rsquo;t seem to get that while Apple does provide a good product, they are overpriced for what they provide and it isn&rsquo;t close to the value most Windows-based computers are. Yes, you can find value with Linux but most people are more comfortable with what they already have been using for years &ndash; Windows.</p>]]></description>
 </item>
 <item>
     <title>Archangel</title>
-    <link>https://www.theexpattech.com/posts/posts/aviation/archangel/</link>
+    <link>http://localhost:1313/posts/posts/aviation/archangel/</link>
     <pubDate>Sun, 16 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/aviation/archangel/</guid>
+    <guid>http://localhost:1313/posts/posts/aviation/archangel/</guid>
     <description><![CDATA[<p>Kelly Johnson&rsquo;s drawings of the Archangel design alonside Convair&rsquo;s drawings of the Fish series.</p>
 <p>
 The A-2 design
@@ -104,10 +104,10 @@ Corvair Kingfish design
 </item>
 <item>
     <title>Facts you may not know about US aviation.</title>
-    <link>https://www.theexpattech.com/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</link>
+    <link>http://localhost:1313/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</link>
     <pubDate>Wed, 12 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>ZDevilInside</author>
-    <guid>https://www.theexpattech.com/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</guid>
+    <guid>http://localhost:1313/posts/posts/aviation/facts-you-may-not-know-about-us-aviation/</guid>
     <description><![CDATA[<p>Throughout the 20th century, the United States has had many innovations. From Orville and Wilbur Wright&rsquo;s first flight at Kitty Hawk, NC to today, there have been numerous events that would not have been thought possible the generation before it.</p>
 <p>For me, I break down my favorite airplanes into 3 areas: World War II and before, the Cold War, and Modern Day. I know that is a small number of areas compared to the advances that aviation has undertaken during that period of time. I have to break it into those areas because I am starting to put up my website and want to generate as many stories as I can prior to that happening so there is content for everyone. Believe me when I say that this page will be undergoing ongoing updates and content additions.</p>]]></description>
 </item>
