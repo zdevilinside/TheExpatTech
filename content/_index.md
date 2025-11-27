@@ -17,7 +17,7 @@ Most of my VPN setups will use GL.iNet equipment for a simple reason: GL.iNet's 
 | | |
 |---|---|
 |**Adam**| https://thewirednomad.com|
-|**Wicked Yoda**|https://tree.twy4.us/@wickedyoda|
+|**Wicked Yoda**|https://www.wickedyoda.com|
 |**Zippyy**|https://techrelay.xyz/|
 
 ---
