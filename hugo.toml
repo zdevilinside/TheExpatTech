@@ -67,4 +67,5 @@ publishDir = "docs"
   themeToggle = true      # show toggle button in header
 
 [permalinks]
-posts = "/posts/:slug/"
+  posts = "/posts/:sections/:slug/"
+
