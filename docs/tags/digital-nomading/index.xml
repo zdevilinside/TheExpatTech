@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Nomading on The Expat Tech</title>
-    <link>https://zdevilinside.github.io/TheExpatTech/tags/digital-nomading/</link>
+    <link>http://localhost:1313/tags/digital-nomading/</link>
     <description>Recent content in Digital Nomading on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zdevilinside.github.io/TheExpatTech/tags/digital-nomading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/digital-nomading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GL.iNet Beryl AX review</title>
-      <link>https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/</link>
+      <link>http://localhost:1313/posts/tech-tips/beryl-ax-review/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/</guid>
-      <description>&lt;h1 id=&#34;-glinet-beryl-ax-gl-mt3000-review&#34;&gt;🌐 GL.iNet Beryl AX (GL-MT3000) Review&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;https://zdevilinside.github.io/TheExpatTech/svg/loading.min.svg&#34;&#xA;        data-src=&#34;https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        data-srcset=&#34;https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg, https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg 1.5x, https://zdevilinside.github.io/TheExpatTech/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/TheExpatTech/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        title=&#34;image 1&#34; width=&#34;1200&#34; height=&#34;1600&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&amp;rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &amp;ldquo;capture portal&amp;rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/tech-tips/beryl-ax-review/</guid>
+      <description>&lt;h1 id=&#34;-glinet-beryl-ax-gl-mt3000-review&#34;&gt;🌐 GL.iNet Beryl AX (GL-MT3000) Review&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;http://localhost:1313/svg/loading.min.svg&#34;&#xA;        data-src=&#34;http://localhost:1313/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        data-srcset=&#34;http://localhost:1313/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg, http://localhost:1313/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg 1.5x, http://localhost:1313/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/posts/tech-tips/beryl-ax-review/posts/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        title=&#34;image 1&#34; width=&#34;1200&#34; height=&#34;1600&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&amp;rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &amp;ldquo;capture portal&amp;rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Nomad VPN Setup</title>
-      <link>https://zdevilinside.github.io/TheExpatTech/posts/digital-nomading/digital-nomad-vpn-setup/</link>
+      <link>http://localhost:1313/posts/digital-nomading/digital-nomad-vpn-setup/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://zdevilinside.github.io/TheExpatTech/posts/digital-nomading/digital-nomad-vpn-setup/</guid>
+      <guid>http://localhost:1313/posts/digital-nomading/digital-nomad-vpn-setup/</guid>
       <description>&lt;h1 id=&#34;top-secret---unauthorized-personnel-will-be-shot-if-they-continue-to-read-this-post&#34;&gt;Top Secret - Unauthorized personnel will be shot if they continue to read this post&amp;hellip;..&lt;/h1&gt;&#xA;&lt;p&gt;Okay, you have made the decision.  You want to take a chance with your job and work from somewhere that you are not authorized.  You now need to set things up so that you can make it the least likely to get caught.  You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.&lt;/p&gt;</description>
     </item>
   </channel>
