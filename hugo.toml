@@ -60,3 +60,6 @@ publishDir = "docs"
   # Theme settings
   defaultTheme = "dark"   # options: "light", "dark", "auto"
   themeToggle = true      # show toggle button in header
+
+[permalinks]
+posts = "/posts/:sections/:slug/"
