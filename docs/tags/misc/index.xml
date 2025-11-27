@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misc on The Expat Tech</title>
-    <link>http://localhost:1313/tags/misc/</link>
+    <link>https://www.theexpattech.com/tags/misc/</link>
     <description>Recent content in Misc on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.theexpattech.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy Thanksgiving!</title>
-      <link>http://localhost:1313/posts/happy-thanksgiving/</link>
+      <link>https://www.theexpattech.com/posts/happy-thanksgiving/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/happy-thanksgiving/</guid>
+      <guid>https://www.theexpattech.com/posts/happy-thanksgiving/</guid>
       <description>&lt;p&gt;I want to wish you all a Happy Thanksgiving.&lt;/p&gt;&#xA;&lt;p&gt;Having said that, I want to share a fun piece of trivia.&lt;/p&gt;&#xA;&lt;p&gt;Did you know that the &amp;ldquo;star&amp;rdquo; of Thanksgiving dinner, the turkey, is actually Mexican? If you think the turkey is American, you’re mistaken. The turkey is an immigrant. Mexico&amp;rsquo;s Aztecs domesticated the turkey over 2,000 years ago. It was called the huexolotl. They didn’t eat it the way we do today—with gravy and stuffing. The Aztecs ate it with mole.&lt;/p&gt;</description>
     </item>
   </channel>
