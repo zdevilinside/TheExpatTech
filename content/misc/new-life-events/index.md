@@ -1,5 +1,5 @@
 ---
-title: "You have to support children"
+title: "You have to support your child(ren)"
 date: 2025-10-13
 authors: ["ZDevilInside"]
 description: "Sometimes there are surprises..."
