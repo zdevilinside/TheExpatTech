@@ -3,10 +3,11 @@ title: "Qualifying for Legal Residency in Mexico"
 date: 2025-11-27
 authors: ["ZDevilInside"]
 image: "card.jpg"
-categories: ["Living In Mexico"]
-tags: ["Living In Mexico"]
+categories: ["living-in-mexico"]
+tags: ["Residency", "Immigration", "Visa"]
 description: "It isn't as easy as it used to be."
 ---
+
 
 ![image 1](card.jpg)  
 

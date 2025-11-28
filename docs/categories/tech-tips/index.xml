@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Tips on The Expat Tech</title>
-    <link>https://www.theexpattech.com/categories/tech-tips/</link>
+    <link>http://localhost:1313/categories/tech-tips/</link>
     <description>Recent content in Tech Tips on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/categories/tech-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tech-tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GL.iNet Beryl AX review</title>
-      <link>https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/</link>
+      <link>http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/</guid>
-      <description>&lt;h1 id=&#34;-glinet-beryl-ax-gl-mt3000-review&#34;&gt;🌐 GL.iNet Beryl AX (GL-MT3000) Review&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;https://www.theexpattech.com/svg/loading.min.svg&#34;&#xA;        data-src=&#34;https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        data-srcset=&#34;https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg, https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg 1.5x, https://www.theexpattech.com/posts/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/posts/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        title=&#34;image 1&#34; width=&#34;1200&#34; height=&#34;1600&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&amp;rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &amp;ldquo;capture portal&amp;rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/</guid>
+      <description>&lt;h1 id=&#34;-glinet-beryl-ax-gl-mt3000-review&#34;&gt;🌐 GL.iNet Beryl AX (GL-MT3000) Review&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;http://localhost:1313/svg/loading.min.svg&#34;&#xA;        data-src=&#34;http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        data-srcset=&#34;http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg, http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg 1.5x, http://localhost:1313/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/tech-tips/gl.inet-beryl-ax-review/Tech-Tips/beryl-ax-review/image1.jpg&#34;&#xA;        title=&#34;image 1&#34; width=&#34;1200&#34; height=&#34;1600&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader&amp;rsquo;s equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in &amp;ldquo;capture portal&amp;rdquo; situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resetting a Flipper Zero</title>
-      <link>https://www.theexpattech.com/posts/tech-tips/resetting-a-flipper-zero/</link>
+      <link>http://localhost:1313/tech-tips/resetting-a-flipper-zero/</link>
       <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/posts/tech-tips/resetting-a-flipper-zero/</guid>
+      <guid>http://localhost:1313/tech-tips/resetting-a-flipper-zero/</guid>
       <description>&lt;p&gt;A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&amp;rsquo;t work, they decided to do a &amp;ldquo;hard reset&amp;rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.&lt;/p&gt;&#xA;&lt;p&gt;Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Nomad VPN Setup</title>
-      <link>https://www.theexpattech.com/posts/digital-nomading/digital-nomad-vpn-setup/</link>
+      <link>http://localhost:1313/digital-nomading/digital-nomad-vpn-setup/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/posts/digital-nomading/digital-nomad-vpn-setup/</guid>
+      <guid>http://localhost:1313/digital-nomading/digital-nomad-vpn-setup/</guid>
       <description>&lt;h1 id=&#34;top-secret---unauthorized-personnel-will-be-shot-if-they-continue-to-read-this-post&#34;&gt;Top Secret - Unauthorized personnel will be shot if they continue to read this post&amp;hellip;..&lt;/h1&gt;&#xA;&lt;p&gt;Okay, you have made the decision.  You want to take a chance with your job and work from somewhere that you are not authorized.  You now need to set things up so that you can make it the least likely to get caught.  You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build a Mac OS 15 Sequoia VM?</title>
-      <link>https://www.theexpattech.com/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
+      <link>http://localhost:1313/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/posts/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
+      <guid>http://localhost:1313/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
       <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How to create a MacOS 15 Sequoia VM in VMware&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I have noticed that a lot of people seem to have bought into the marketing of Apple and believe that the Mac is the best computer. Apple has won the marketing game just like Bose has done with speakers. Audiophiles say that if you want no highs or lows, you buy Bose!  Most people just don&amp;rsquo;t seem to get that while Apple does provide a good product, they are overpriced for what they provide and it isn&amp;rsquo;t close to the value most Windows-based computers are. Yes, you can find value with Linux but most people are more comfortable with what they already have been using for years &amp;ndash; Windows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I love GL.iNet products</title>
-      <link>https://www.theexpattech.com/posts/tech-tips/why-i-love-gl.inet-products/</link>
+      <link>http://localhost:1313/tech-tips/why-i-love-gl.inet-products/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/posts/tech-tips/why-i-love-gl.inet-products/</guid>
+      <guid>http://localhost:1313/tech-tips/why-i-love-gl.inet-products/</guid>
       <description>&lt;h2 id=&#34;why-i-use-glinet-products-for-digital-nomad-vpns&#34;&gt;Why I use GL.iNet products for &amp;ldquo;Digital Nomad VPNs&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;A few years back, a friend of mine had a work-from-home job that required her to work from a specific location.  Unfortunately for her, a relative had gotten sick and needed her to go live with them for a few weeks while they recovered.  She asked her boss if she could temporarily work from another state at a site 120 miles away.  Her boss would not allow her to do so.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network Troubleshooting Scripts</title>
-      <link>https://www.theexpattech.com/posts/tech-tips/network-troubleshooting-scripts/</link>
+      <link>http://localhost:1313/tech-tips/network-troubleshooting-scripts/</link>
       <pubDate>Wed, 01 Oct 2025 19:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/posts/tech-tips/network-troubleshooting-scripts/</guid>
+      <guid>http://localhost:1313/tech-tips/network-troubleshooting-scripts/</guid>
       <description>&lt;p&gt;I recently had problems with my Digital Nomad VPN setup.  I went to the GL.iNet Discord and asked for help but they wanted results from various tests to be able to help me.  I provided those responses but felt there had to be a better way.&#xA;I saw these types of questions asked all the time in the tech support sub of GL.iNet&amp;rsquo;s Discourd.  I found that there were very few options out there that allowed you to find a single, simple source with logs to troubleshoot a VPN network and decided to create my own.  With the assistance of &amp;ldquo;Wicked Yoda&amp;rdquo;, I created these and shared them.  Wicked has taken on the torch to building these troubleshooting tools.  You can find them here:  &lt;a href=&#34;https://github.com/wickedyoda/Network-Diag-Utilities&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;https://github.com/wickedyoda/Network-Diag-Utilities&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

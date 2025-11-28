@@ -5,9 +5,11 @@ authors: ["ZDevilInside"]
 description: "Happy Thanksgiving all!"
 draft: false
 image: "turkey.jpg"
-categories: ["Misc"]
-tags: ["misc"]
+categories: ["misc"]
+tags: ["family", "life"]
+type: "misc"
 ---
+
 
 
 I want to wish you all a Happy Thanksgiving.  

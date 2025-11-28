@@ -6,6 +6,7 @@ publishDir = "docs"
 [taxonomies]
   category = "categories"
   tag      = "tags"
+  author   = "authors"
 
 [module]
   [[module.imports]]
@@ -15,31 +16,31 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "aviation"
     name = "Aviation"
-    url = "/categories/aviation/"
+    url = "/aviation/"
     weight = 30
 
   [[menu.main]]
     identifier = "tech-tips"
     name = "Tech Tips"
-    url = "/categories/tech-tips/"
+    url = "/tech-tips/"
     weight = 40
 
   [[menu.main]]
     identifier = "digital-nomading"
     name = "Digital Nomading"
-    url = "/categories/digital-nomading/"
+    url = "/digital-nomading/"
     weight = 50
     
   [[menu.main]]
     identifier = "living-in-mexico"
     name = "Living In Mexico"
-    url = "/categories/living-in-mexico/"
+    url = "/living-in-mexico/"
     weight = 60
   
   [[menu.main]]
     identifier = "misc"
     name = "Misc"
-    url = "/categories/misc/"
+    url = "/misc/"
     weight = 70 
 
 [params.header]
@@ -67,8 +68,8 @@ publishDir = "docs"
   themeToggle = true      # show toggle button in header
 
 [permalinks]
-aviation = "/posts/aviation/:slug/"
-digital-nomading = "/posts/digital-nomading/:slug/"
-living-in-mexico = "/posts/living-in-mexico/:slug/"
-tech-tips = "/posts/tech-tips/:slug/"
-misc = "/posts/misc/:slug/"
+aviation = "/aviation/:slug/"
+digital-nomading = "/digital-nomading/:slug/"
+living-in-mexico = "/living-in-mexico/:slug/"
+tech-tips = "/tech-tips/:slug/"
+misc = "/misc/:slug/"

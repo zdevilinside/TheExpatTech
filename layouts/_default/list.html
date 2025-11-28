@@ -1,10 +1,23 @@
 {{ define "main" }}
+  <p>DEBUG: list.html override is active</p>
+
   <h1>{{ .Title }}</h1>
   <div class="section-intro">
     {{ .Content }}
   </div>
+
+  <!-- Debug: show what Hugo thinks belongs to this section -->
+  <ul>
+  {{ range .RegularPagesRecursive }}
+    <li>{{ .File.Path }} — {{ .Title }} — type={{ .Type }} section={{ .Section }}</li>
+  {{ end }}
+  </ul>
+
   <div class="taxonomy-grid">
-    {{ range .Paginator.Pages }}
+    {{ $pages := .RegularPagesRecursive }}
+    {{ $sorted := $pages.ByDate.Reverse }}
+    {{ $paginator := .Paginate $sorted }}
+    {{ range $paginator.Pages }}
       <article class="taxonomy-card">
         {{ $img := .Resources.GetMatch .Params.image }}
         {{ if $img }}

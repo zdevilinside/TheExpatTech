@@ -1,11 +1,8 @@
 +++
 title = "Misc"
 description = "Posts that don't fit elsewhere"
-# Optional: add a featured image for the section
 image = "turkey.jpg"
-
-# LoveIt-specific options
-layout = "list"        # options: list, grid, card
+layout = "grid"
 hiddenFromHomePage = false
 hiddenFromSearch = false
 +++

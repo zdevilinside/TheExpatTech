@@ -3,10 +3,11 @@ title: "You have to support your child(ren)"
 date: 2025-10-13
 authors: ["ZDevilInside"]
 description: "Sometimes there are surprises..."
-tags: ["misc"]
+tags: ["family", "life"]
 categories: ["misc"]
 draft: false
 image: "family.jpg"
+type: "misc"
 ---
 
 I am going to write this as a narrative as I found about it.
