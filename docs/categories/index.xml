@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Expat Tech</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.theexpattech.com/categories/</link>
     <description>Recent content in Categories on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Living in Mexico</title>
-      <link>http://localhost:1313/categories/living-in-mexico/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/living-in-mexico/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/categories/misc/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/misc/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.theexpattech.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Nomading</title>
-      <link>http://localhost:1313/categories/digital-nomading/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/digital-nomading/</guid>
+      <link>https://www.theexpattech.com/categories/digital-nomading/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/categories/digital-nomading/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Tips</title>
-      <link>http://localhost:1313/categories/tech-tips/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tech-tips/</guid>
+      <link>https://www.theexpattech.com/categories/tech-tips/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/categories/tech-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living in Mexico</title>
+      <link>https://www.theexpattech.com/categories/living-in-mexico/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/categories/living-in-mexico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>https://www.theexpattech.com/categories/misc/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/categories/misc/</guid>
       <description></description>
     </item>
     <item>
       <title>Aviation</title>
-      <link>http://localhost:1313/categories/aviation/</link>
+      <link>https://www.theexpattech.com/categories/aviation/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/aviation/</guid>
+      <guid>https://www.theexpattech.com/categories/aviation/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/categories/about-me/</link>
+      <link>https://www.theexpattech.com/categories/about-me/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/about-me/</guid>
+      <guid>https://www.theexpattech.com/categories/about-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/categories/documentation/</link>
+      <link>https://www.theexpattech.com/categories/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/documentation/</guid>
+      <guid>https://www.theexpattech.com/categories/documentation/</guid>
       <description></description>
     </item>
   </channel>
