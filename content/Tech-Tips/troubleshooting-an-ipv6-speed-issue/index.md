@@ -12,16 +12,18 @@ image: "image1.jpg"
 I recently had a big problem develop with my Digital Nomad VPN Internet Service at my home in Cuernavaca, Mexico.  My ISP implemented their IPv6 migration and all sorts of problems developed.  My SpeedTest.net and other links were all out of whack.  I ran SpeedTest.net checks against their servers and with other servers in the Mexico City area.  The results were quite surprising.
 
 There is NOTHING wrong with the upload speed here! /sarcasm
-![speedtest #1](test1.png)
+![speedtest #1](test1.png)  
+
 ![speedtest #2](test2.png)  
 
 I started to get suspiscious it was something wrong with their server, so I tried one outside of their domain.
-!(speedtest #3](test3.png)  
+![speedtest #3](test3.png)  
 
 Hmm, speed is normal there.
 
 I went back to Totalplay's Speedtest server and got this:  
-![speedtest #4]{test4.png)
+![speedtest #4]{test4.png)  
+
 ![speedtest #5](test5.png)  
 
 I contacted Totalplay about this issue and they basically blew me off; it felt like they could care less about my issues and that as long as my upload speed was okay that they didn't have an issue with it.  I didn't like this one at all, so I decided to take matters into my own hands.  I again ran a speedtest just to see if my brain was just not working right.  Nope, I was correct.  
