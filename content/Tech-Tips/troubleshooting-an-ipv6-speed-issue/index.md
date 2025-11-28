@@ -21,7 +21,8 @@ I started to get suspiscious it was something wrong with their server, so I trie
 
 Hmm, speed is normal there.
 
-I went back to Totalplay's Speedtest server and got this:  
+I went back to Totalplay's Speedtest server and got this: 
+ 
 ![speedtest #4]{test4.png)  
 
 ![speedtest #5](test5.png)  
