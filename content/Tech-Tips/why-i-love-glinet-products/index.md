@@ -8,7 +8,7 @@ image: "products.png"
 tags: ["GL.iNet"]
 description: "GL.iNet's products compared/contrast"
 ---
-## Why I am so favorable with GL.iNet equipment  
+## Why I use GL.iNet products for "Digital Nomad VPNs"  
 
 A few years back, a friend of mine had a work-from-home job that required her to work from a specific location.  Unfortunately for her, a relative had gotten sick and needed her to go live with them for a few weeks while they recovered.  She asked her boss if she could temporarily work from another state at a site 120 miles away.  Her boss would not allow her to do so.  
 
