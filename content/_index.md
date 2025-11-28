@@ -18,7 +18,9 @@ I wish to give a special thanks to the friends that have helped me get this site
 |**Adam**| https://thewirednomad.com|
 |**Wicked Yoda**| https://www.wickedyoda.com|
 |**Zippyy**| https://techrelay.xyz/|
-|Sites that I like to visit||
+
+Sites that I like to visit
+
 |Daily||
 |**NASCompares**| https://nascompares.com/|
 |**TorrentFreak**|https://torrentfreak.com/|
