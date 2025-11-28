@@ -83,3 +83,5 @@ This short post discusses the differences between the **Flint 2, Slate AX, Brume
 There you go!  That is all of the equipment I have and what segment they are best for.  I have other GL.iNet equipment on order that I will provide reviews and impression reports on shortly.
 
 So you know, I am not just a GL.iNet fanboy.  I have other routing equipment from Synology, Netgear, TP-Link, Eero, and many others.  I just love their equipment in specific cases - when you need a built-in VPN solution that is easy to setup and get going.
+
+GL.iNet has many fans though including the likes of [**NASCompares**](https://www.youtube.com/@nascompares/search?query=glinet), [**Linus Tech Tips**](https://www.youtube.com/@LinusTechTips/search?query=Glinet), and [**Dave's Garage**](https://www.youtube.com/@DavesGarage/search?query=glinet).
