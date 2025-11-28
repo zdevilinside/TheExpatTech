@@ -14,8 +14,8 @@ I am a true believer in using GL.iNet equipment for setting up Digital Nomad VPN
 
 I found a website that walked you through the setup step by step.  The first thing that they recommened was buying the equipment you would need to actually do the job. ;)  Gee, how many of us have overlooked this vital step?  I certainly had!
 
-You will need to buy at least 2 devices to set up the Nomad VPN.  You can mix and match things but that is the minimum number to be able to set this up in my recommended configuration. It can be 1 home router and 1 travel router, or 2 from one of the categories below.  Home routers tend to have best performance and I highly recommend them to be on the "server" side of the setup.  You CAN use a travel router or a gateway instead but the bandwidth you see will be less than 
-<a href="https://www.google.com" style="color: red;">Google</a>
+You will need to buy at least 2 devices to set up the Nomad VPN.  You can mix and match things but that is the minimum number to be able to set this up in my recommended configuration. It can be 1 home router and 1 travel router, or 2 from one of the categories below.  Home routers tend to have best performance and I highly recommend them to be on the "server" side of the setup.  You CAN use a travel router or a gateway instead but the bandwidth you see will be less than what you would see if you have 2 of the home routers.  
+
 
 ---
 | | |
