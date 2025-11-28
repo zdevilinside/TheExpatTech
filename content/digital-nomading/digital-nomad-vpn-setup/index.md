@@ -1,6 +1,6 @@
 ---
 title: "Digital Nomad VPN Setup"
-date: 2025-11-24
+date: 2025-11-23
 authors: ["ZDevilInside"]
 categories: ["Digital Nomading", "Tech Tips"]
 tags: ["Digital Nomading", "Tech Tips"]

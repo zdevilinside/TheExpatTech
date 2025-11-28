@@ -51,16 +51,9 @@
       <description>&lt;p&gt;A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&amp;rsquo;t work, they decided to do a &amp;ldquo;hard reset&amp;rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.&lt;/p&gt;&#xA;&lt;p&gt;Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What is a Digital Nomad VPN?</title>
-      <link>https://www.theexpattech.com/digital-nomading/what-is-a-digital-nomad-vpn/</link>
-      <pubDate>Sun, 23 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/digital-nomading/what-is-a-digital-nomad-vpn/</guid>
-      <description>&lt;h1 id=&#34;digital-nomad-vpn-guide&#34;&gt;Digital Nomad VPN Guide&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s start this off with a few explanations so you can better understand some basic concepts.&lt;/p&gt;&#xA;&lt;p&gt;First, think of the Internet as a giant map. There are addresses where you can access specific things, and only those addresses. To reach them, you type in something like &lt;em&gt;&lt;a href=&#34;https://www.IDontWantToBeHere.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;www.IDontWantToBeHere.com&lt;/a&gt;&lt;/em&gt; (I don’t think that site actually exists) and hit enter in your web browser. Most people don’t know how that actually works. Your Internet provider takes that website’s URL and looks it up in a “phone book” until it finds a “phone number” used to dial that location. When you enter that address, the phone book shows the address &lt;em&gt;127.0.0.1&lt;/em&gt; and dials that number. It’s that simple.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Digital Nomad VPN Setup</title>
       <link>https://www.theexpattech.com/digital-nomading/digital-nomad-vpn-setup/</link>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.theexpattech.com/digital-nomading/digital-nomad-vpn-setup/</guid>
       <description>&lt;h1 id=&#34;top-secret---unauthorized-personnel-will-be-shot-if-they-continue-to-read-this-post&#34;&gt;Top Secret - Unauthorized personnel will be shot if they continue to read this post&amp;hellip;..&lt;/h1&gt;&#xA;&lt;p&gt;Okay, you have made the decision.  You want to take a chance with your job and work from somewhere that you are not authorized.  You now need to set things up so that you can make it the least likely to get caught.  You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.&lt;/p&gt;</description>
     </item>
@@ -77,6 +70,13 @@
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
       <guid>https://www.theexpattech.com/tech-tips/why-i-love-gl.inet-products/</guid>
       <description>&lt;h2 id=&#34;why-i-use-glinet-products-for-digital-nomad-vpns&#34;&gt;Why I use GL.iNet products for &amp;ldquo;Digital Nomad VPNs&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;A few years back, a friend of mine had a work-from-home job that required her to work from a specific location.  Unfortunately for her, a relative had gotten sick and needed her to go live with them for a few weeks while they recovered.  She asked her boss if she could temporarily work from another state at a site 120 miles away.  Her boss would not allow her to do so.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is a Digital Nomad VPN?</title>
+      <link>https://www.theexpattech.com/digital-nomading/what-is-a-digital-nomad-vpn/</link>
+      <pubDate>Sat, 15 Nov 2025 19:35:49 -0600</pubDate>
+      <guid>https://www.theexpattech.com/digital-nomading/what-is-a-digital-nomad-vpn/</guid>
+      <description>&lt;h1 id=&#34;digital-nomad-vpn-guide&#34;&gt;Digital Nomad VPN Guide&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s start this off with a few explanations so you can better understand some basic concepts.&lt;/p&gt;&#xA;&lt;p&gt;First, think of the Internet as a giant map. There are addresses where you can access specific things, and only those addresses. To reach them, you type in something like &lt;em&gt;&lt;a href=&#34;https://www.IDontWantToBeHere.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;www.IDontWantToBeHere.com&lt;/a&gt;&lt;/em&gt; (I don’t think that site actually exists) and hit enter in your web browser. Most people don’t know how that actually works. Your Internet provider takes that website’s URL and looks it up in a “phone book” until it finds a “phone number” used to dial that location. When you enter that address, the phone book shows the address &lt;em&gt;127.0.0.1&lt;/em&gt; and dials that number. It’s that simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archangel</title>

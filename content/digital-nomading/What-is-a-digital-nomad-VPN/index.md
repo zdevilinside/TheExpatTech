@@ -1,6 +1,6 @@
 ---
 title: "What is a Digital Nomad VPN?"
-date: 2025-11-23T19:35:49-06:00
+date: 2025-11-15T19:35:49-06:00
 authors: ["ZDevilInside"]
 draft: false
 image: "VPN.png"
