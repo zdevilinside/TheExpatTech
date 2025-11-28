@@ -44,3 +44,28 @@
   font-size: 0.95rem;
   color: #555;
 }
+/* ==============================
+   Table styling (only Tech Tips)
+   ============================== */
+
+.section-tech-tips table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.section-tech-tips table, 
+.section-tech-tips th, 
+.section-tech-tips td {
+  border: 1px solid #ccc; /* light gray grid lines */
+}
+
+.section-tech-tips th, 
+.section-tech-tips td {
+  padding: 8px;
+  text-align: left;
+}
+
+.section-tech-tips tr:nth-child(even) {
+  background-color: #f9f9f9; /* subtle light gray */
+}
