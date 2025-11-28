@@ -24,7 +24,8 @@ Sites that I like to visit
 |Daily||
 |**NASCompares**| https://nascompares.com/|
 |**TorrentFreak**|https://torrentfreak.com/|
-|**How-to Geek**|https://www.howtogeek.com/|
+|**How-to Geek**|https://www.howtogeek.com/|  
+
 |Regularly visted||
 |**GamersNexus**| https://gamersnexus.net/|
 |**Make Use Of**|https://www.makeuseof.com/|

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>The Expat Tech</title><meta name="Description" content="The steps I had to take to fix this issue"><meta property="og:url" content="https://www.theexpattech.com/tech-tips/how-to-fix-an-ipv6-speed-issue/">
+  <meta property="og:site_name" content="The Expat Tech">
+  <meta property="og:title" content="How to fix an IPv6 speed issue">
+  <meta property="og:description" content="The steps I had to take to fix this issue">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tech-tips">
+    <meta property="article:published_time" content="2025-11-11T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-11-11T00:00:00+00:00">
+    <meta property="article:tag" content="Tech Tips">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="How to fix an IPv6 speed issue">
+  <meta name="twitter:description" content="The steps I had to take to fix this issue">
+<meta name="application-name" content="My cool site">
+<meta name="apple-mobile-web-app-title" content="My cool site"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://www.theexpattech.com/tech-tips/how-to-fix-an-ipv6-speed-issue/" /><link rel="prev" href="https://www.theexpattech.com/tech-tips/network-troubleshooting-scripts/" /><link rel="next" href="https://www.theexpattech.com/tech-tips/why-i-love-gl.inet-products/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "How to fix an IPv6 speed issue",
+        "inLanguage": "en-us",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/www.theexpattech.com\/tech-tips\/how-to-fix-an-ipv6-speed-issue\/"
+        },"genre": "tech-tips","keywords": "Tech Tips","wordcount":  550 ,
+        "url": "https:\/\/www.theexpattech.com\/tech-tips\/how-to-fix-an-ipv6-speed-issue\/","datePublished": "2025-11-11T00:00:00+00:00","dateModified": "2025-11-11T00:00:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "ZDevilInside"
+            },"description": "The steps I had to take to fix this issue"
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('dark' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'dark' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="The Expat Tech">The Expat Tech</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/aviation/"> Aviation </a><a class="menu-item" href="/tech-tips/"> Tech Tips </a><a class="menu-item" href="/digital-nomading/"> Digital Nomading </a><a class="menu-item" href="/living-in-mexico/"> Living In Mexico </a><a class="menu-item" href="/misc/"> Misc </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="The Expat Tech">The Expat Tech</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/aviation/" title="">Aviation</a><a class="menu-item" href="/tech-tips/" title="">Tech Tips</a><a class="menu-item" href="/digital-nomading/" title="">Digital Nomading</a><a class="menu-item" href="/living-in-mexico/" title="">Living In Mexico</a><a class="menu-item" href="/misc/" title="">Misc</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><main class="main">
+                <div class="container">
+  <article class="post">
+    <h1>How to fix an IPv6 speed issue</h1>
+    <div class="meta">
+      
+  <span class="categories">
+    
+      <a href="/categories/tech-tips">Tech Tips</a>
+    
+  </span>
+
+
+
+  <span class="tags">
+    
+      <a href="/tags/tech-tips">Tech Tips</a>
+    
+  </span>
+
+
+    </div>
+    <div class="content">
+      <p>I recently had a big problem develop with my Digital Nomad VPN Internet Service at my home in Cuernavaca, Mexico.  My ISP implemented their IPv6 migration and all sorts of problems developed.  My SpeedTest.net and other links were all out of whack.  I ran SpeedTest.net checks against their servers and with other servers in the Mexico City area.  The results were quite surprising.</p>
+<p>There is NOTHING wrong with the upload speed here! /sarcasm
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png"
+        title="speedtest #1" width="800" height="421" />
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png"
+        title="speedtest #2" width="800" height="409" /></p>
+<p>I started to get suspiscious it was something wrong with their server, so I tried one outside of their domain.
+!(speedtest #3](test3.png)</p>
+<p>Hmm, speed is normal there.</p>
+<p>I went back to Totalplay&rsquo;s Speedtest server and got this:<br>
+![speedtest #4]{test4.png)
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png"
+        title="speedtest #5" width="800" height="423" /></p>
+<p>I contacted Totalplay about this issue and they basically blew me off; it felt like they could care less about my issues and that as long as my upload speed was okay that they didn&rsquo;t have an issue with it.  I didn&rsquo;t like this one at all, so I decided to take matters into my own hands.  I again ran a speedtest just to see if my brain was just not working right.  Nope, I was correct.</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png"
+        title="speedtest #6" width="800" height="372" /></p>
+<p>There was definitely something wrong with their service and I knew that it was with their IPv6 implementation.  What coudl I do?  As I surfed the web, I found a test that allowed me to do speedtests against the same server as IPv4 and IPv6 separately but at the same time.  Here were my results:</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image1.jpg"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/image1.jpg, /tech-tips/how-to-fix-an-ipv6-speed-issue/image1.jpg 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/image1.jpg 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image1.jpg"
+        title="IPv6 test" width="800" height="578" /><br>
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg, /tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg"
+        title="IPv4 test" width="800" height="622" /></p>
+<p>What could I do?  Totalplay&rsquo;s techs wouldn&rsquo;t help me and basically said &ldquo;We are going to have someone call you back and fix this issue&hellip;&rdquo; but I never received a call back.  I kept doing some research and came across a Microsoft article titled &ldquo;Guidance for configuring IPv6 in Windows for advanced users&rdquo;.  I read the article and found that you could use a registry key to configure IPv6, but more importantly, force your system to prefer IPv4 over IPv6.</p>
+<blockquote>
+<p>Location:HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters<br>
+Name: DisabledComponents<br>
+Type: REG_DWORD<br>
+Min Value: 0x00 (default value)<br>
+Max Value: 0xFF (IPv6 disabled)</p>
+</blockquote>
+<p>And it had the following about preferring IPv4 over IPv6:</p>
+<blockquote>
+<p>Decimal 32<br>
+Hexadecimal 0x20<br>
+Binary xx1x xxxx</p>
+<p>Recommended instead of disabling IPv6.</p>
+<p>To confirm preference of IPv4 over IPv6, perform the following commands:</p>
+<ul>
+<li>
+<p>Open the command prompt or PowerShell.</p>
+</li>
+<li>
+<p>Use the &lsquo;ping&rsquo; command to check the preferred IP version. For example, &ldquo;ping bing.com&rdquo;.</p>
+</li>
+<li>
+<p>If IPv4 is preferred, you should see an IPv4 address being returned in the response.<br>
+Network Connections:</p>
+</li>
+<li>
+<p>Open the command prompt or PowerShell.</p>
+</li>
+<li>
+<p>Use &rsquo;netsh interface ipv6 show prefixpolicies</p>
+</li>
+<li>
+<p>Check if the &lsquo;Prefix&rsquo; policies have been modified to prioritize IPv4.</p>
+</li>
+<li>
+<p>The &lsquo;::ffff:0:0/96&rsquo; prefix should have a higher precedence than the &lsquo;::/0&rsquo; prefix.</p>
+</li>
+</ul>
+<p>For Example, if you have two entries, one with precedence 35 and another with precedence 40, the one with precedence 40 will be preferred.<br>
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg, /tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg"
+        title="Netsh results" width="500" height="243" /></p>
+</blockquote>
+<p><strong>Now we are getting somewhere!</strong></p>
+<p>I went ahead and tried it and my Speedtest results immediately improved.  However, I wasn&rsquo;t too happy with Totalplay and decided to switch over to Telmex because my IPTV boxes STILL had problems with the IPv6 implementation where they were constantly disconnecting and reconnecting.  Since I changed services, I haven&rsquo;t had a problem with it.  Totalplay needs to get their act together.</p>
+<p>So, what kind of Speedtest results am I getting today?</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg"
+        data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg, /tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg 2x"
+        data-sizes="auto"
+        alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg"
+        title="Telmex speed results" width="600" height="151" /><br>
+I can live with that!</p>
+
+    </div>
+  </article>
+</div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.152.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.3.0"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2025</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/about/" target="_blank">ZDevilInside</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
