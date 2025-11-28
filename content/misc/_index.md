@@ -2,7 +2,7 @@
 title = "Misc"
 description = "Posts that don't fit elsewhere"
 image = "turkey.jpg"
-layout = "grid"
+layout = "card"
 hiddenFromHomePage = false
 hiddenFromSearch = false
 +++
