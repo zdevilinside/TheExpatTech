@@ -7,7 +7,7 @@ tags: ["SR-71"]
 image: "techspecs.jpg"
 description: "SR-71 Specifications"
 ---
-
+![SR-71 in flight](SR-71.jpg)
 # General Characteristics
 
 ## Dimensions and Capacities
