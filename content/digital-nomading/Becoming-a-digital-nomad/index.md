@@ -7,8 +7,34 @@ tags: ["DigitalNomad"]
 image: "digitalnomad.jpg"
 description: "How I became a Digital Nomad"
 ---
-You are feeling wunderlust.  Your job is online so you feel that you can start working from anywhere.  You decide to give it a go.  You look online at the rules needed to travel the world while working online.  That is how you get your start.  This site will explain *my* path down this rabbit hole.
 
-In my case, it came about as a necessity.  I was on my way to graduate school in Germany when that was cut short due to illness.  I looked around and did research online for the best places to go and live for 6 months before I gave another shot at going to Germany.
+You’re feeling wanderlust. Your job is online, so you realize you can start working from anywhere. You decide to give it a try. You research the rules and requirements for traveling the world while working remotely — and that’s how the journey begins. This site explains *my* path down that rabbit hole.  
 
-I chatted with others online and came to the decision to go to Cuernavaca, Mexico for those 6 months.  We decided to give it a go and try to make extra money online.  We succeeded but it wasn't an easy process to say the least.  After all we have gone through, we are now permanent residents of Mexico and have no intention of ever leaving it to go back to the United States permanently.  We will always remain US citizens and travel back often though.
+In my case, it came about as a necessity. I was on my way to graduate school in Germany when illness cut those plans short. Looking for alternatives, I researched the best places to live for six months before trying again.  
+
+Through online conversations and careful planning, I decided to spend those six months in **Cuernavaca, Mexico**. We gave it a go, working to earn extra money online. It wasn’t easy, but we succeeded. After everything we’ve experienced, we are now permanent residents of Mexico and have no intention of leaving permanently for the United States. We remain U.S. citizens and travel back often, but Mexico is home.  
+
+---
+
+## ✨ Did You Know? Digital Nomad Insights
+
+- 🌍 **Nomad Visas Are Growing**  
+  Over 40 countries now offer special visas for remote workers, making long-term stays easier.  
+
+- 💻 **Internet Reliability Is Key**  
+  Many nomads choose destinations based on fiber-optic availability or strong mobile data networks.  
+
+- 🏡 **Coworking Spaces Thrive**  
+  Cities like Cuernavaca, Bali, and Lisbon have vibrant coworking hubs where nomads connect.  
+
+- 💳 **Banking Abroad Can Be Tricky**  
+  Digital nomads often rely on international banks or fintech apps to manage money across borders.  
+
+- 🧳 **Minimalism Becomes a Lifestyle**  
+  Living out of a suitcase teaches you to value experiences over possessions.  
+
+---
+
+## Reflection
+
+Becoming a digital nomad isn’t just about travel — it’s about resilience, adaptation, and redefining what “home” means. For me, the journey started with necessity but became a lifestyle. Mexico gave me stability, community, and the freedom to keep exploring while staying connected to my roots.
