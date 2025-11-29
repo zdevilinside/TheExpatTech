@@ -32,7 +32,7 @@ Clearly, something was wrong.
 
 ## ISP Response (or Lack Thereof)
 
-I contacted Totalplay, but they brushed me off. As long as my upload speed looked fine, they didn’t consider it a problem. That didn’t sit well with me. I ran more tests to confirm I wasn’t imagining things.  
+I contacted Totalplay, but they brushed me off. As long as my download speed looked fine, they didn’t consider it a problem. That didn’t sit well with me. I ran more tests to confirm I wasn’t imagining things.  
 
 ![speedtest #6](test6.png)  
 

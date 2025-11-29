@@ -15,6 +15,12 @@
 ## 5 Push to Github
 *git push origin main*
 
+copy/paste of the instructions together
+Hugo
+git add .
+git commit -m "reason for update"
+git push origin main
+
 ## 6 Option B - Deploy from gh-pages branch
 hugo
 cd public
