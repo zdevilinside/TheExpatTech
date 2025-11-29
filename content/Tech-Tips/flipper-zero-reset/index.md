@@ -17,15 +17,17 @@ Resetting can be done in two ways: a **manual button reset** or using the **qFli
 
 ---
 
+ 
+
 ## Method 1: Manual Reset (Forgotten PIN or Frozen Device)
 
 This is the quickest way to reset the Flipper without connecting it to a computer:  
 
-| Step | Action |
-|------|--------|
-| 1 | Remove the microSD card from the device. | ![image 4](./image4.png) |
-| 2 | Hold the **UP** and **BACK** buttons simultaneously for about 30 seconds. | ![image 2](./image2.jpg) |
-| 3 | When prompted, press the **RIGHT** button to confirm the reset. | :) |
+| Step | Instruction | 
+|------|-------------|
+| 1 Remove the microSD card from the device. | ![image 4](image4.png) |
+| 2 Hold the **UP** and **BACK** buttons simultaneously for about 30 seconds. | ![image 2](image2.jpg) |
+| 3 When prompted, press the **RIGHT** button to confirm the reset. | 😊 |
 
 This clears the PIN and resets the device to default settings.  
 
