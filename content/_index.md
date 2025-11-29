@@ -3,6 +3,7 @@ title: "Welcome to The Expat Tech"
 description: "Exploring aviation, tech tips, and digital nomading"
 layout: "home"
 ---
+NOTE: I needed to get my rear in gear and get my website up with as much content as quickly as possible.  Having said that, I am currently working on a cleaner, more visually appealing website.  
 
 ## Welcome
 
