@@ -15,7 +15,7 @@ I wish to give a special thanks to the friends that have helped me get this site
 
 | | |
 |---|---|
-|Special thanks to:||
+|***Special thanks to:***|These are the folks that pushed me to actually get a website up on the web and not just in my head.|
 |**Adam**| https://thewirednomad.com|
 |**Wicked Yoda**| https://www.wickedyoda.com|
 |**Zippyy**| https://techrelay.xyz/|
