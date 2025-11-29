@@ -13,22 +13,22 @@ image: "image1.jpg"
 
 ![image 1](image1.jpg)  
 
+The **GL.iNet Beryl AX (GL-MT3000)** may not be the newest device on the market—with the Beryl 7 on the horizon—but it remains a staple in many digital nomads’ gear bags. I’ve used mine for years without issue, and it continues to be one of the most reliable budget VPN routers available.  
 
-I know this is an older piece of hardware that is about to have its follow on Beryl 7 released but this router is a staple of many a digital nomader's equipment. I have been using one for years without issue and I feel that it is a budget VPN router worth knowing about.  You can easily take it with you, use it in "capture portal" situations, and it gives you a separate network that all your devices can connect to.  Oh, and it can run a Wireguard client/server as needed along with several other VPN solutions.  
-
-A "capture portal" is when you have to log in to a wifi network before you use is.  That means if you do that with the device and connect your other equipment to the travel router, you only have to enter that stupid password and/or username once to connect everything. I will be doing a Tech Tip post on this in the coming days.
-
-For those out there that are wondering what in the heck that thing is in the back right of the picture, it is a Kensington Expert Mouse.  I have been using them since the late 1990s.  They cost about $80 or so on Amazon and last 10 to 15 years.  Yes, dinosaur me has a piece of equipment that he doesn't replace every 2 to 3 years like the rest of his gear.  
-
-# So, what's so special about the Beryl AX?  
-
-The **GL.iNet Beryl AX (GL-MT3000)** is a compact, powerful travel router offering Wi-Fi 6, strong VPN support, and has excellent portability. You can easily take it with you due to the size of its footprint: 4.1 inches x 3.5 inches x 1.5 inches — 105mm x 90 mm x 40 mm for those metric folks in the world. It is also lightweight — 0.5 lbs or 230 grams.  It is a robust piece of equipment too!  I only dropped it about half as many times as I was dropped on my head as a child and it works great still unlike this author.
-
-The Beryl AX is a simple piece of equipment that just works.  I used it for my "Digital Nomad VPN Setup" article and it couldn't have been simpler.  GL.iNet has made things so that they are easy to setup for even the non-technically inclined.  You just need to follow the step-by-step guide to be able to setup your own private Wireguard server/clients.
+It’s compact, easy to set up, and perfect for situations where you need a secure, private network on the go. Whether you’re connecting in a hotel, café, or airport lounge, the Beryl AX gives you control and peace of mind.  
 
 ---
-| | |
-|---|---|
+
+## Why Digital Nomads Love It
+
+One of the biggest advantages is how it handles **captive portals** (those login pages you encounter on public Wi‑Fi). Instead of entering credentials on every device, you log in once through the router, and all your connected devices piggyback on that session. It saves time and frustration, especially when juggling laptops, tablets, and phones.  
+
+It also doubles as a **VPN hub**. With built‑in support for WireGuard and OpenVPN, you can encrypt traffic for all devices at once. This is invaluable when working remotely in countries with restrictive networks or when handling sensitive client data.  
+
+---
+
+## Specs at a Glance
+
 | **Specification**        | Details                                                                 |
 |---------------------------|-------------------------------------------------------------------------|
 | **Model**                | GL-MT3000 (Beryl AX)                                                    |
@@ -43,45 +43,61 @@ The Beryl AX is a simple piece of equipment that just works.  I used it for my "
 | **VPN Performance**      | OpenVPN up to 150 Mbps; WireGuard up to 300 Mbps                        |
 | **Firmware**             | Based on OpenWrt (Linux-based, open-source, customizable)               |
 | **Security Features**    | WPA3, VPN client/server, AdGuard Home, DNS over HTTPS/TLS               |
-| **Size**                 | Pocket-sized, portable design for travel                                |
+| **Size**                 | 105 × 90 × 40 mm (4.1 × 3.5 × 1.5 in)                                   |
+| **Weight**               | 230 g (0.5 lbs)                                                         |
 | **Power Supply**         | USB-C powered                                                           |
 | **Special Features**     | OFDMA for efficient multi-device connectivity, advanced VPN support     |
 
+---
 
 ## 🔑 Key Features
-| | |
-|---|---|
-| **Wi-Fi 6 (AX3000 dual-band)** | Faster speeds and better efficiency compared to Wi-Fi 5 predecessors |  
-| **Ports** | 2.5Gbps WAN port, 1Gbps LAN port, and USB 3.0 for flexible connectivity |  
-| **OpenWrt-based firmware** | Highly customizable with Luci, SSH, and advanced security features |  
-| **VPN-ready** | Supports OpenVPN and WireGuard with hardware acceleration |  
-| **Compact design** | Small enough to fit in a laptop bag or backpack |  
+
+- **Wi-Fi 6 (AX3000 dual-band)** – Faster speeds and better efficiency compared to Wi-Fi 5.  
+- **Ports** – 2.5Gbps WAN, 1Gbps LAN, and USB 3.0 for flexible connectivity.  
+- **OpenWrt-based firmware** – Highly customizable with Luci, SSH, and advanced security features.  
+- **VPN-ready** – Supports OpenVPN and WireGuard with hardware acceleration.  
+- **Compact design** – Small enough to fit in a laptop bag or backpack.  
 
 ---
 
 ## 👍 Strengths
-- Pocket-sized and lightweight, perfect for travel  
-- Solid throughput with reliable range for small spaces  
-- Advanced security and customization via OpenWrt  
-- Strong VPN integration for secure browsing on public Wi-Fi  
-- Remote management with GoodCloud service  
+
+- Pocket-sized and lightweight, perfect for travel.  
+- Solid throughput with reliable range for hotel rooms, apartments, and small offices.  
+- Advanced security and customization via OpenWrt.  
+- Strong VPN integration for secure browsing on public Wi-Fi.  
+- Remote management with GoodCloud service.  
 
 ---
 
 ## 👎 Weaknesses
-- Firmware updates often required out of the box  
-- No built-in battery, requires external power  
-- Range is limited for larger homes  
-- OpenWrt customization can be intimidating for beginners  
+
+- Firmware updates often required out of the box.  
+- No built-in battery, requires external power.  
+- Range is limited for larger homes.  
+- OpenWrt customization can be intimidating for beginners.  
 
 ---
 
 ## ⚖️ Comparison with Slate AX
+
 - **Beryl AX vs Slate AX**:  
-  - Beryl AX is smaller, lighter, and consumes less power  
-  - Performance is similar, but portability gives the Beryl AX an edge  
+  - Beryl AX is smaller, lighter, and consumes less power.  
+  - Slate AX offers slightly better range, but portability gives the Beryl AX an edge.  
+
+---
+
+## 🧳 Real-World Use Cases
+
+- **Hotel Wi-Fi**: Connect once through the captive portal, then all devices stay online.  
+- **Remote Work**: Run WireGuard to secure client data while working abroad.  
+- **Streaming Abroad**: Use VPN to access geo-restricted content without configuring each device.  
+- **Shared Spaces**: Create a private network in co-working spaces to isolate your devices.  
 
 ---
 
 ## 🏆 Overall Verdict
-The **GL.iNet Beryl AX** is a **must-have travel router** for digital nomads, remote workers, and security-conscious travelers. Its combination of **Wi-Fi 6 speeds, VPN support, and OpenWrt flexibility** makes it stand out in the portable router market. While not ideal for large-scale home networking, it excels in its niche: **secure, portable connectivity on the go**.
+
+The **GL.iNet Beryl AX** is a **must-have travel router** for digital nomads, remote workers, and security-conscious travelers. Its combination of **Wi-Fi 6 speeds, VPN support, and OpenWrt flexibility** makes it stand out in the portable router market.  
+
+While not ideal for large-scale home networking, it excels in its niche: **secure, portable connectivity on the go**. If you value privacy, convenience, and reliability, the Beryl AX deserves a permanent spot in your travel kit.

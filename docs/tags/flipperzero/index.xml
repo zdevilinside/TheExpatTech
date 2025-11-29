@@ -13,7 +13,7 @@
       <link>https://www.theexpattech.com/tech-tips/resetting-a-flipper-zero/</link>
       <pubDate>Mon, 24 Nov 2025 14:35:49 -0600</pubDate>
       <guid>https://www.theexpattech.com/tech-tips/resetting-a-flipper-zero/</guid>
-      <description>&lt;p&gt;A friend of mine had his Flipper Zero freeze up on them.  They asked me how to get it to reset.  When that didn&amp;rsquo;t work, they decided to do a &amp;ldquo;hard reset&amp;rdquo; of their Flipper but they had difficulty finding the directions on how to do it.  I decided to create this page to help those that are having to look online to find the answer.&lt;/p&gt;&#xA;&lt;p&gt;Do you have a Flipper Zero that you forgot the pin to?  It is actually quite easy to reset.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;why-reset-a-flipper-zero&#34;&gt;Why Reset a Flipper Zero?&lt;/h2&gt;&#xA;&lt;p&gt;A friend of mine had their &lt;strong&gt;Flipper Zero freeze up&lt;/strong&gt; unexpectedly. They asked me how to reset it, but the directions weren’t easy to find. Since this is a common issue—whether from forgotten PINs, firmware glitches, or lockups—I decided to document the process here for anyone searching online.&lt;/p&gt;&#xA;&lt;p&gt;Resetting can be done in two ways: a &lt;strong&gt;manual button reset&lt;/strong&gt; or using the &lt;strong&gt;qFlipper utility&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;method-1-manual-reset-forgotten-pin-or-frozen-device&#34;&gt;Method 1: Manual Reset (Forgotten PIN or Frozen Device)&lt;/h2&gt;&#xA;&lt;p&gt;This is the quickest way to reset the Flipper without connecting it to a computer:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

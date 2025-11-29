@@ -13,143 +13,62 @@ description: "Step-by-step guide to building a Mac OS 15 Sequoia VM on Windows u
 
 **How to create a MacOS 15 Sequoia VM in VMware**
 
-Over the years, I have noticed that a lot of people seem to have bought into the marketing of Apple and believe that the Mac is the best computer. Apple has won the marketing game just like Bose has done with speakers. Audiophiles say that if you want no highs or lows, you buy Bose!  Most people just don't seem to get that while Apple does provide a good product, they are overpriced for what they provide and it isn't close to the value most Windows-based computers are. Yes, you can find value with Linux but most people are more comfortable with what they already have been using for years -- Windows.
+Apple has long marketed the Mac as the pinnacle of computing. While their hardware is polished, it comes at a premium price. For many Windows users, the appeal of macOS is curiosity rather than necessity. Fortunately, virtualization offers a way to explore macOS without buying Apple hardware.  
 
-So, what can you do besides paying the ransom to get a Mac system? Well,there are things that you can do. You can be a glutton for punishment and buy a Mac. I am sorry if you feel like this is the answer. Unfortunately, you need to either be a child of a Oligarch, be a trust fund baby, dealing crystal meth, burglarizing other people's homes, or just be an idiot to go out and buy a Mac system in my opinion. Why? There are things that can be done to help you try the Mac environment without going to the expense of buying a Mac.
+This guide walks you through building a **MacOS 15 Sequoia VM** on a Windows PC using VMware. It’s not always smooth sailing—there are quirks, patches, and patience required—but it’s a practical way to test macOS for development, compatibility, or just to satisfy curiosity.  
 
-I am one of those "old school" techs from years ago that looks at Operating Systems as if they were airlines. With Mac Airlines, all the stewards, stewardesses, captains, first officers, baggage handlers and customer service agents look like clones of one another. They all talk the same way and act like each other. Every time you ask questions about the details, you are told you don't need to know, don't want to know, and that you need to get your butt back into your seat and enjoy watching the 99th playing of the Barney movie.
+---
 
-Some may try to label me as an Apple-hater.  That isn't the truth at all.  I got my first Apple certification in 1994 and have been certified with them ever since.  When did you get your first certification with Apple?  The truth is that I hate Apple's business practices and won't personally buy any of their equipment again. I believe in the "right to repair" and feel that any company that keeps you from repairing your own equipment is evil incarinate.  
+## Minimum Requirements
 
-Don't worry about me. I am the type of person that ate paint chips as a child and will change the thermometer from Fahrenheit to Celsius when it gets too hot and the lower number convinces me it is cooler. Don't worry, I am not going to act like Roy and Moss about computers in real life. (If you are in IT and don't know that reference, you are really missing out and need to go watch "The IT Crowd" and soon!
-https://www.youtube.com/@TheITCrowdChannel/videos)
+Before diving in, make sure your system can handle it:  
 
-Having said all of this, I am going to teach you how to build a Mac Sequoia VM on your Windows system. Here is how you do it!
+- **Processor**: Intel Core i-series or AMD Ryzen (8 cores recommended)  
+- **RAM**: 8 GB minimum (16 GB recommended)  
+- **Graphics**: iGPU or dedicated GPU  
+- **Storage**: 2 GB for bare install, 90 GB with instruments and sounds  
+- **Internet**: Recommended for activation and updates  
 
-Before we start building this VM, you need to verify that you have the minimum available system resources to run a Sequoia VM. You need the following:
+If your PC doesn’t meet these specs, the VM will struggle or fail to run.  
 
-- Processor: Intel Core i-series, AMD Ryzen (8 cores or more
-  recommended)
+---
 
-- RAM: 8 GB (16 GB recommended) Graphics card: iGPU or dedicated
-  graphics card Sound card:
+## Preparation Steps
 
-- ASIO-compatible sound card (native ASIO driver recommended)
+1. **Download macOS Sequoia ISO** – [Internet Archive link](https://archive.org/details/install-mac-os-sequoia).  
+2. **Download VMware Workstation Player** – [VMware Player](https://archive.org/download/vmware-player-full-17.5.0-22583795_202402/VMware-player-full-17.5.0-22583795.exe).  
+3. **Download macOS Unlocker for VMware** – [GitHub Unlocker](https://github.com/DrDonk/unlocker/releases/).  
+4. **Install VMware Player** – Accept defaults.  
+5. **Run Unlocker** – Extract, run as administrator, and let it patch VMware.  
 
-- Available drive space: 2 GB for minimum installation, 90 GB with
-  instruments and sounds
+---
 
-- Internet connection: Recommended for license activation, offline
-  license activation possible
+## Creating the Sequoia VM
 
-If you do not have these minimum requirements met by your PC, you will not be able to do this build and need to accept this fact.
+1. Launch VMware Player → “Create a New Virtual Machine.”  
+2. Select ISO file → choose macOS 15.  
+3. Name your VM and set storage path.  
+4. Allocate **100 GB disk** (single file).  
+5. Customize hardware:  
+   - RAM: 8–16 GB  
+   - CPU: 4 cores  
+   - Network: Bridged  
+6. Edit `.vmx` file:  
+   - Set `board-ID.reflectHost = FALSE`  
+   - Change `ethernet0.virtualDev = vmxnet3`  
+   - Add identifiers:  
 
-Getting ready to create the VM.
 
-There are a few steps that you must take before you are ready to build this VM. Here they are:
-
-1.  Download the Mac OSX Sequoia iso from Internet Archive.
-    <https://archive.org/details/install-mac-os-sequoia> If this link
-    isn't active, go to the Internet Archive website and search for "mac
-    os sequoia iso" and find it. It isn't that hard to do.
-  ![image 1](image1.png)
-
-2.  Download VMware Workstation player here: [VMware
-    Player](https://archive.org/download/vmware-player-full-17.5.0-22583795_202402/VMware-player-full-17.5.0-22583795.exe)
-    Hopefully this link sticks around. If it doesn't work, let me know and I will try to put up a new one OR you can do something for yourself and Google it!
-
-3.  Download MacOS Unlocker for VMware Workstation.
-    <https://github.com/DrDonk/unlocker/releases/>
-
-![image 2](image2.png)
-
-4.  Install VMware Workstation Player, accepting the defaults as they
-    come up
-
-5.  Go to where you downloaded Unlocker. Extract Unlocker into a
-    separate folder.
-
-6.  Go into the Unlocker folder, go into the Windows folder, right click
-    on Unlock.exe, and select "run as administrator".
-
-7.  Click "yes" and let it do its thing.
-
-8.  Wait for the patching to finish. It is like watching paint dry. It can take a bit of time but hopefully not too long.
-   {{< figure src="image3.png" alt="image 3" width="600" >}}
-
-9.  Hit the "Enter" key when the white text on the black window says to do it. It will finish this program and you can close the window.
-
-Creating the Sequoia VM
-
-1.  Launch VMware Workstation Player
-
-2.  Select continue to use Workstation player for non-commercial use.
-
-3.  Click finish.
-
-4.  Click "Create a New Virtual Machine".
-
-![image 4](image4.png)
-
-5.  It will bring up the "Welcome to the New Virtual Machine Wizard screen. Leave the dot on "Typical", and click next.
-    ![image 5](image5.png)
-
-6.  Select "Installer disc image file (iso), click browse, and go find your Sequoia ISO that you downloaded.
-    ![image 6](image6.png)
-
-7.  Click "Next".
-
-8.  Select Apple Mac OS X and Mac OS15.
-   [image 7](image7.png)
-
-9.  Click Next.
-
-10. Name your VM and set the path to where you want to store the VM.
-   ![image 8](image8.png)
-
-11. Change the disk size to 100GB and set the option to store the file as a single file. Click "Next".
-   ![image 9](image9.png)
-
-12. Click "Customize hardware" button.
-
-13. Increase RAM to 8GB or greater. Increase the CPU to 4 cores. The minimum amount of RAM to run Seqouia is 8GB but 16GB is recommended.  I hope you have the resources needed to run your core operating system AND the VM.
- ![image 10](image10.png)
-    ![image 11](image11.png)
-
-14. Configure Network adapter to "Bridged".
-    ![image 12](image12.png)
-
-15. Click "Close" and then "Finish" to complete the configuration.
-   ![image 13](image13.png)
-
-16. In the left tab of VMWare, you will see the VM you are creating. Right click on the name, and select "open VM directory".
-   ![image 14](image14.png)
-
-17. Right click on the .vmx file and open it in your favorite text editor.
-
-![image 15](image15.png)
-
-18. Search the .vmx file for "board-ID.reflectHost". Change the value to
-    "FALSE". ![image 16](image16.png)
-
-19. Search for "ethernet0.virtualDev". Change the value to "vmxnet3".
-
-![image 17](image17.png)
-20. Add the following at the bottom of the file:
 
 board-id = \"Mac-AA95B1DDAB278B95\"\
 hw.model.reflectHost = \"FALSE\"\
 hw.model = \"iMac20,1\"\
 serialNumber.reflectHost = \"FALSE\"\
-serialNumber = \"C01234567890\"
+serialNumber = \"C01234567890\"  
 
-![image 18](image18.png)
+7. Save and start the VM.  
 
-21. Save the file and exit your text editor.
-
-22. Reopen VMware, right click on your MacOS15 virtual machine, go to Power, and click "Start up Guest".
-
-23. Watch the fireworks!
+---
 
 Installing MacOS Sequoia
 

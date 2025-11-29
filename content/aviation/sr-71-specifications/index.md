@@ -12,7 +12,7 @@ description: "SR-71 Specifications"
 
 ## Dimensions and Capacities
 
-| Specification        | Value                          |
+|Specification        |Value                          |
 |----------------------|--------------------------------|
 | **Crew**             | 2                              |
 | **Length**           | 107 ft 5 in (32.74 m)          |

@@ -32,7 +32,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/www.theexpattech.com\/tech-tips\/how-to-fix-an-ipv6-speed-issue\/"
-        },"genre": "tech-tips","keywords": "Tech Tips","wordcount":  533 ,
+        },"genre": "tech-tips","keywords": "Tech Tips","wordcount":  493 ,
         "url": "https:\/\/www.theexpattech.com\/tech-tips\/how-to-fix-an-ipv6-speed-issue\/","datePublished": "2025-11-11T00:00:00+00:00","dateModified": "2025-11-11T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -91,8 +91,10 @@
 
     </div>
     <div class="content">
-      <p>I recently had a big problem develop with my Digital Nomad VPN Internet Service at my home in Cuernavaca, Mexico. My ISP implemented their IPv6 migration and all sorts of problems developed. My SpeedTest.net and other links were all out of whack. I ran SpeedTest.net checks against their servers and with other servers in the Mexico City area. The results were quite surprising.</p>
-<p>There is NOTHING wrong with the upload speed here! (sarcasm)<br>
+      <h2 id="the-problem">The Problem</h2>
+<p>I recently had a big problem with my <strong>Digital Nomad VPN Internet Service</strong> at home in Cuernavaca, Mexico. My ISP, Totalplay, rolled out their IPv6 migration—and suddenly my speeds were all over the place.</p>
+<p>Running SpeedTest.net checks against their servers and others in Mexico City gave me surprising results.</p>
+<p>There was NOTHING wrong with the upload speed here! (sarcasm)<br>
 <img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -100,8 +102,8 @@
         data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png 2x"
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test1.png"
-        title="speedtest #1" width="800" height="421" /></p>
-<p><img
+        title="speedtest #1" width="800" height="421" /><br>
+<img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png"
@@ -109,7 +111,7 @@
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test2.png"
         title="speedtest #2" width="800" height="409" /></p>
-<p>I started to get suspicious it was something wrong with their server, so I tried one outside of their domain.<br>
+<p>Suspicious, I tried a server outside their domain.<br>
 <img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -118,17 +120,16 @@
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test3.png"
         title="speedtest #3" width="800" height="397" /></p>
-<p>Hmm, speed is normal there.</p>
-<p>I went back to Totalplay&rsquo;s Speedtest server and got this:</p>
-<p><img
+<p>Hmm, speed was normal there. Back to Totalplay’s server:<br>
+<img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test4.png"
         data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/test4.png, /tech-tips/how-to-fix-an-ipv6-speed-issue/test4.png 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/test4.png 2x"
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test4.png"
-        title="speedtest #4" width="800" height="411" /></p>
-<p><img
+        title="speedtest #4" width="800" height="411" /><br>
+<img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png"
@@ -136,7 +137,10 @@
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test5.png"
         title="speedtest #5" width="800" height="423" /></p>
-<p>I contacted Totalplay about this issue and they basically blew me off; it felt like they couldn’t care less about my issues and that as long as my upload speed was okay, they didn’t consider it a problem. I didn’t like this one bit, so I decided to take matters into my own hands. I ran another speedtest to check if my brain wasn’t working right. Nope, I was correct.</p>
+<p>Clearly, something was wrong.</p>
+<hr>
+<h2 id="isp-response-or-lack-thereof">ISP Response (or Lack Thereof)</h2>
+<p>I contacted Totalplay, but they brushed me off. As long as my upload speed looked fine, they didn’t consider it a problem. That didn’t sit well with me. I ran more tests to confirm I wasn’t imagining things.</p>
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -145,7 +149,10 @@
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/test6.png"
         title="speedtest #6" width="800" height="372" /></p>
-<p>There was definitely something wrong with their service, and I knew it was with their IPv6 implementation. What could I do? As I surfed the web, I found a test that allowed me to do speedtests against the same server using IPv4 and IPv6 separately but at the same time. Here were my results:</p>
+<p>Nope—I was right. The issue was tied to their <strong>IPv6 implementation</strong>.</p>
+<hr>
+<h2 id="ipv4-vs-ipv6-testing">IPv4 vs IPv6 Testing</h2>
+<p>I found a tool that let me run speedtests against the same server using IPv4 and IPv6 separately.</p>
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -162,35 +169,24 @@
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image2.jpg"
         title="IPv4 test" width="800" height="622" /></p>
-<p>Totalplay’s techs wouldn’t help me and basically said, “We are going to have someone call you back and fix this issue&hellip;” but I never received a call back. I kept doing some research and came across a Microsoft article titled <em>Guidance for configuring IPv6 in Windows for advanced users</em>. I read the article and found that you could use a registry key to configure IPv6, but more importantly, force your system to prefer IPv4 over IPv6.</p>
+<p>The difference was obvious: IPv6 was the culprit.</p>
+<hr>
+<h2 id="digging-deeper-microsofts-guidance">Digging Deeper: Microsoft’s Guidance</h2>
+<p>Totalplay’s techs promised a callback but never followed through. So I dug into Microsoft’s documentation: <em>Guidance for configuring IPv6 in Windows for advanced users</em>.</p>
+<p>It explained how to use a registry key to configure IPv6 behavior, and more importantly, how to <strong>prefer IPv4 over IPv6</strong> without disabling IPv6 entirely.</p>
 <blockquote>
-<p>Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\<br>
-Name: DisabledComponents<br>
-Type: REG_DWORD<br>
-Min Value: 0x00 (default value)<br>
-Max Value: 0xFF (IPv6 disabled)</p>
+<p>Location: <code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters</code><br>
+Name: <code>DisabledComponents</code><br>
+Type: <code>REG_DWORD</code><br>
+Value: <code>32</code> (decimal) or <code>0x20</code> (hex) → Prefer IPv4 over IPv6</p>
 </blockquote>
-<p>And it had the following about preferring IPv4 over IPv6:</p>
-<blockquote>
-<p>Decimal 32<br>
-Hexadecimal 0x20<br>
-Binary xx1x xxxx</p>
-<p>Recommended instead of disabling IPv6.</p>
-<p>To confirm preference of IPv4 over IPv6, perform the following commands:</p>
+<p>To confirm IPv4 preference:</p>
 <ul>
-<li>Open the command prompt or PowerShell.</li>
-<li>Use the <code>ping</code> command to check the preferred IP version. For example, <code>ping bing.com</code>.</li>
-<li>If IPv4 is preferred, you should see an IPv4 address being returned in the response.</li>
+<li>Run <code>ping bing.com</code> → should return an IPv4 address.</li>
+<li>Run <code>netsh interface ipv6 show prefixpolicies</code> → check precedence values.</li>
+<li>Ensure <code>::ffff:0:0/96</code> has higher precedence than <code>::/0</code>.</li>
 </ul>
-<p>Network Connections:</p>
-<ul>
-<li>Open the command prompt or PowerShell.</li>
-<li>Use <code>netsh interface ipv6 show prefixpolicies</code></li>
-<li>Check if the prefix policies have been modified to prioritize IPv4.</li>
-<li>The <code>::ffff:0:0/96</code> prefix should have a higher precedence than the <code>::/0</code> prefix.</li>
-</ul>
-<p>For example, if you have two entries, one with precedence 35 and another with precedence 40, the one with precedence 40 will be preferred.<br>
-<img
+<p><img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg"
@@ -198,19 +194,35 @@ Binary xx1x xxxx</p>
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image3.jpg"
         title="Netsh results" width="500" height="243" /></p>
-</blockquote>
-<p><strong>Now we are getting somewhere!</strong></p>
-<p>I went ahead and tried it, and my Speedtest results immediately improved. However, I wasn’t too happy with Totalplay and decided to switch over to Telmex because my IPTV boxes STILL had problems with the IPv6 implementation, where they were constantly disconnecting and reconnecting. Since I switched services, I haven’t had any problems. Totalplay needs to get their act together.</p>
-<p>So, what kind of Speedtest results am I getting today?</p>
-<p><img
+<hr>
+<h2 id="the-fix">The Fix</h2>
+<p>I applied the registry tweak, rebooted, and reran my speedtests. The improvement was immediate.</p>
+<p>But even with that fix, my IPTV boxes kept disconnecting under IPv6. Frustrated, I switched providers—from Totalplay to Telmex. Since then, no problems.</p>
+<hr>
+<h2 id="results-today">Results Today</h2>
+<p>Here’s what I’m seeing now:<br>
+<img
         class="lazyload"
         src="/svg/loading.min.svg"
         data-src="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg"
         data-srcset="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg, /tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg 1.5x, /tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg 2x"
         data-sizes="auto"
         alt="/tech-tips/how-to-fix-an-ipv6-speed-issue/image4.jpg"
-        title="Telmex speed results" width="600" height="151" /><br>
-I can live with that!</p>
+        title="Telmex speed results" width="600" height="151" /></p>
+<p>I can live with that!</p>
+<hr>
+<h2 id="-did-you-know-ipv6-troubleshooting-insights">✨ Did You Know? IPv6 Troubleshooting Insights</h2>
+<ul>
+<li>🌐 <strong>IPv6 vs IPv4</strong> – IPv6 is designed to replace IPv4, but many ISPs still struggle with stable implementations.</li>
+<li>🛠️ <strong>Prefer, Don’t Disable</strong> – Microsoft recommends preferring IPv4 over IPv6 instead of disabling IPv6 entirely, since some apps rely on it.</li>
+<li>📡 <strong>ISP Servers</strong> – Speedtest results can vary dramatically depending on whether you test inside or outside your ISP’s domain.</li>
+<li>🔄 <strong>VPN Complications</strong> – VPNs often expose IPv6 leaks if not configured properly, leading to speed or security issues.</li>
+<li>💡 <strong>Registry Tweaks</strong> – Adjusting prefix policies is a safe way to control protocol preference without breaking compatibility.</li>
+</ul>
+<hr>
+<h2 id="reflection">Reflection</h2>
+<p>This experience reinforced a lesson: <strong>don’t rely on your ISP to fix everything</strong>. When IPv6 caused chaos, Totalplay dismissed the issue. By digging into documentation and making system tweaks, I solved the problem myself.</p>
+<p>For digital nomads and remote workers, stable networking is critical. Sometimes the fix isn’t switching hardware—it’s knowing how to configure your system. And when the ISP still fails, switching providers may be the only real solution.</p>
 
     </div>
   </article>

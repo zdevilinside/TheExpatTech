@@ -10,16 +10,54 @@ image: "family.jpg"
 type: "misc"
 ---
 
-I am going to write this as a narrative as I found about it.
+## A Parent’s Journey
 
-I was at a friend's house on October 3, 2025 when she asked me if I had a picture of my son.  I told her I didn't have one on me but explained that I know his work's website had one on there.  I proceeded to go there on my phone and found my son's section on it.  There was a big problem though - it was a different name with my son's photo.
+I want to share this story as it unfolded for me.  
 
-I read the bio and it listed my son as a trans-woman and so much more.  I was floored and when I was driving home, I called my wife to tell her about what I saw.  We thought it was one of 2 things - he is using it as a marketing ploy for his counseling work OR that he was really transgender.  
+On October 3, 2025, I was at a friend’s house when she asked if I had a picture of my son. I didn’t have one with me, but I knew his workplace website had a photo. Pulling it up on my phone, I found his section—only to see his photo under a different name.  
 
-As soon as I got home, I sent an email to him saying that I love him no matter what and I was supporting of them.  You have to love your children, and it is their life to live.  Your beliefs about something like this isn't necessarily your beliefs and there is nowhere in the Constitution that gives you the right to force your beliefs upon someone else.  
+Reading the bio, I discovered that my son was listed as a **trans woman**. I was floored. Driving home, I called my wife to tell her what I had seen. We thought it could be one of two things: either a marketing angle for his counseling work, or that he was truly transgender.  
 
-Anyhow, the next day, my son posted on his Facebook that he was a transwoman and her name is now going to be Mika.  My sister posted something really negative about it almost immediately.  The next business day, my Mom (his grandma) sent him a box with nothing but junk mail in it, addressed to his previous name with "Mika" in the middle between his first and last name.  This lady always claims she is broke, cannot afford anything, claims is a liberal, progressive but this is what she did to her own blood.  They say the message is in the form of the medium used.  We figured out that she is a liberal to everyone but her own family.  
+---
 
-Anyhow, my daughter knows how I am handling things and is okay with it.  Before I was told by her about her transitioning, I refer to her by her boy's name and "him".  Afterwards, I refer to her as "Mika" and "she".  I also pointed out to her that I am going to have a hard time for awhile getting those things straight because it was something I had been doing for so long - calling her by her birth name and "he".  She said she understands fully and won't hold it against me.  I am grateful for that.
+## Choosing Love First
 
-Anyhow, there is a famous saying that "blood is thicker than water".  I support my daughter no matter what her choices are in life. 
+When I got home, I sent an email immediately: *“I love you no matter what, and I support you.”*  
+
+That’s what parenting is about. You have to love your children. Their life is theirs to live. Your beliefs may not be theirs, and nowhere does the Constitution—or basic humanity—give you the right to force your beliefs on someone else.  
+
+The next day, my child posted on Facebook: she was a trans woman, and her name was now **Mika**.  
+
+---
+
+## Family Reactions
+
+Not everyone responded with kindness. My sister posted something negative almost immediately. The following business day, my mom—Mika’s grandmother—sent a box filled with junk mail, addressed to Mika’s old name with “Mika” awkwardly inserted in the middle. It was a cruel gesture from someone who often claimed to be progressive.  
+
+It reminded me that sometimes people are liberal in public, but not within their own family.  
+
+---
+
+## Learning and Adjusting
+
+My daughter knows how I’m handling things and is okay with it. Before Mika told me about her transition, I referred to her by her birth name and “he.” Afterwards, I made the effort to call her **Mika** and “she.”  
+
+I admitted to her that it would take me time to adjust—it’s hard to change habits formed over years. She told me she understood and wouldn’t hold it against me. That grace meant everything.  
+
+---
+
+## ✨ Did You Know? Family & Identity Insights
+
+- 💬 **Names Matter** – Using someone’s chosen name is one of the simplest, most powerful ways to show respect.  
+- 🧩 **Adjustment Takes Time** – Parents often need space to adapt, but effort and intention matter more than perfection.  
+- 🌍 **Support Networks** – Many families find strength in counseling or support groups during transitions.  
+- ❤️ **Blood and Choice** – “Blood is thicker than water” is often misquoted; the original meaning emphasized chosen bonds.  
+- 👪 **Generational Gaps** – Reactions often differ across generations, but empathy can bridge divides.  
+
+---
+
+## Reflection
+
+There’s a saying: *“Blood is thicker than water.”* For me, it means supporting my child no matter what. Mika’s journey is hers to live, and my role is to love her through it.  
+
+Life brings surprises, but parenting is about choosing love, even when it challenges your assumptions. Supporting your child isn’t optional—it’s the foundation of family.

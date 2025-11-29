@@ -3,4 +3,8 @@ title = "Digital Nomad"
 description = "Tips and stories about remote work and travel."
 +++
 
-I may not know much about how to get an online job, I can give you information on my experiences.  I know how to do things that are technical in nature to help you with your nomad experience.  I won't help you get a job, get around rules/regulations of places you want to visit, but I **WILL** share with you what I know how to do to make this an easier experience.  Things such as how to setup a Digital Nomad VPN using Wireguard is one such thing.  It is actually quite easy to do.  Unfortunately, I do not have the technical background to answer questions on how to fix it but will share knowledge as I learn it.  
+I may not know much about how to land an online job, but I can share my experiences. What I do know is how to handle the technical side of things that can make your nomad journey easier.  
+
+I won’t help you find employment or bypass rules and regulations in the places you want to visit. What I **will** do is share practical knowledge that makes remote work and travel smoother. For example, setting up a Digital Nomad VPN using WireGuard is one of those tasks—it’s actually quite straightforward once you know how.  
+
+While I don’t have the deep technical background to troubleshoot every issue, I’ll continue to share what I learn along the way. My goal is to provide insights and tips that make the digital nomad lifestyle more accessible and less intimidating.

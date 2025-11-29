@@ -8,25 +8,24 @@ image: "products.png"
 tags: ["GL.iNet"]
 description: "GL.iNet's products compared/contrast"
 ---
+
 ## Why I use GL.iNet products for "Digital Nomad VPNs"  
 
-A few years back, a friend of mine had a work-from-home job that required her to work from a specific location.  Unfortunately for her, a relative had gotten sick and needed her to go live with them for a few weeks while they recovered.  She asked her boss if she could temporarily work from another state at a site 120 miles away.  Her boss would not allow her to do so.  
+A few years back, a friend of mine had a work-from-home job that required her to stay in one location. When a relative became sick, she needed to move temporarily to help care for them. Her boss refused to allow her to work from another city—even though it was only 120 miles away.  
 
-She was in a real pickle; the relative is someone that raised her and she felt obligated to help.  She couldn't afford to take time off to help because she would lose her job if she did that much time, it was a tough job market, and she turned to me to find a way to help her get through this.
+She was stuck: she couldn’t afford to take time off, but she also couldn’t ignore her family obligations. That’s when I stepped in to help.  
 
-After doing some research, I learned about how GL.iNet had a product (Brume 2) that was an answer.  You had to buy two of them, set one up at her home to act as a WireGuard server, and the other one would go with her and act as a WireGuard client.  We decided to give it a shot and see if it would work.
+After researching options, I discovered the **GL.iNet Brume 2**. By setting up one Brume 2 as a WireGuard server at her home and another as a client at her temporary location, we could make her laptop appear as if it was still in her original city.  
 
-I set up the server at her house and we took the client to her friend's house the next town over.  We ran a WhatIsMyIPAddress.com check on what her laptop showed before we connected her system through the Brume 2.  It showed she was in her friend's city.  We then put the Brume 2 client in place, connected to WhatIsMyIPAddress.com and **BINGO** it showed her town as her location.  
+We tested it: before connecting, her IP showed the new city. After connecting through the Brume 2 client, her IP showed her home city. **Problem solved.** She worked remotely for 2.5 weeks, cared for her relative, and kept her job. Ironically, her inflexible supervisor was later terminated.  
 
-My friend used her client and was able to work the 2.5 weeks while her relative recovered.  She then went back to her normal city of and continued to work as normal.  Her supervisor was later on terminated for their inflexibility with accomodations so this is just proof that what she did was the right thing to do.
+That experience convinced me of the value of GL.iNet products. Since then, I’ve purchased and tested several of their devices for myself and for clients. While I’ve moved beyond the Brume 2 for most use cases, their lineup continues to impress me with performance, portability, and built-in VPN support.  
 
-Since that event, I have personnaly purchased quite a few of GL.iNet's products for my own and customers.  I have predominantly moved away from the Brume 2 though because the performance of their other equipment has led me to upgrade.  I am going to go through the different pieces of GL.iNet VPN equipment I have and provide you their specs, compare/contrast their performance, their equipment ports, use cases, and summarize them.
+---
 
 # 🖥️ GL.iNet Router Comparison: Flint 2, Slate AX, Brume 2, Slate 7, and Flint 3
 
-GL.iNet offers a diverse lineup of devices designed for different use cases ranging from powerful home networking to portable travel solutions.I have   
-
-This short post discusses the differences between the **Flint 2, Slate AX, Brume 2, Slate 7, and Flint 3**.
+GL.iNet offers a diverse lineup of devices designed for different scenarios—from powerful home networking to portable travel solutions. Here’s a breakdown of the models I’ve used.  
 
 ---
 
@@ -48,27 +47,27 @@ This short post discusses the differences between the **Flint 2, Slate AX, Brume
 ## 🔍 Comparison & Contrast
 
 ### Performance
-- **Flint 2 & Flint 3**: Heavy-duty home/office routers. Flint 3 is more advanced with **Wi-Fi 7 tri-band** and higher throughput.
-- **Slate AX & Slate 7**: Portable travel routers. Slate 7 is future-proof with **Wi-Fi 7**.
-- **Brume 2**: Unique as a **wired VPN gateway** without Wi-Fi, optimized for secure tunneling and SD-WAN.
+- **Flint 2 & Flint 3**: Heavy-duty home/office routers. Flint 3 adds **Wi-Fi 7 tri-band** and higher throughput.  
+- **Slate AX & Slate 7**: Portable travel routers. Slate 7 is future-proof with **Wi-Fi 7**.  
+- **Brume 2**: Wired-only VPN gateway, ideal for secure tunneling and SD-WAN setups.  
 
 ### VPN Speeds
-- **Flint 2** leads with **900 Mbps WireGuard**.
-- **Flint 3** balances across protocols with **680 Mbps**.
-- **Slate AX & Slate 7** provide solid mid-range VPN speeds for travel.
-- **Brume 2** is slower but optimized for **secure remote access** and VPN cascading.
+- **Flint 2**: Top performer with **900 Mbps WireGuard**.  
+- **Flint 3**: Balanced performance across protocols (~680 Mbps).  
+- **Slate AX & Slate 7**: Mid-range speeds, perfect for travel.  
+- **Brume 2**: Slower, but reliable for secure remote access.  
 
 ### Ports
-- **Flint 3** dominates with **five 2.5G ports**.
-- **Flint 2** offers **dual 2.5G + 4 Gigabit**.
-- **Slate 7** has **dual 2.5G ports**, impressive for a travel router.
-- **Slate AX** sticks to **Gigabit ports**.
-- **Brume 2** provides **1 WAN + 2 LAN Gigabit ports**.
+- **Flint 3**: Best in class with **five 2.5G ports**.  
+- **Flint 2**: Dual 2.5G + 4 Gigabit ports.  
+- **Slate 7**: Dual 2.5G ports—rare for a travel router.  
+- **Slate AX**: Standard Gigabit ports.  
+- **Brume 2**: Simple 1 WAN + 2 LAN Gigabit ports.  
 
 ### Use Cases
-- **Flint 2 & Flint 3** → Home/office, gaming, streaming, multi-device environments.
-- **Slate AX & Slate 7** → Travel, portable secure internet, hotel/public Wi-Fi.
-- **Brume 2** → VPN gateway for remote workers or small businesses, ideal for SD-WAN setups.
+- **Flint 2 & Flint 3** → Home/office, gaming, streaming, multi-device setups.  
+- **Slate AX & Slate 7** → Travel, hotel/public Wi-Fi, portable secure internet.  
+- **Brume 2** → Dedicated VPN gateway for remote workers or small businesses.  
 
 ---
 
@@ -80,8 +79,23 @@ This short post discusses the differences between the **Flint 2, Slate AX, Brume
 - **Brume 2** → Perfect for a **dedicated VPN gateway** without Wi-Fi, optimized for **remote access and SD-WAN**.  
 
 ---
-There you go!  That is all of the equipment I have and what segment they are best for.  I have other GL.iNet equipment on order that I will provide reviews and impression reports on shortly.
 
-So you know, I am not just a GL.iNet fanboy.  I have other routing equipment from Synology, Netgear, TP-Link, Eero, and many others.  I just love their equipment in specific cases - when you need a built-in VPN solution that is easy to setup and get going.
+## ✨ Did You Know? GL.iNet Insights
 
-GL.iNet has many fans though including the likes of [**NASCompares**](https://www.youtube.com/@nascompares/search?query=glinet), [**Linus Tech Tips**](https://www.youtube.com/@LinusTechTips/search?query=Glinet), and [**Dave's Garage**](https://www.youtube.com/@DavesGarage/search?query=glinet).
+- 🔐 **VPN Integration** – GL.iNet routers ship with WireGuard and OpenVPN support out of the box.  
+- 🌍 **Digital Nomad Friendly** – Portable models like Slate AX and Slate 7 are designed for hotel/café Wi-Fi.  
+- 🛠️ **OpenWrt Base** – Their firmware is built on OpenWrt, allowing advanced customization.  
+- 📡 **Multi-WAN & Failover** – Flint models can balance multiple connections for reliability.  
+- 🤝 **Community Support** – GL.iNet has an active Discord and GitHub presence for troubleshooting and mods.  
+
+---
+
+## Reflection
+
+GL.iNet routers aren’t just gadgets—they’re problem-solvers. From helping a friend keep her job while caring for family, to powering my own VPN setups across borders, these devices have proven their worth.  
+
+I’m not a fanboy; I use gear from Synology, Netgear, TP-Link, Eero, and others. But when it comes to **built-in VPN solutions that are easy to set up and reliable**, GL.iNet consistently delivers.  
+
+It’s no surprise they’ve earned fans among tech reviewers like [**NASCompares**](https://www.youtube.com/@nascompares/search?query=glinet), [**Linus Tech Tips**](https://www.youtube.com/@LinusTechTips/search?query=Glinet), and [**Dave's Garage**](https://www.youtube.com/@DavesGarage/search?query=glinet).  
+
+For digital nomads, remote workers, or anyone who values secure connectivity, GL.iNet products are worth a serious look.

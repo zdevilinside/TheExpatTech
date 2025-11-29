@@ -31,7 +31,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/www.theexpattech.com\/tech-tips\/network-troubleshooting-scripts\/"
-        },"genre": "tech-tips","wordcount":  139 ,
+        },"genre": "tech-tips","wordcount":  416 ,
         "url": "https:\/\/www.theexpattech.com\/tech-tips\/network-troubleshooting-scripts\/","datePublished": "2025-10-01T19:35:49-06:00","dateModified": "2025-10-01T19:35:49-06:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -84,9 +84,40 @@
 
     </div>
     <div class="content">
-      <p>I recently had problems with my Digital Nomad VPN setup.  I went to the GL.iNet Discord and asked for help but they wanted results from various tests to be able to help me.  I provided those responses but felt there had to be a better way.
-I saw these types of questions asked all the time in the tech support sub of GL.iNet&rsquo;s Discourd.  I found that there were very few options out there that allowed you to find a single, simple source with logs to troubleshoot a VPN network and decided to create my own.  With the assistance of &ldquo;Wicked Yoda&rdquo;, I created these and shared them.  Wicked has taken on the torch to building these troubleshooting tools.  You can find them here:  <a href="https://github.com/wickedyoda/Network-Diag-Utilities" target="_blank" rel="noopener noreffer ">https://github.com/wickedyoda/Network-Diag-Utilities</a></p>
-<p>If you want to see my original scripts, they can be accessed here:  <a href="https://github.com/zdevilinside/network_testing_scripts/tree/main" target="_blank" rel="noopener noreffer ">https://github.com/zdevilinside/network_testing_scripts/tree/main</a></p>
+      <h2 id="why-i-built-these-scripts">Why I Built These Scripts</h2>
+<p>I recently ran into problems with my <strong>Digital Nomad VPN setup</strong>. When I asked for help on the GL.iNet Discord, the community wanted results from various diagnostic tests before they could assist. I provided the outputs, but the process felt scattered and inefficient.</p>
+<p>I noticed that these kinds of questions—<em>“Can you run a ping?”</em>, <em>“What’s your traceroute?”</em>, <em>“Do you have logs?”</em>—were asked constantly in the tech support channels. Yet there wasn’t a simple, unified way to gather all the relevant information in one place. That’s when I decided to create my own troubleshooting scripts.</p>
+<hr>
+<h2 id="collaboration-and-evolution">Collaboration and Evolution</h2>
+<p>With the assistance of <strong>“Wicked Yoda”</strong>, I built a set of scripts that automate common diagnostic tasks and output logs in a clean, shareable format. Wicked has since taken the torch and expanded the project into a more robust toolkit.</p>
+<ul>
+<li>🔗 Current project: <a href="https://github.com/wickedyoda/Network-Diag-Utilities" target="_blank" rel="noopener noreffer ">Network-Diag-Utilities by Wicked Yoda</a></li>
+<li>📂 My original scripts: <a href="https://github.com/zdevilinside/network_testing_scripts/tree/main" target="_blank" rel="noopener noreffer ">network_testing_scripts</a></li>
+</ul>
+<p>These tools are designed to save time, reduce repetitive questions, and make troubleshooting VPN and network issues more straightforward.</p>
+<hr>
+<h2 id="what-the-scripts-do">What the Scripts Do</h2>
+<p>The scripts combine several common diagnostic commands into one workflow:</p>
+<ul>
+<li><strong>Ping tests</strong> – Verify connectivity to key endpoints.</li>
+<li><strong>Traceroute</strong> – Identify where packets are being delayed or dropped.</li>
+<li><strong>DNS resolution checks</strong> – Confirm that your DNS servers are working properly.</li>
+<li><strong>VPN tunnel verification</strong> – Test whether traffic is actually flowing through the VPN.</li>
+<li><strong>Log collection</strong> – Bundle results into a single file for easy sharing with support teams.</li>
+</ul>
+<p>Instead of running each command manually, the scripts automate the process and produce a consolidated report.</p>
+<hr>
+<h2 id="-did-you-know-troubleshooting-insights">✨ Did You Know? Troubleshooting Insights</h2>
+<ul>
+<li>🛠️ <strong>Consistency Matters</strong> – Running the same set of tests every time makes it easier to spot patterns.</li>
+<li>🌍 <strong>VPN Complexity</strong> – Problems often come from DNS leaks, misconfigured routes, or firewall rules.</li>
+<li>📑 <strong>Logs Save Time</strong> – Support teams can diagnose issues faster when they see complete logs upfront.</li>
+<li>🤝 <strong>Community Driven</strong> – Many open-source tools like this start as one person’s frustration and grow through collaboration.</li>
+</ul>
+<hr>
+<h2 id="reflection">Reflection</h2>
+<p>For digital nomads and remote workers, reliable networking is non‑negotiable. When VPNs fail, productivity grinds to a halt. These scripts were born out of necessity—my own frustration with scattered troubleshooting—and evolved into a community resource.</p>
+<p>By automating diagnostics, they reduce friction, save time, and empower users to provide clear information when asking for help. Whether you’re a seasoned IT pro or just trying to keep your VPN stable while traveling, these tools can make troubleshooting less painful and more effective.</p>
 <figure><img src="/tech-tips/network-troubleshooting-scripts/kittentechs.jpeg"
     alt="image 1">
 </figure>

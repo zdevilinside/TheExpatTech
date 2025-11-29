@@ -7,20 +7,49 @@ categories: ["Living In Mexico"]
 tags: ["Living In Mexico"]
 description: "Annual bonus calculations"
 ---
-  ![image 1](image1.jpg)
-It is that time of the year again where workers are given their yearly bonuses.  This is NOT an optional thing either.  Mexico's previous President Andres Manuel Lopez Obrador (AMLO) completely redid the Mexico Ley de Trabajo and this is what it says now:
 
-*Article 87.- Workers will have the right to an annual bonus that must be paid before the twentieth of December, equivalent to at least fifteen days of salary. Those who have not completed the year of service, regardless of whether they are working or not on the date of settlement of the bonus, will have the right to be paid the proportional part of it, according to the time they have worked, whatever this may be.*
+![image 1](image1.jpg)
 
-The wording of the various other Articles that goes along with this rule leaves a lot to be desired but it did away with a complicated mathematical formula that was used previously.  Now though, there is a lot of "intrepretation" of the new laws and that is where it gets so confusing.
+## Annual Bonus (Aguinaldo) in Mexico
 
-Whatever the worker earns a week, divide it by 6.  You will then get a per day amount.  You have to pay that daily amount x 15 for your annual bonus.  But then again, with the new wording, there is so much other things that can be added to it and it creates a lot of questions.  
+It’s that time of year again: workers in Mexico are entitled to their annual bonus, known as the **aguinaldo**. This is **not optional**—it is mandated by law.  
 
-Personally, I just pay a bonus of 2 weeks salary per year.  If my gardener works 1 day a week for $500 pesos a day, I give them $1000 as a yearly bonus.  If they earn $5000 pesos a month, I will give them $2500 pesos.  
+### What the Law Says
 
-However much you decide to pay, these bonuses need to be paid before December 20th each year.  Don't be late else you could face fines and other difficulties that you just don't want to deal with.
+Under **Article 87 of the Federal Labor Law**, all employees must receive an annual bonus equivalent to at least **15 days of salary**, paid no later than **December 20th**. Even employees who have not completed a full year of service are entitled to a proportional payment based on the time they have worked.  
 
-Good luck!
+Recent legislative initiatives have proposed **increasing the minimum aguinaldo from 15 to 30 days of salary**, though as of late 2025 this reform is still under discussion. Employers should stay alert to updates, as this change could double the minimum obligation.  
 
+### How to Calculate
 
+1. **Weekly salary ÷ 6 = daily rate**  
+2. **Daily rate × 15 = minimum aguinaldo**  
 
+Example:  
+- A gardener earning **$500 pesos per day, one day per week** → minimum bonus = **$1,000 pesos**.  
+- A worker earning **$5,000 pesos per month** → minimum bonus = **$2,500 pesos**.  
+
+Many employers choose to pay **two weeks’ salary** as a straightforward calculation, but the law requires at least 15 days.  
+
+### Practical Guidance
+
+- **Deadline:** Pay by **December 20th** each year.  
+- **Scope:** Applies to all employees, including domestic staff such as gardeners, cleaners, and drivers.  
+- **Documentation:** Keep written records of payments to avoid disputes.  
+- **Penalties:** Late or missing payments can result in fines and legal complications.  
+
+---
+
+## ✨ Did You Know? Aguinaldo Insights
+
+- 🎄 The aguinaldo is separate from vacation pay and is intended to help families with holiday expenses.  
+- 🏠 Domestic workers are explicitly included—if you employ household staff, you must pay them too.  
+- 📈 Proposed reforms could double the minimum bonus to **30 days of salary**, reflecting efforts to improve worker benefits.  
+- 💵 Payment must be in pesos, not foreign currency.  
+- 📅 Many employers pay more than the minimum to maintain goodwill and avoid disputes.  
+
+---
+
+## Reflection
+
+Paying the aguinaldo is more than a legal requirement—it’s a cultural tradition that supports workers during the holiday season. For employers, it’s an opportunity to show respect and appreciation. Whether you pay the minimum 15 days or choose to give more, **make sure it’s done on time**. Staying informed about upcoming reforms will help you avoid surprises and maintain good relationships with your employees.
