@@ -18,15 +18,13 @@ I wish to give a special thanks to the friends that have helped me get this site
 |**Adam**| https://thewirednomad.com|
 |**Wicked Yoda**| https://www.wickedyoda.com|
 |**Zippyy**| https://techrelay.xyz/|
-
-Sites that I like to visit
-
-|Daily||
+|||
+|***Daily***||
 |**NASCompares**| https://nascompares.com/|
 |**TorrentFreak**|https://torrentfreak.com/|
 |**How-to Geek**|https://www.howtogeek.com/|  
-
-|Regularly visted||
+|||
+|***Regularly visted***|Sites I visit at least 3 or 4 times a week|
 |**GamersNexus**| https://gamersnexus.net/|
 |**Make Use Of**|https://www.makeuseof.com/|
 |**HowtoForge**|https://www.howtoforge.com/|
