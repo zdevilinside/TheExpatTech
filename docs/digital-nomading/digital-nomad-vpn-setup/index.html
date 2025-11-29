@@ -33,7 +33,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/www.theexpattech.com\/digital-nomading\/digital-nomad-vpn-setup\/"
-        },"genre": "digital-nomading","keywords": "Digital Nomading, Tech Tips","wordcount":  449 ,
+        },"genre": "digital-nomading","keywords": "Digital Nomading, Tech Tips","wordcount":  521 ,
         "url": "https:\/\/www.theexpattech.com\/digital-nomading\/digital-nomad-vpn-setup\/","datePublished": "2025-11-23T00:00:00+00:00","dateModified": "2025-11-23T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -96,46 +96,259 @@
 
     </div>
     <div class="content">
-      <h2 id="-top-secret-notice">🚨 Top Secret Notice</h2>
+      <h2 id="-top-secret-notice">🚨 Top Secret notice</h2>
 <blockquote>
 <p><strong>Unauthorized personnel beware!</strong><br>
 This guide contains sensitive setup instructions.<br>
 Proceed at your own risk — and remember, this is for educational purposes only.</p>
 </blockquote>
 <hr>
-<p>Okay, you have made the decision. You want to take a chance with your job and work from somewhere that you are not authorized. You now need to set things up so that you can make it the least likely to get caught. You agree not to hold me responsible for any outcome you have if you are caught doing what I am about to show you how to do.</p>
-<p>First things first, you have to talk about the prerequisite requirements before you attempt to set this up. I will be using GL.iNet devices for this setup because it is the most &ldquo;friendly&rdquo; way to do this. If you’re not very technical, this is the easiest way to follow along. It <strong>does</strong> take some skill to set up, but this guide will walk you through it step by step.</p>
+<h3 id="prerequisites">Prerequisites</h3>
 <ol>
 <li>Buy 2 GL.iNet routers — one full router and one travel router.</li>
 <li>We’ll be using <strong>WireGuard</strong> as the VPN technology.</li>
 <li>If you’re not using GL.iNet routers on both sides, this post isn’t for you.</li>
 <li>I’ll use a GL.iNet Beryl AX to demonstrate both the VPN server and client setup.</li>
-<li>From now on:
+<li>Terminology:
 <ul>
-<li><strong>Server</strong> = “HOME” system (where you want to appear to be).</li>
-<li><strong>Client</strong> = the device you travel with (your actual location).</li>
+<li><strong>Server</strong> = “HOME” system (where you want to pretend to be).</li>
+<li><strong>Client</strong> = the device you travel with (where you actually are).</li>
 </ul>
 </li>
 <li>LAN = Local, WAN = World.</li>
-<li>You’ll need to configure <strong>port forwarding</strong> on your ISP’s modem/router. Search YouTube or <a href="https://portforward.com/router.htm" target="_blank" rel="noopener noreffer ">portforward.com</a> for instructions. Use <strong>UDP port 51820</strong>.</li>
+<li>Configure <strong>port forwarding</strong> on your ISP’s modem/router. Use UDP port 51820.</li>
 </ol>
 <hr>
-<h1 id="vpn-server--where-you-want-to-pretend-to-be">VPN Server – Where You Want to Pretend to Be</h1>
-<p><em>(… full step-by-step instructions continue …)</em></p>
+<h1 id="vpn-server--where-you-want-to-pretend-to-be">VPN Server – Where you want to pretend to be</h1>
+<ol>
+<li>
+<p>Connect a CAT‑5e/Ethernet cable from your ISP modem/gateway/ONT to the router’s <strong>WAN</strong> port.  An easy way to remember which cable goes to what devices is look at the first letter of WAN/LAN.  WAN = World and therefore goes out the door (to your service provider), and LAN = Local and sticks inside the house. This goes to your computer.
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image2.jpg"
+       alt="WAN port" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Connect another Ethernet cable from your computer to a <strong>LAN</strong> port on the router.</p>
+</li>
+<li>
+<p>Open your web browser and enter the router’s address.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image3.jpg"
+       alt="Router login" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Set the router password, then click “Next.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image4.jpg"
+       alt="Set password" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>On “Set Up Wi‑Fi,” leave defaults for now and click “Next.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image5.jpg"
+       alt="Wi-Fi setup" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>After a few moments, click the blue “Exit” button.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image6.jpg"
+       alt="Exit setup" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>You should now see the main dashboard.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image7.jpg"
+       alt="Dashboard" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “Cloud Services” on the left.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image8.jpg"
+       alt="Cloud services" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “GoodCloud.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image9.jpg"
+       alt="GoodCloud" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “Get Started,” then “Enable.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image10.jpg"
+        alt="Enable GoodCloud" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Create an account and/or log in.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image11.jpg"
+        alt="GoodCloud login" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click outside the popup to return to the dashboard.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image12.jpg"
+        alt="Dashboard after login" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Toggle on “Enable Remote SSH” and “Enable Remote Web Access,” then click Apply.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image13.jpg"
+        alt="Remote access toggles" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click “VPN” on the left, then select “WireGuard Server.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image14.jpg"
+        alt="WireGuard server" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click “Generate Configuration.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image15.jpg"
+        alt="Generate config" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click “Start.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image16.jpg"
+        alt="Start server" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click the “Profiles” tab.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image17.jpg"
+        alt="Profiles tab" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click the blue “+ Add” button.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image18.jpg"
+        alt="Add profile" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Name your client profile (e.g., “client”) and click “Apply.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image19.jpg"
+        alt="Name profile" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Click “Download” and save the config file somewhere safe.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image20.jpg"
+        alt="Download config" width="75%">
+    </figure>
+</p>
+</li>
+</ol>
 <hr>
-<h1 id="vpn-client--the-device-you-take-with-you">VPN Client – The Device You Take With You</h1>
-<p><em>(… client setup instructions continue …)</em></p>
+<h1 id="vpn-client--the-device-you-take-with-you">VPN Client – The device you take with you</h1>
+<ol>
+<li>
+<p>Click “WireGuard Client.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image14.jpg"
+       alt="WireGuard client" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Scroll down and click “+ Add Manually.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image21.jpg"
+       alt="Add manually" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “Select a file to upload or drag it here.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image22.jpg"
+       alt="Upload config" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Upload the config file you saved from the server setup.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image23.jpg"
+       alt="Select config file" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “Apply.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image24.jpg"
+       alt="Apply config" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>You should see the client profile listed.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image25.jpg"
+       alt="Client profile" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click the three dots (…) next to the profile, then click “Start.”<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image26.jpg"
+       alt="Start client" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>A blue dot indicates the VPN is connected.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image27.jpg"
+       alt="Connected client" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Click “VPN Dashboard” on the left.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image28.jpg"
+       alt="VPN dashboard" width="75%">
+   </figure>
+</p>
+</li>
+<li>
+<p>Turn on the <strong>Kill Switch</strong>.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image29.jpg"
+        alt="Kill switch toggle" width="75%">
+    </figure>
+</p>
+</li>
+<li>
+<p>Confirm Kill Switch is ON.<br>
+<figure><img src="/digital-nomading/digital-nomad-vpn-setup/image30.jpg"
+        alt="Kill switch on" width="75%">
+    </figure>
+</p>
+</li>
+</ol>
 <hr>
 <h2 id="notes">Notes</h2>
 <ul>
 <li>Leave the server plugged in and connected to your ISP while you’re away.</li>
-<li>Make sure whoever hosts your server has a fast internet package — ideally fiber, or cable as second best.</li>
-<li>Latency and speed are critical for a smooth VPN experience.</li>
+<li>Make sure whoever hosts your server has a fast internet package—fiber preferred, cable second best.</li>
+<li>Speed and latency are critical for smooth VPN use.</li>
 </ul>
 <hr>
-<h2 id="-reflection-why-this-matters-for-digital-nomads">🌍 Reflection: Why This Matters for Digital Nomads</h2>
-<p>Setting up a VPN isn’t just about technology — it’s about freedom. For digital nomads, a reliable VPN means you can work securely from anywhere, protect your privacy, and maintain access to the tools you need no matter where you are. It’s the backbone of remote independence.</p>
-<p>Whether you’re connecting from a café in Mexico, a coworking hub in Lisbon, or a mountain lodge in the Alps, this setup ensures your digital footprint stays safe while your lifestyle stays flexible. In the end, the VPN is more than a technical trick — it’s part of the toolkit that makes nomad life possible.</p>
+<h2 id="-reflection-why-this-matters-for-digital-nomads">🌍 Reflection: Why this matters for digital nomads</h2>
+<p>A VPN setup like this isn’t just technical—it’s about freedom. A reliable VPN lets you work securely from anywhere, protect your privacy, and maintain access to the tools you need no matter where you are. Whether you’re in a café in Mexico, a coworking hub in Lisbon, or a mountain lodge in the Alps, this setup keeps your footprint safe while your lifestyle stays flexible.</p>
 
     </div>
   </article>
