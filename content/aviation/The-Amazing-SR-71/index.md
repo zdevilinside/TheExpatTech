@@ -26,7 +26,7 @@ The only time an aircraft was damaged during a mission occurred on **October 30,
 
 ### Black Shield Missions
 
-This flight was part of the **Black Shield** missions over North Vietnam. On Sullivan’s first pass, radar tracking was detected but no missiles were launched. On his second pass, at least six SAMs were fired. Mission photography confirmed the launches by capturing vapor trails, and Sullivan himself witnessed three detonations near and behind the aircraft while flying at Mach 3.1 at 84,000 feet. The A‑12 survived, though post‑mission inspection revealed damage from missile fragments.  
+This flight was part of the **Black Shield** missions over North Vietnam. On Sullivan’s first pass, radar tracking was detected but no missiles were launched. On his second pass, at least six SAMs were fired. Mission photography confirmed the launches by capturing vapor trails, and Sullivan himself witnessed three detonations near and behind the aircraft while flying at Mach 3.1 at 84,000 feet. The A‑12 survived, though post‑mission inspection revealed damage from missile fragments.![A-12 Damage](a-12damage.jpg)  
 
 ---
 
