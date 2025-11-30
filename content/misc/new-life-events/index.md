@@ -55,6 +55,8 @@ My daughter knows how I’m handling things and is okay with it. Before Mika tol
 
 I admitted to her that it would take me time to adjust—it’s hard to change habits formed over years. She told me she understood and wouldn’t hold it against me. That grace meant everything.  
 
+NOTE: Before any of you roast me over the coals for the above video, I cleared it with Mika before I added it.  She said she thought it was hilarious.  
+
 ---
 
 ## ✨ Did You Know? Family & Identity Insights
