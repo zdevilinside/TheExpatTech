@@ -54,7 +54,7 @@ It reminded me that sometimes people are liberal in public, but not within their
 
 My daughter knows how I’m handling things and is okay with it. Before Mika told me about her transition, I referred to her by her birth name and “he.” Afterwards, I made the effort to call her **Mika** and “she.”  
 
-I admitted to her that it would take me time to adjust—it’s hard to change habits formed over years. She told me she understood and wouldn’t hold it against me. That grace meant everything.  
+I admitted to her that it would take me time to adjust—it’s hard to change habits formed over years. She told me she understood and wouldn’t hold it against me. That grace meant everything.  I was also quite concerned for her.  She lives in the redneck capitol of our state where she could be targeted.  They are NOT LGBT friendly there to say the least.  
 
 NOTE: Before any of you roast me over the coals for the above video, I cleared it with Mika before I added it.  She said she thought it was hilarious.  
 
