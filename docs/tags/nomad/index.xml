@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nomad on The Expat Tech</title>
+    <link>http://localhost:1313/tags/nomad/</link>
+    <description>Recent content in Nomad on The Expat Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nomad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Expat Tech</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-the-expat-tech&#34;&gt;Welcome to The Expat Tech&lt;/h2&gt;&#xA;&lt;p&gt;Prior to my retirement, I started working in IT back in 1990.&lt;br&gt;&#xA;My first technical certification was for a &lt;strong&gt;PowerBook&lt;/strong&gt; laptop in 1994.&lt;br&gt;&#xA;Over the years, I earned many other certifications, and my final position before retirement was as a &lt;strong&gt;Level 3 technician&lt;/strong&gt;, supporting Linux, Mac, and Windows systems on both the Yellow (unclassified) and Red (classified) networks.&lt;/p&gt;&#xA;&lt;p&gt;I want to give special thanks to the friends who helped me get this site running after so long.&lt;br&gt;&#xA;These are the people who helped me get this going.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
