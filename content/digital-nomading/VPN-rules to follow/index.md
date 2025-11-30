@@ -4,6 +4,7 @@ date: 2015-11-03
 authors: ["ZDevilInside"]
 categories: ["digital-nomading"]
 tags: ["DigitalNomad"]
+image: "Logo.png"
 description: "Some best practices to being a digital nomad and their use of a VPN"
 ---
 

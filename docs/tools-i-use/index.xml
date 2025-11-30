@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech tools I use on The Expat Tech</title>
+    <link>http://localhost:1313/tools-i-use/</link>
+    <description>Recent content in Tech tools I use on The Expat Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tools-i-use/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Tools I Use</title>
+      <link>http://localhost:1313/tools-i-use/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools-i-use/tools/</guid>
+      <description>&lt;p&gt;Here’s a running list of the tools I rely on for aviation, nomading, and tech work.&lt;br&gt;&#xA;I’ll keep adding to this page as I discover new gear and services.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GL.iNet routers&lt;/li&gt;&#xA;&lt;li&gt;Beelink mini PCs&lt;/li&gt;&#xA;&lt;li&gt;Dell laptops&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hugo for site building&lt;/li&gt;&#xA;&lt;li&gt;VPN setups&lt;/li&gt;&#xA;&lt;li&gt;Markdown editors&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub for version control&lt;/li&gt;&#xA;&lt;li&gt;Cloudflare for DNS&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

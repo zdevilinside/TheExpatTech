@@ -55,13 +55,13 @@
   margin: 1rem 0;
 }
 
-.section-tech-tips table, 
-.section-tech-tips th, 
+.section-tech-tips table,
+.section-tech-tips th,
 .section-tech-tips td {
   border: 1px solid #ccc; /* light gray grid lines */
 }
 
-.section-tech-tips th, 
+.section-tech-tips th,
 .section-tech-tips td {
   padding: 8px;
   text-align: left;
@@ -72,16 +72,32 @@
 }
 
 /* ==============================
-   Non-YouTube hyperlink styling
+   Hyperlink styling (global + content)
    ============================== */
 
-/* Default link color override */
-a {
-  color: #0066cc;   /* bright blue for light theme */
+/* Light mode links */
+a,
+.content a {
+  color: #0066cc;   /* bright blue */
   text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
 }
 
-a:hover {
+a:hover,
+.content a:hover {
+  color: #3399ff;   /* slightly brighter on hover */
+  text-decoration: underline;
+}
+
+/* Dark mode links */
+[theme="dark"] a,
+[theme="dark"] .content a {
+  color: #4da3ff;   /* lighter blue for dark backgrounds */
+}
+
+[theme="dark"] a:hover,
+[theme="dark"] .content a:hover {
+  color: #66b3ff;   /* brighter hover color */
   text-decoration: underline;
 }
 
@@ -90,12 +106,67 @@ a[href*="youtube.com"] img {
   border: none;     /* no border on thumbnails */
 }
 
-/* Force link color in dark theme */
-html[data-theme="dark"] a {
-  color: #4da3ff;   /* lighter blue for dark backgrounds */
+/* ==============================
+   Navigation tab styling
+   ============================== */
+
+/* Light mode tabs */
+#header-desktop .header-wrapper .menu a {
+  color: #0066cc;   /* bright blue */
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
 }
 
-html[data-theme="dark"] a:hover {
-  color: #66b3ff;   /* brighter hover color */
+#header-desktop .header-wrapper .menu a:hover {
+  color: #3399ff;   /* slightly brighter on hover */
+  text-decoration: underline;
+}
+
+/* Dark mode tabs (active + non-active) */
+[theme="dark"] #header-desktop .header-wrapper .menu a {
+  color: #4da3ff !important;   /* lighter blue for dark backgrounds */
+}
+
+[theme="dark"] #header-desktop .header-wrapper .menu a:hover {
+  color: #66b3ff !important;   /* brighter hover color */
+  text-decoration: underline;
+}
+
+[theme="dark"] #header-desktop .header-wrapper .menu a.active {
+  color: #4da3ff !important;   /* force active tab to match */
+}
+
+[theme="dark"] #header-desktop .header-wrapper .menu a.active:hover {
+  color: #66b3ff !important;
+  text-decoration: underline;
+}
+
+/* ==============================
+   Sidebar & Tag Cloud link styling
+   ============================== */
+
+/* Light mode sidebar/tag links */
+.widget a,
+.tag-cloud a {
+  color: #0066cc;   /* bright blue */
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.widget a:hover,
+.tag-cloud a:hover {
+  color: #3399ff;   /* slightly brighter on hover */
+  text-decoration: underline;
+}
+
+/* Dark mode sidebar/tag links */
+[theme="dark"] .widget a,
+[theme="dark"] .tag-cloud a {
+  color: #4da3ff !important;   /* lighter blue for dark backgrounds */
+}
+
+[theme="dark"] .widget a:hover,
+[theme="dark"] .tag-cloud a:hover {
+  color: #66b3ff !important;   /* brighter hover color */
   text-decoration: underline;
 }
