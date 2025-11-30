@@ -7,7 +7,7 @@ tags: ["Digital Nomading", "Tech Tips"]
 image: "slate7.jpg"
 description: "The equipment I use"
 draft: false
-slug: "vpn equipment i use"
+slug: "recommended-vpn-hardware"
 ---
 
 I am a true believer in using **GL.iNet equipment** for setting up Digital Nomad VPNs. My recommendation comes from years of hands‑on experience with these devices.  
@@ -28,6 +28,10 @@ To build a reliable Nomad VPN, you’ll need at least **two devices**. You can m
 |                   | Beryl AX (GL‑MT3000) | https://amzn.to/4rljIHj |
 |                   | Slate AX (GL‑AXT1800) | https://amzn.to/3M3ZWQB |
 | **Mini Routers & Gateways** | Brume 2 (GL‑MT2500) | https://amzn.to/4pCof6r |
+
+> ⚠️ **Affiliate Disclosure:** Some of the links above are Amazon affiliate links.  
+> If you click through and make a purchase, I may earn a small commission — at no extra cost to you.  
+> I have to pay for my site somehow, and this helps keep it running.
 
 ---
 

@@ -21,6 +21,7 @@ slug: "digital-nomad-vpn-setup"
 ### Prerequisites
 
 1. Buy 2 GL.iNet routers — one full router and one travel router.  
+   For recommended **GL.iNet devices**, [click here](/digital-nomading/recommended-vpn-hardware).  
 2. We’ll be using **WireGuard** as the VPN technology.  
 3. If you’re not using GL.iNet routers on both sides, this post isn’t for you.  
 4. I’ll use a GL.iNet Beryl AX to demonstrate both the VPN server and client setup.  
@@ -34,7 +35,10 @@ slug: "digital-nomad-vpn-setup"
 
 # VPN Server – Where you want to pretend to be
 
-1. Connect a CAT‑5e/Ethernet cable from your ISP modem/gateway/ONT to the router’s **WAN** port.  An easy way to remember which cable goes to what devices is look at the first letter of WAN/LAN.  WAN = World and therefore goes out the door (to your service provider), and LAN = Local and sticks inside the house. This goes to your computer.
+1. Connect a CAT‑5e/Ethernet cable from your ISP modem/gateway/ONT to the router’s **WAN** port.  
+   An easy way to remember which cable goes to what devices is look at the first letter of WAN/LAN.  
+   WAN = World and therefore goes out the door (to your service provider), and LAN = Local and sticks inside the house.  
+   This goes to your computer.  
    {{< figure src="image2.jpg" alt="WAN port" width="75%" >}}  
 
 2. Connect another Ethernet cable from your computer to a **LAN** port on the router.  

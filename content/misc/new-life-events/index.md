@@ -10,8 +10,8 @@ image: "family.jpg"
 type: "misc"
 ---
 
-<!-- Responsive YouTube video embed -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1rem;">
+<!-- Responsive YouTube video embed at 50% width -->
+<div style="position: relative; padding-bottom: 28.125%; height: 0; overflow: hidden; margin: 1rem auto; width: 50%;">
   <iframe src="https://www.youtube.com/embed/MyE5mIXIu-M" 
     title="YouTube video player" 
     frameborder="0" 
@@ -20,6 +20,7 @@ type: "misc"
     style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
+
 
 ## A Parent’s Journey
 
