@@ -2,7 +2,7 @@
 title: "Sometimes Paradise Isn't Really Paradise"
 date: 2020-04-27
 authors: ["ZDevilInside"]
-image: "birdsofparadise.jpg"
+image: "logo.png"
 categories: ["Living in Mexico"]
 tags: ["Living in Mexico", "Expat Life", "Wildlife"]
 description: "When paradise bites back — literally."

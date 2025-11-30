@@ -1,11 +1,12 @@
 ---
-title: "Week 48"
+title: "Week 48 - the reflections of the week and site launch"
 date: 2025-11-29
 authors: ["ZDevilInside"]
-categories: ["Misc"]
 description: "This week's stories worth sharing"
 summary: "Highlights from Week 48: nomad rankings, NAS debates, GL.iNet updates, and Broncos optimism."
 ---
+
+This week marks the launch of my site, so I’m adding content quickly to get things up and running. I’ve been proactive in reaching out to other creators to ask if it’s okay for me to share this type of content before posting. Technically, I don’t need permission as long as I provide proper credit and never present their work as my own — I have no intention of infringing on anyone’s copyright. Still, I believe it’s the right thing to do morally, and I want to respect the creators whose work I reference.
 
 ## Week 48 Highlights
 
