@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content of the Week on The Expat Tech</title>
+    <link>http://localhost:1313/misc/content-of-the-week/</link>
+    <description>Recent content in Content of the Week on The Expat Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/misc/content-of-the-week/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 48</title>
+      <link>http://localhost:1313/misc/week-48/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/week-48/</guid>
+      <description>Highlights from Week 48: nomad rankings, NAS debates, GL.iNet updates, and Broncos optimism.</description>
+    </item>
+  </channel>
+</rss>
