@@ -73,3 +73,8 @@ digital-nomading = "/digital-nomading/:slug/"
 living-in-mexico = "/living-in-mexico/:slug/"
 tech-tips = "/tech-tips/:slug/"
 misc = "/misc/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

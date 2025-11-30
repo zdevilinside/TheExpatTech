@@ -21,7 +21,7 @@ But paradise has its dangers. One night, I woke to a tingling sensation on my no
 
 ![Scorpions in Mexico](scorpions.jpg)
 
-It stung me right on the bridge of my nose. I immediately took Benadryl and applied lidocaine to numb the pain. For the next two weeks, the area around my nose and eyes remained numb.
+It stung me right on the bridge of my nose. I immediately took Benadryl and applied lidocaine to numb the pain. For the next two weeks, the area around my nose and eyes remained numb.  The photo below shows the area I am talking about.  Where you see skin?  That was the area that was numb. 
 
 ![Balaclava showing numb area](balkava.jpg)
 
@@ -31,7 +31,7 @@ It stung me right on the bridge of my nose. I immediately took Benadryl and appl
 - Mexico is home to over **200 species of scorpions**.  
 - The most dangerous belong to the *Centruroides* genus, found in central and northern regions.  
 - While fatalities are rare today thanks to antivenom, stings can still cause intense pain, numbness, and swelling.  
-- Locals often keep chickens or cats around — both are natural scorpion hunters.  
+- Locals often keep chickens or cats around — both are natural scorpion hunters.  I have 4 cats.  They don't stop all the scorpions that come to our house.  The maid and other visitors often see them and I have to remove them.  I use a pair of long-nosed pliers to pick them out and toss them out into the open field next door.
 
 ---
 

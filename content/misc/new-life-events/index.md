@@ -10,13 +10,24 @@ image: "family.jpg"
 type: "misc"
 ---
 
+<!-- Responsive YouTube video embed -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube.com/embed/MyE5mIXIu-M" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 ## A Parent’s Journey
 
 I want to share this story as it unfolded for me.  
 
 On October 3, 2025, I was at a friend’s house when she asked if I had a picture of my son. I didn’t have one with me, but I knew his workplace website had a photo. Pulling it up on my phone, I found his section—only to see his photo under a different name.  
 
-Reading the bio, I discovered that my son was listed as a **trans woman**. I was floored. Driving home, I called my wife to tell her what I had seen. We thought it could be one of two things: either a marketing angle for his counseling work, or that he was truly transgender.  
+Reading the bio, I discovered that my son was listed as a **trans woman**. I was floored. Driving home, I called my wife to tell her what I had seen. We thought it could be one of two things: either a marketing angle for his social work, or that he was truly transgender.  
 
 ---
 
@@ -50,7 +61,7 @@ I admitted to her that it would take me time to adjust—it’s hard to change h
 
 - 💬 **Names Matter** – Using someone’s chosen name is one of the simplest, most powerful ways to show respect.  
 - 🧩 **Adjustment Takes Time** – Parents often need space to adapt, but effort and intention matter more than perfection.  
-- 🌍 **Support Networks** – Many families find strength in counseling or support groups during transitions.  
+- 🌍 **Support Networks** – Many families find strength in social work or support groups during transitions.  
 - ❤️ **Blood and Choice** – “Blood is thicker than water” is often misquoted; the original meaning emphasized chosen bonds.  
 - 👪 **Generational Gaps** – Reactions often differ across generations, but empathy can bridge divides.  
 
