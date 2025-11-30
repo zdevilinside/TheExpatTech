@@ -137,5 +137,5 @@ That last tweak alone has made building this website far easier.
 ---
 
 ### 🛂 Digital Nomad Visas
-**[Forbes](https://www.forbes.com/sites/alexledsom/2025/11/09/digital-nomad-visas-5-countries-with-the-best-work-life-balance-per-2025-reports/)** highlighted five countries offering the best work-life balance through nomad visas. Having visited six of the cities mentioned, I can vouch for the accuracy of their list. These visas are reshaping how people
+**[Forbes](https://www.forbes.com/sites/alexledsom/2025/11/09/digital-nomad-visas-5-countries-with-the-best-work-life-balance-per-2025-reports/)** highlighted five countries offering the best work-life balance through digital nomad visas. Having visited six of the cities mentioned, I can vouch for the accuracy of their list. These visas are reshaping how people work and live in the world today.  It is an amazing opportunity for those that can do this!
 
