@@ -12,6 +12,8 @@ type: "misc"
 
 ## Happy Thanksgiving!
 
+![Happy Thanksgiving](happythanksgiving.jpg)
+
 I want to wish you all a Happy Thanksgiving.  
 
 And while we celebrate with family, food, and traditions, here’s a fun piece of trivia about the star of the meal—the turkey.  
