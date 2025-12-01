@@ -13,6 +13,8 @@ image: "area51base.jpg"
 ***NO TRESPASSING BEYOND THIS POINT***  
 ***PHOTOGRAPHY IS PROHIBITED***
 
+![Top Secret - Restricted Data](TSRD.jpg)
+
 This was the sign I read from the bus as I entered the restricted area. I was traveling for a special project with a U.S. Department of Energy Nuclear Weapons Laboratory. Am I some brilliant scientist or aviation expert entering this area? No. I was simply a computer "geek" with a knack for fixing systems quickly, and management selected me for this assignment.  
 
 I cannot talk about ***REDACTED***, but I can say I completed the project. To follow security rules to the letter, I must remain vague. What I can share is that I was headed to Groom Lake — better known as Area 51. At that time, the U.S. Government did not officially acknowledge its existence. I was about to cross into the realm of Top Secret.

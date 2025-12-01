@@ -8,7 +8,17 @@ description: "Concept drawings of Archangel"
 image: "a-12.jpg"
 ---
 
-Kelly Johnson's drawings of the Archangel designs alongside Convair's competing Fish and Kingfish concepts.  
+ 
+
+![Top Secret - Restricted Data](TSRD.jpg) 
+
+At one time, this was the classification level of this information.  Today, it has been declassified.  I hope people think about this when they read this.....  
+
+~~Top Secret - Restricted Data~~ 
+
+Kelly Johnson's drawings of the Archangel designs alongside Convair's competing Fish and Kingfish concepts. 
+
+
 
 ![The A-1](a-1-archangel.jpg)  
 The A‑1 was Lockheed’s first attempt at a U‑2 successor. It was essentially a paper study with a long fuselage and conventional wings, but it lacked the performance needed to outrun Soviet defenses. It showed Johnson’s team was thinking about speed and altitude but hadn’t yet solved the radar visibility problem.  
