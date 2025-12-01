@@ -6,8 +6,22 @@
     <description>Recent content in Tags on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 15:23:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.theexpattech.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Family</title>
+      <link>https://www.theexpattech.com/tags/family/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/tags/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://www.theexpattech.com/tags/life/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/tags/life/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A-12</title>
       <link>https://www.theexpattech.com/tags/a-12/</link>
@@ -58,24 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Family</title>
-      <link>https://www.theexpattech.com/tags/family/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/tags/family/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Immigration</title>
       <link>https://www.theexpattech.com/tags/immigration/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.theexpattech.com/tags/immigration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>https://www.theexpattech.com/tags/life/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/tags/life/</guid>
       <description></description>
     </item>
     <item>
@@ -174,6 +174,13 @@
       <link>https://www.theexpattech.com/tags/stealth/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://www.theexpattech.com/tags/stealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accident</title>
+      <link>https://www.theexpattech.com/tags/accident/</link>
+      <pubDate>Tue, 05 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/tags/accident/</guid>
       <description></description>
     </item>
   </channel>

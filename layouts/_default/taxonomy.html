@@ -3,15 +3,7 @@
   <div class="taxonomy-grid">
     {{ range .Pages }}
       <article class="taxonomy-card">
-        {{ $img := .Resources.GetMatch .Params.image }}
-        {{ if $img }}
-          {{ $thumb := $img.Fill "400x250 center" }}
-          <div class="thumb">
-            <a href="{{ .RelPermalink }}">
-              <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}">
-            </a>
-          </div>
-        {{ else if .Params.image }}
+        {{ if .Params.image }}
           <div class="thumb">
             <a href="{{ .RelPermalink }}">
               <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
