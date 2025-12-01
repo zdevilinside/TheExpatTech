@@ -46,6 +46,10 @@ The next day, I was told I’d be taken by ambulance to the airport for my fligh
 At Santa Fe’s airport, the driver didn’t know the gate code. I called it out, but they didn’t understand until I repeated it several times. Finally, the gate opened and we pulled onto the field. I had flown in and out of Santa Fe so many times that I had the code memorized. I still wonder if they’ve changed it since.  
 
 Waiting there was not a Cessna, but a **Learjet 45**. WHAT?! I was wheeled out on a stretcher, and the crew struggled to figure out how to transfer me into the aircraft. Finally, I suggested: “Help me sit up. I’ll stand on one leg like a flamingo, pivot, and sit down.” It worked. Picture this: me in a hospital gown, bare backside exposed, improvising solutions for the flight crew.  
+![lear1.jpg](lear1.jpg)
+![lear2.jpg](lear2.jpg)
+![lear3.jpg](lear3.jpg)
+
 
 We took off for Las Cruces. Drugged, half‑delirious, I played flamingo, cracked terrible jokes, and probably drove the crew crazy. By the time we landed 45 minutes later, I’m sure they were relieved to hand me off.
 
