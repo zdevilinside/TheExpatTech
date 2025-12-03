@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+
+<html lang="en"
+    class="light-style     customizer-hide"
+    dir="ltr" data-theme="theme-default"
+    data-assets-path="https://megaott.net/assets/" data-base-url="https://megaott.net" data-framework="laravel"
+    data-template="blank-menu-theme-default-light">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>Login |
+        iptv -
+        Dashboard</title>
+    <meta name="description"
+        content="Dashboard" />
+    <meta name="keywords"
+        content="dashboard, iptv">
+    <!-- laravel CRUD token -->
+    <meta name="csrf-token" content="Wq2GGlkKdop9LMmYPnaOM9TCmT8RfuZXe9acZWUK">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="https://megaott.net/assets/img/favicon/favicon.ico" />
+
+    
+    <link rel="stylesheet" href="https://megaott.net/assets/css/nprogress.css">
+    <script src="https://megaott.net/assets/js/nprogress.js"></script>
+
+    <style>
+        #nprogress {
+            pointer-events: none;
+        }
+    </style>
+
+    <!-- Include Styles -->
+    <!-- BEGIN: Theme CSS-->
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/fonts/fontawesome.css?id=be4938fc4a5ad38c3d4760a407e400dd" />
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/fonts/tabler-icons.css?id=312d89159e120dfa8429254f6b566f5a" />
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/fonts/flag-icons.css?id=5708c0d4e8190245968f3620da3ed795" />
+
+<!-- Core CSS -->
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/css/rtl/core.css?id=9333770c403c2c5054a1c4de0a2b0ea6" class="template-customizer-core-css" />
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/css/rtl/theme-default.css?id=76620816fc735aa00d2dd5a1192b87d8" class="template-customizer-theme-css" />
+<link rel="stylesheet" href="https://megaott.net/assets/css/demo.css?id=ae52dc4ea5cb8ec45a9913353f83e335" />
+
+
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css?id=0515f570433c3c071d76a93a194d8966" />
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/libs/node-waves/node-waves.css?id=aa72fb97dfa8e932ba88c8a3c04641bc" />
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/libs/typeahead-js/typeahead.css?id=64e0b2fad7f2976318f231520c3e1e9f" />
+
+<style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+<!-- Vendor Styles -->
+    <!-- Vendor -->
+    <script src="https://www.google.com/recaptcha/api.js?hl=en&render=6LejZ54qAAAAAFbS_BksJwjc6n5VMsZ7mToi2OGv"></script>
+
+    <link rel="stylesheet" href="https://megaott.net/assets/vendor/libs/formvalidation/dist/css/formValidation.min.css" />
+
+<!-- Page Styles -->
+    <!-- Page -->
+    <link rel="stylesheet" href="https://megaott.net/assets/vendor/css/pages/page-auth.css">
+
+<link rel="stylesheet" href="https://megaott.net/assets/vendor/libs/toastr/toastr.css?id=83ffbad459fe357eb69f9ad290703dfc" />
+<script defer src="https://megaott.net/assets/vendor/js/alpinejs.js"></script>
+
+
+<style>
+    #nprogress .spinner {
+        display: none;
+    }
+
+    [x-cloak] {
+        display: none;
+    }
+</style>
+
+    <!-- Include Scripts for customizer, helper, analytics, config -->
+    <!-- laravel style -->
+<script src="https://megaott.net/assets/vendor/js/helpers.js"></script>
+<!-- beautify ignore:start -->
+  <!--! Template customizer & Theme config files MUST be included after core stylesheets and helpers.js in the <head> section -->
+  <!--? Template customizer: To hide customizer set displayCustomizer value false in config.js.  -->
+  <script src="https://megaott.net/assets/vendor/js/template-customizer.js"></script>
+
+  <!--? Config:  Mandatory theme config file contain global vars & default theme options, Set your preferred theme option in this file.  -->
+  <script src="https://megaott.net/assets/js/config.js"></script>
+
+  <script>
+    window.templateCustomizer = new TemplateCustomizer({
+      cssPath: '',
+      themesPath: '',
+      defaultShowDropdownOnHover: true, // true/false (for horizontal layout only)
+      displayCustomizer: false,
+      lang: 'en',
+      pathResolver: function(path) {
+        var resolvedPaths = {
+          // Core stylesheets
+                      'core.css': 'https://megaott.net/assets/vendor/css/rtl/core.css?id=9333770c403c2c5054a1c4de0a2b0ea6',
+            'core-dark.css': 'https://megaott.net/assets/vendor/css/rtl/core-dark.css?id=d4b09c06c0234b543af3e312e5c34edb',
+          
+          // Themes
+                      'theme-default.css': 'https://megaott.net/assets/vendor/css/rtl/theme-default.css?id=76620816fc735aa00d2dd5a1192b87d8',
+            'theme-default-dark.css':
+            'https://megaott.net/assets/vendor/css/rtl/theme-default-dark.css?id=a3884fa86021c9e33535fc1e0b3cf959',
+                      'theme-bordered.css': 'https://megaott.net/assets/vendor/css/rtl/theme-bordered.css?id=8944b5c47083b5c70205089f8e28352a',
+            'theme-bordered-dark.css':
+            'https://megaott.net/assets/vendor/css/rtl/theme-bordered-dark.css?id=c0c4e91339752604bc277a91ba75025b',
+                      'theme-semi-dark.css': 'https://megaott.net/assets/vendor/css/rtl/theme-semi-dark.css?id=de1d97fa41118ca678d1dac011650477',
+            'theme-semi-dark-dark.css':
+            'https://megaott.net/assets/vendor/css/rtl/theme-semi-dark-dark.css?id=f895438e0219e555f29e35ab997173f2',
+                  }
+        return resolvedPaths[path] || path;
+      },
+      'controls': ["rtl","style","layoutType","showDropdownOnHover","layoutNavbarFixed","layoutFooterFixed","themes"],
+    });
+  </script>
+</head>
+
+<body>
+
+    <!-- Layout Content -->
+    
+<!-- Content -->
+    <div class="container-xxl">
+        <div class="authentication-wrapper authentication-basic container-p-y">
+            <div class="authentication-inner py-4">
+                <!-- Login -->
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Logo -->
+                        <div class="app-brand justify-content-center mb-4 mt-2">
+                            <a href="https://megaott.net" class="app-brand-link gap-2">
+                                <span class="app-brand-logo demo"
+                                    style="width: auto; height: auto"></span>
+                                
+                            </a>
+                        </div>
+                        <!-- /Logo -->
+                        <div class="text-center">
+                            <h4 class="mb-1 pt-2">Welcome! 👋</h4>
+                            <p class="mb-4">
+                                Please sign-in to your account                            </p>
+                        </div>
+
+                        <form id="login-form" class="mb-3" action="https://megaott.net/login" method="POST">
+                            <input type="hidden" name="_token" value="Wq2GGlkKdop9LMmYPnaOM9TCmT8RfuZXe9acZWUK" autocomplete="off">                            <div class="mb-3">
+                                <label for="email" class="form-label">
+                                    Username                                </label>
+                                <input type="text" class="form-control "
+                                    id="email" name="email" placeholder="Enter your username" autofocus>
+                                                            </div>
+                            <div class="mb-3 form-password-toggle">
+                                <div class="d-flex justify-content-between">
+                                    <label class="form-label" for="password">
+                                        Password                                    </label>
+                                    <a href="https://megaott.net/forgot-password">
+                                        <small>
+                                            Forgot Password?
+                                        </small>
+                                    </a>
+                                </div>
+                                <div class="input-group input-group-merge">
+                                    <input type="password" id="password" class="form-control" name="password"
+                                        placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;"
+                                        aria-describedby="password" />
+                                    <span class="input-group-text cursor-pointer"><i class="ti ti-eye-off"></i></span>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-692f632ab0ebc"><script>
+  grecaptcha.ready(function() {
+      grecaptcha.execute('6LejZ54qAAAAAFbS_BksJwjc6n5VMsZ7mToi2OGv', {action: 'register'}).then(function(token) {
+         document.getElementById('g-recaptcha-response-692f632ab0ebc').value = token;
+      });
+  });
+  </script>
+                                                            </div>
+                            <div class="mb-3">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="remember-me">
+                                    <label class="form-check-label" for="remember-me">
+                                        Remember Me                                    </label>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <button class="btn btn-primary d-grid w-100" type="submit" id="login-btn">
+                                    Sign In                                </button>
+                            </div>
+                        </form>
+
+                        
+
+                        
+                    </div>
+                </div>
+                <!-- /Register -->
+            </div>
+        </div>
+    </div>
+<!--/ Content -->
+
+    <!--/ Layout Content -->
+
+    <script>
+        NProgress.configure({ parent: '#NProgressHire' });
+        NProgress.start();
+        document.addEventListener('DOMContentLoaded', function () {
+            // NProgress.configure({ parent: '#NProgressHire' });
+            // NProgress.start();
+            // Livewire.on('loading', () => {
+            //     NProgress.start();
+            // });
+
+            // Livewire.on('loaded', () => {
+            //     NProgress.done();
+            // });
+
+            Livewire.hook('message.sent', (message, component) => {
+                NProgress.start();
+            })
+            Livewire.hook('message.failed', (message, component) => {
+                NProgress.done();
+            })
+            Livewire.hook('message.received', (message, component) => {
+                NProgress.done();
+            })
+            Livewire.hook('message.processed', (message, component) => {
+                NProgress.done();
+            })
+
+            NProgress.done();
+        });
+    </script>
+    <!-- Include Scripts -->
+    <!-- BEGIN: Vendor JS-->
+<script src="https://megaott.net/assets/vendor/libs/jquery/jquery.js?id=484572c1c47d0b957a480a624137412e"></script>
+<script src="https://megaott.net/assets/vendor/libs/popper/popper.js?id=cddfa3f8f6c626091c778b17f22c6aa2"></script>
+<script src="https://megaott.net/assets/vendor/js/bootstrap.js?id=6f440a54f78498c4c902bd15092317ab"></script>
+<script src="https://megaott.net/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js?id=068a40066f0dfbb8b5c0dddcab77d278"></script>
+<script src="https://megaott.net/assets/vendor/libs/node-waves/node-waves.js?id=11c5877915165bb2627cd35efcb1e3ff"></script>
+<script src="https://megaott.net/assets/vendor/libs/hammer/hammer.js?id=60c127c3b53964c32fe5066ed84fbb5d"></script>
+<script src="https://megaott.net/assets/vendor/libs/i18n/i18n.js?id=73a5137b592fc7e93e9e0e8a3257b199"></script>
+<script src="https://megaott.net/assets/vendor/libs/typeahead-js/typeahead.js?id=04676a938a6e3a2a41e2fdf22bf1cc99"></script>
+<script src="https://megaott.net/assets/vendor/js/menu.js?id=1568524da0a193e5031eec21681c0b31"></script>
+    <script src="https://megaott.net/assets/vendor/libs/formvalidation/dist/js/FormValidation.min.js"></script>
+    <script src="https://megaott.net/assets/vendor/libs/formvalidation/dist/js/plugins/Bootstrap5.min.js"></script>
+    <script src="https://megaott.net/assets/vendor/libs/formvalidation/dist/js/plugins/AutoFocus.min.js"></script>
+<!-- END: Page Vendor JS-->
+<!-- BEGIN: Theme JS-->
+<script src="https://megaott.net/assets/js/main.js?id=22f39d0cfb2cfc2eca135abf93ed7fae"></script>
+<script src="/vendor/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" ></script><script data-turbo-eval="false" data-turbolinks-eval="false" >window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'Wq2GGlkKdop9LMmYPnaOM9TCmT8RfuZXe9acZWUK';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+<!-- END: Theme JS-->
+<!-- Pricing Modal JS-->
+
+<!-- Modal Authentication App -->
+<div class="modal fade" id="QuickActionModalMAC" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modallg modal-dialog-centered modal-simple">
+        <div class="modal-content p-3 p-md-5">
+            <div class="modal-body">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                
+                    <form action="#" method="get">
+                        <div class="mb-3">
+                            <label for="mac" class="form-label">
+                                Please enter the MAC address
+                            </label>
+                            <input type="text" class="form-control mac" id="mac" name="mac" required  placeholder="__:__:__:__:__:__">
+                            <button
+                                class="btn btn-primary mt-3"
+                            >
+                                Submit
+                            </button>
+                        </div>
+                    </form>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://megaott.net/assets/vendor/libs/cleavejs/cleave.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if ($('.mac').length) {
+            new Cleave(".mac", {
+                delimiters: [":"],
+                blocks: [2, 2, 2, 2, 2, 2],
+                uppercase: true
+            });
+        }
+        // modal-target="#QuickActionModalMAC"
+        $('[modal-target="#QuickActionModalMAC"]').on('click', function(e) {
+            e.preventDefault();
+            // element get modal-form-action
+            let formAction = $(this).attr('modal-form-action');
+            // element get modal-form-method
+            $('#QuickActionModalMAC form').attr('action', formAction);
+
+            $('#QuickActionModalMAC').modal('show');
+        });
+    });
+</script>
+<!-- Modal Authentication App -->
+<div class="modal fade" id="QuickActionModalDeviceId" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modallg modal-dialog-centered modal-simple">
+        <div class="modal-content p-3 p-md-5">
+            <div class="modal-body">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                
+                    <form action="#" method="get">
+                        <div class="mb-3">
+                            <label for="device_id" class="form-label">
+                                Please enter the Device
+                            </label>
+                            <select name="device_id" id="device_id"
+                                class="form-select"
+                            >
+                                <option value="">
+                                    Select Device
+                                </option>
+                                                                    <option value="1">
+                                        iOS
+                                    </option>
+                                                                    <option value="2">
+                                        Smart TV
+                                    </option>
+                                                                    <option value="3">
+                                        Android
+                                    </option>
+                                                            </select>
+                            <button
+                                class="btn btn-primary mt-3"
+                            >
+                                Submit
+                            </button>
+                        </div>
+                    </form>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // modal-target="#QuickActionModalDeviceId"
+        $('[modal-target="#QuickActionModalDeviceId"]').on('click', function(e) {
+            e.preventDefault();
+            // element get modal-form-action
+            let formAction = $(this).attr('modal-form-action');
+            // element get modal-form-method
+            $('#QuickActionModalDeviceId form').attr('action', formAction);
+
+            $('#QuickActionModalDeviceId').modal('show');
+        });
+    });
+</script>
+
+<!-- END: Pricing Modal JS-->
+<!-- BEGIN: Page JS-->
+    <script src="https://megaott.net/assets/js/pages-auth.js"></script>
+<script>
+    $(document).ready(function() {
+        window.addEventListener('closeModal', event => {
+            $('.modal').modal('hide');
+            $('.modal-backdrop').remove();
+        })
+    });
+</script>
+<!-- END: Page JS-->
+<!-- BEGIN: Toastr JS-->
+<script src="https://megaott.net/assets/vendor/libs/toastr/toastr.js?id=b78f893388565fd7901d4161864c7f00"></script>
+<!-- END: Toastr JS-->
+<script>
+    window.addEventListener('toastr', event => {
+        toastr[event.detail.type](event.detail.message, event.detail.title ?? '')
+    })
+</script>
+
+<script>
+    // nprogress in click a tag has href != javascript:void(0) and #
+    $(document).ready(function() {
+        $(document).on('click',
+            'a[target!="_blank"][href!="#"][href!="#"][href!="javascript:void(0);"][href!="javascript:void(0)"]',
+            function() {
+                NProgress.start();
+            });
+
+        // Enable Bootstrap tooltips on page load
+        $('[data-bs-toggle="tooltip"]').tooltip('dispose').tooltip();
+
+        // Ensure Livewire updates re-instantiate tooltips
+        if (typeof window.Livewire !== 'undefined') {
+            window.Livewire.hook('message.processed', (message, component) => {
+                $('[data-bs-toggle="tooltip"]').tooltip('dispose').tooltip();
+            });
+        }
+    });
+</script>
+
+
+
+</body>
+
+</html>
