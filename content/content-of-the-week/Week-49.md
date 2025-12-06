@@ -19,8 +19,9 @@ This week brought a variety of stories that resonated with me — from tech deba
 **[Investopedia](https://www.investopedia.com/12-budget-friendly-asian-countries-11852429)** published a list of **10 affordable Asian destinations** where retirees and nomads can stretch their dollars.  
 - India and Nepal: ~$270/month living costs.  
 - Thailand: ~$600/month with strong healthcare.  
-- Vietnam: ~$350/month with UNESCO heritage sites.  
-These countries combine affordability with culture and visa options, making them attractive for long-term stays.
+- Vietnam: ~$350/month with UNESCO heritage sites.
+
+These countries are ones that Digital Nomads are visiting and loving due to the low cost and the natural beauty.  A lot of people are looking to retire here do to these same reasons.
 
 ---
 
@@ -30,7 +31,8 @@ These countries combine affordability with culture and visa options, making them
 - Blue = USB 3.0 (5 Gbps)  
 - Teal = USB 3.1 (10 Gbps)  
 - Red = USB 3.2 (20 Gbps, always-on)  
-It’s a reminder that not all ports are equal — even identical-looking USB-C ports can differ in speed.
+
+I remember when USB 1.0 came out and when USB 2.0 was released.  I never paid attention to the colors of the port and always wondered what they meant.  Now I do!
 
 ---
 
@@ -43,25 +45,26 @@ Over 3.8M foreign tourists visited in 2025, showing strong demand despite the fe
 ---
 
 ### 🎥 Mexican Minimum Wage Increase
-**[Reuters](https://www.reuters.com/business/world-at-work/mexican-government-announces-13-minimum-wage-increase-2025-12-03/)** reported Mexico’s **13% minimum wage hike for 2025**, aimed at improving worker livelihoods.  
-This reflects broader Latin American trends of governments pushing wage growth to counter inflation.
+**[Reuters](https://www.reuters.com/business/world-at-work/mexican-government-announces-13-minimum-wage-increase-2025-12-03/)** reported Mexico’s **13% minimum wage hike for 2025**, aimed at improving worker livelihoods.
+
+Mexico has increased the minimum wage from 70.1 Pesos a day back in 2015 to $315.04 a day.  That might sound like a lot but when you factor in the exchange rate, it is $17.33 A DAY.  Now you know why so many head north of the border to work.
 
 ---
 
-### 🏡 North Macedonia Tourism
-**[CNN Travel](https://edition.cnn.com/travel/north-macedonia-tourism-skopje-travel)** highlighted Skopje and North Macedonia as **emerging travel destinations**, blending Balkan culture, Ottoman history, and affordability.
+### 🏡 North Macedonia - A Tourist's Delight
+**[CNN Travel](https://edition.cnn.com/travel/north-macedonia-tourism-skopje-travel)** highlighted Skopje and North Macedonia as **emerging travel destinations**, blending Balkan culture, Ottoman history, and affordability.   Part of Alexander The Great's Empire, it has become a separate country when Yugoslavia broke up.  It is overlooked as a destination for many but that is slowly changing.  Go to this golden nugget before it is found by the masses. 
 
 ---
 
 ### 🤖 Micron & Crucial Price Gouging
 **[The Verge](https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai)** covered Micron/Crucial’s latest RAM/SSD launches.  
-Here’s the outrage: **Micron has taken billions in taxpayer subsidies to build fabs in the U.S.** — supposedly to secure supply chains and lower costs. Instead, they’re **jacking up consumer prices**, hiding behind “AI demand” as an excuse.  
-We paid for their factories, yet they’re squeezing us at the checkout. This is corporate greed at its worst — subsidized by public money, rewarded with higher costs for everyday consumers.
+I am angry because **Micron has taken billions in taxpayer subsidies to build fabs in the U.S.** — supposedly to secure supply chains and lower costs. Instead, they’re **jacking up consumer prices**, hiding behind “AI demand” as an excuse.  
+We paid for their factories, yet they’re squeezing us at the time of purchase. This is corporate greed at its worst — subsidized by public money, rewarded with higher costs for everyday consumers.
 
 ---
 
 ### 🌐 GPU Scandal
-**[VideoCardz](https://videocardz.com/newz/redditor-receives-rocks-instead-of-1200-rtx-5080-gpu-best-buy-investigation-finds-no-issue)** reported a bizarre case: a Redditor ordered a $1,200 RTX 5080 GPU from Best Buy but received **rocks in the box**. Even worse, Best Buy’s investigation claimed “no issue.” A surreal reminder of how broken retail logistics can be.
+**[VideoCardz](https://videocardz.com/newz/redditor-receives-rocks-instead-of-1200-rtx-5080-gpu-best-buy-investigation-finds-no-issue)** reported a bizarre case: a Redditor ordered a $1,200 RTX 5080 GPU from Best Buy but received **rocks in the box**. Even worse, Best Buy’s investigation claimed “no issue.” A surreal reminder of how broken retail logistics can be.  Please record any boxes you open that contains an expensive piece.  It will be able to be used to help you fight this type of experience.  More and more of this is happening each day as people are hurting at the bank.
 
 ---
 
@@ -69,21 +72,12 @@ We paid for their factories, yet they’re squeezing us at the checkout. This is
 **[BGR](https://www.bgr.com/1953885/starlink-vs-viasat-residential-alternative-worth-using/)** compared **satellite internet providers**:  
 - Starlink: faster speeds (up to 270 Mbps) but poor BBB rating (F).  
 - Viasat: cheaper residential plans ($69.99–$99.99) but slower speeds (150 Mbps).  
-Starlink wins on performance, Viasat on affordability.
+Starlink wins on performance, Viasat on affordability. Personally, I am going to wait on this issue because I have multiple fiber providers available where I live and do not need to consider this issue.
 
 ---
 
-### 📡 Wi-Fi Dead Zone Fix
-**[BGR](https://www.bgr.com/2040752/say-goodbye-to-wi-fi-dead-zone-network-upgrade/)** reviewed the **TP-Link RE315 Wi-Fi extender** (~$19).  
-- Dual-band speeds up to 1,200 Mbps.  
-- Supports 30 devices.  
-- Easy setup via TP-Link app.  
-A cheap fix for spotty home networks.
-
----
-
-### 🛂 Trade Tensions
-**[Reuters](https://www.reuters.com/business/autos-transportation/canada-mexico-should-not-be-export-hubs-china-says-ustr-2025-12-04/)** reported USTR’s warning that **Canada and Mexico shouldn’t become export hubs for China**, reflecting ongoing geopolitical trade battles.
+### 🛂 Anger at Nearshoring
+**[Reuters](https://www.reuters.com/business/autos-transportation/canada-mexico-should-not-be-export-hubs-china-says-ustr-2025-12-04/)** reported USTR’s warning that **Canada and Mexico shouldn’t become export hubs for China**, by using the USMCA trade agreement rules to their full extent.  Chinese businesses have found a way around tariffs by opening factories in Canada and Mexico so they could take advantage of the trade policies in place. 
 
 ---
 
@@ -94,7 +88,7 @@ The game was back and forth but, like many earlier games this season, the Bronco
 They have now set the **NFL record with 8 one-score wins in a single season**, showing an uncanny ability to survive close contests.  
 
 <div style="position: relative; padding-bottom: 28.125%; height: 0; overflow: hidden; margin: 1rem auto; width: 50%;">
-  <iframe src="https://www.youtube.com/embed/QXL9KwJO2QI" 
+  <iframe src="https://www.youtube.com/watch?v=7ZC2IeXwsII" 
     title="Broncos vs Commanders Overtime Thriller" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

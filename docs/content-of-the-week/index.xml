@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content of the Week on The Expat Tech</title>
-    <link>https://www.theexpattech.com/content-of-the-week/</link>
+    <link>http://localhost:1313/content-of-the-week/</link>
     <description>Recent content in Content of the Week on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/content-of-the-week/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/content-of-the-week/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 49 - reflections and updates</title>
-      <link>https://www.theexpattech.com/content-of-the-week/week-49/</link>
+      <link>http://localhost:1313/content-of-the-week/week-49/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/content-of-the-week/week-49/</guid>
+      <guid>http://localhost:1313/content-of-the-week/week-49/</guid>
       <description>Highlights from Week 49: USB port colors, budget travel, tourist taxes, satellite internet, NFL drama, and corporate greed.</description>
     </item>
     <item>
       <title>Week 48 - the reflections of the week and site launch</title>
-      <link>https://www.theexpattech.com/content-of-the-week/week-48/</link>
+      <link>http://localhost:1313/content-of-the-week/week-48/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/content-of-the-week/week-48/</guid>
+      <guid>http://localhost:1313/content-of-the-week/week-48/</guid>
       <description>Highlights from Week 48: nomad rankings, NAS debates, GL.iNet updates, and Broncos optimism.</description>
     </item>
   </channel>

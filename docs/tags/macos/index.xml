@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MacOS on The Expat Tech</title>
-    <link>https://www.theexpattech.com/tags/macos/</link>
+    <link>http://localhost:1313/tags/macos/</link>
     <description>Recent content in MacOS on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Nov 2025 19:35:49 -0600</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Mac OS 15 Sequoia VM?</title>
-      <link>https://www.theexpattech.com/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
+      <link>http://localhost:1313/tech-tips/build-a-mac-os-15-sequoia-vm/</link>
       <pubDate>Tue, 18 Nov 2025 19:35:49 -0600</pubDate>
-      <guid>https://www.theexpattech.com/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
+      <guid>http://localhost:1313/tech-tips/build-a-mac-os-15-sequoia-vm/</guid>
       <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;How to create a MacOS 15 Sequoia VM in VMware&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Apple has long marketed the Mac as the pinnacle of computing. While their hardware is polished, it comes at a premium price. For many Windows users, the appeal of macOS is curiosity rather than necessity. Fortunately, virtualization offers a way to explore macOS without buying Apple hardware.&lt;/p&gt;&#xA;&lt;p&gt;This guide walks you through building a &lt;strong&gt;MacOS 15 Sequoia VM&lt;/strong&gt; on a Windows PC using VMware. It’s not always smooth sailing—there are quirks, patches, and patience required—but it’s a practical way to test macOS for development, compatibility, or just to satisfy curiosity.&lt;/p&gt;</description>
     </item>
   </channel>

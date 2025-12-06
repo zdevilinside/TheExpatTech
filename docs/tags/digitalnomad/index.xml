@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DigitalNomad on The Expat Tech</title>
-    <link>https://www.theexpattech.com/tags/digitalnomad/</link>
+    <link>http://localhost:1313/tags/digitalnomad/</link>
     <description>Recent content in DigitalNomad on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/tags/digitalnomad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/digitalnomad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Becoming a Digital Nomad</title>
-      <link>https://www.theexpattech.com/digital-nomading/becoming-a-digital-nomad/</link>
+      <link>http://localhost:1313/digital-nomading/becoming-a-digital-nomad/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/digital-nomading/becoming-a-digital-nomad/</guid>
+      <guid>http://localhost:1313/digital-nomading/becoming-a-digital-nomad/</guid>
       <description>&lt;p&gt;You’re feeling wanderlust. Your job is online, so you realize you can start working from anywhere. You decide to give it a try. You research the rules and requirements for traveling the world while working remotely — and that’s how the journey begins. This site explains &lt;em&gt;my&lt;/em&gt; path down that rabbit hole.&lt;/p&gt;&#xA;&lt;p&gt;In my case, it came about as a necessity. I was on my way to graduate school in Germany when illness cut those plans short. Looking for alternatives, I researched the best places to live for six months before trying again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using A VPN? The rules you need to follow!</title>
-      <link>https://www.theexpattech.com/digital-nomading/using-a-vpn-the-rules-you-need-to-follow/</link>
+      <link>http://localhost:1313/digital-nomading/using-a-vpn-the-rules-you-need-to-follow/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/digital-nomading/using-a-vpn-the-rules-you-need-to-follow/</guid>
+      <guid>http://localhost:1313/digital-nomading/using-a-vpn-the-rules-you-need-to-follow/</guid>
       <description>&lt;p&gt;Nomad life means constant movement, but also constant exposure. Every café, airport, and coworking space becomes your office—and every unsecured network becomes a potential risk. A Virtual Private Network (VPN) is your invisible travel companion: always on, always guarding, always ready. But technology alone isn’t enough. Discipline, habits, and awareness are what make VPNs truly effective.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;-technical-rules&#34;&gt;🔒 Technical Rules&lt;/h1&gt;&#xA;&lt;p&gt;These are the foundational practices every digital nomad should follow when using a VPN. They focus on the technology itself—connection, encryption, and provider choice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to my world</title>
-      <link>https://www.theexpattech.com/digital-nomading/welcome-to-my-world/</link>
+      <link>http://localhost:1313/digital-nomading/welcome-to-my-world/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/digital-nomading/welcome-to-my-world/</guid>
+      <guid>http://localhost:1313/digital-nomading/welcome-to-my-world/</guid>
       <description>&lt;h2 id=&#34;well-what-is-this-site&#34;&gt;Well, what is this site?&lt;/h2&gt;&#xA;&lt;p&gt;I want to create a place where I can share the things I enjoy, the things I know well, and the things I’ve spent a lifetime immersed in. I know a lot about computers. I’m an American who lives part‑time in Mexico, part‑time in the U.S., and part‑time all over the world. I’ve worked professionally as an IT technician for over three decades. I also know quite a bit about how to entertain yourself if you&amp;rsquo;re an indoor person who likes movies and TV shows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Became a Digital Nomad?</title>
-      <link>https://www.theexpattech.com/digital-nomading/how-i-became-a-digital-nomad/</link>
+      <link>http://localhost:1313/digital-nomading/how-i-became-a-digital-nomad/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/digital-nomading/how-i-became-a-digital-nomad/</guid>
+      <guid>http://localhost:1313/digital-nomading/how-i-became-a-digital-nomad/</guid>
       <description>&lt;p&gt;In 2015, I was on my way to graduate school in Germany. I made it as far as Amsterdam when I was unexpectedly hospitalized for 15 days. Unfortunately, the program began on the seventh day of my stay, and the German university would not allow a late start. My plans collapsed, and I had to return to the United States.&lt;/p&gt;&#xA;&lt;p&gt;By then, we had already sold our house, so I needed to find a new place to live quickly. My requirements were clear: the location had to be inexpensive, have reliable high‑speed internet, be near a major international airport, and — most importantly — be somewhere warm, where “snow” was a foreign word and the only ice you encountered was in your drink.&lt;/p&gt;</description>
     </item>
   </channel>
