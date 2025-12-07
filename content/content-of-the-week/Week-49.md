@@ -95,9 +95,12 @@ I too am looking forward to seeing his **full review** on the hardware, as his d
 ### 🏈 Denver Broncos Nail-Biter Record
 Broncos fans nearly had a collective heart attack last Sunday night. The game against the Commanders went back and forth, and by the time it hit overtime, it felt like we were all holding our breath.  
 
-Nik Bonitto’s swat on the 2-point conversion was the difference between heartbreak and history. That single play sealed yet another one-score win — their eighth of the season, which now stands as an NFL record.  
+Nik Bonitto’s swat on the 2-point conversion was the difference between heartbreak and history. That single swat sealed yet another one-score win; their eighth of the season, which now stands as an NFL record.  Maybe we should have Bonitto play in the NBA too - that rejection was like Tayshaun Prince's block of Reggie Miller back in 2004 playoffs . [Tayshaun Prince Rejects Reggie Miller](https://www.youtube.com/watch?v=ftLUlmZl3yc)  
 
-<iframe src="https://www.redditmedia.com/r/nfl/comments/1pb3zl8/highlight_nik_bonitto_swats_down_gamewinning_2pt/?ref_source=embed&ref=share&embed=true" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+  <source src="/videos/Swat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 And then there was Bo Nix. His pass to Courtland Sutton while falling to the ground might be the throw of the year. He barely got it off before his knee touched, and somehow Sutton hauled it in. It’s the kind of play you’ll remember long after the season ends.  
 
