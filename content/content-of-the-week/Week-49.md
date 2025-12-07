@@ -88,15 +88,9 @@ The game was back and forth but, like many earlier games this season, the Bronco
 They have now set the **NFL record with 8 one-score wins in a single season**, showing an uncanny ability to survive close contests.  
 
 Bo Nix probably had the pass of the year to Courtland Sutton as he was falling to the ground.  BARELY got it off before his knee hits the ground.
-
-<div style="position: relative; padding-bottom: 28.125%; height: 0; overflow: hidden; margin: 1rem auto; width: 50%;">
-  <iframe src="https://www.youtube.com/watch?v=7ZC2IeXwsII" 
-    title="Broncos vs Commanders Overtime Thriller" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-    style="position: absolute; top:0; left:0; width:100%; height:100%;">
-  </iframe>
+[Broncos wins in OT against the Commanders](https://www.youtube.com/watch?v=7ZC2IeXwsII)  
+ 
+Unfortunately NFL has blocked previews and embedding of their videos so I can only give you a link.     
 </div>
 
 ---
