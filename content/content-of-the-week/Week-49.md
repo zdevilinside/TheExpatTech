@@ -92,17 +92,20 @@ I too am looking forward to seeing his **full review** on the hardware, as his d
 [Watch NASCompares review here](https://www.youtube.com/watch?v=h9LubP_MSZ8)
 
 ---
-
 ### 🏈 Denver Broncos Nail-Biter Record
 Broncos fans nearly had a collective heart attack last Sunday night. The game against the Commanders went back and forth, and by the time it hit overtime, it felt like we were all holding our breath.  
 
 Nik Bonitto’s swat on the 2-point conversion was the difference between heartbreak and history. That single play sealed yet another one-score win — their eighth of the season, which now stands as an NFL record.  
 
-<iframe src="https://www.youtube.com/embed/VIDEO_ID_FOR_BONITTO_SWAT" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.redditmedia.com/r/nfl/comments/1pb3zl8/highlight_nik_bonitto_swats_down_gamewinning_2pt/?ref_source=embed&ref=share&embed=true" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 And then there was Bo Nix. His pass to Courtland Sutton while falling to the ground might be the throw of the year. He barely got it off before his knee touched, and somehow Sutton hauled it in. It’s the kind of play you’ll remember long after the season ends.  
 
-<iframe src="https://www.redditmedia.com/r/DenverBroncos/comments/1pb14t3/highlight_bo_nix_keeps_the_play_alive_to_a/?ref_source=embed&ref=share&embed=true" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+  <source src="/videos/BoThrowsTD.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
