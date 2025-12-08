@@ -196,7 +196,7 @@ It was a music week for me. Between movies, nostalgia, and random earworms, thes
 - **The Cure / Depeche Mode Mashup – Fascination Street & Depeche Mode**  
   A few days before I was to go back to my senior year of high school, I was working on my private pilot's license. My girlfriend at the time was a HUGE Cure fan. We were going to go out on a date and I pretended that I forgot my wallet at the airplane at my earlier lesson and had to go back to the airport to get it before we went to dinner.  
   When I got to the airport, I had her walk out onto the flight line with me. She found a dozen red roses and 2 Cure tickets for that night's show in San Diego. I had passed my FAA check ride earlier in the day and wanted it to be a surprise. We went to the concert and had a great time.  
-  The next night, I went to the 1989 MTV Video Music Awards. I got the passes from one of my Mom's clients at the entertainment industry law firm she worked at. When you watch The Cult's *Firewoman* performance, you can clearly see me in the crowd if you know when/where to find me.  
+  The next summer, I went to the 1989 MTV Video Music Awards. I got the passes from one of my Mom's clients at the entertainment industry law firm she worked at. When you watch The Cult's *Firewoman* performance, you can clearly see me in the crowd if you know when/where to find me.  
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QUhYx-3lERk" frameborder="0" allowfullscreen></iframe>
 
