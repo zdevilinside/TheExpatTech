@@ -10,6 +10,8 @@ draft: false
 slug: "dangers-of-swollen-batteries"
 ---
 
+## Swollen Batteries - Something you should take seriously
+
 Recently I have come across a very dangerous issue a couple of times that I feel should be talked about because it is so critical and is often overlooked—swollen batteries in electronics.  
 
 In the last two weeks, I have found **five instances of swollen batteries** in the local area, and each was a danger to the person and their property. Of those five cases:  
