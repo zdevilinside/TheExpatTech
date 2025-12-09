@@ -123,10 +123,4 @@ I no longer recommend their products. I no longer trust their vision. And I beli
 
 ---
 
-## Reader Call-to-Action  
-
-Have you had similar experiences with Synology or other companies that put profit above trust? Share your story in the comments — let’s hold corporations accountable together.  
-
----
-
 **For me, the Synology ship has sailed, and I will not be making another voyage on the line again.**
