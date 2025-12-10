@@ -5,11 +5,30 @@ layout: "single"
 ---
 
 Here’s a running list of the tools I rely on for aviation, nomading, and tech work.  
+
 I’ll keep adding to this page as I discover new gear and services and work through my bookmarks finding tools I have used in the past that I found amazing or useful in the past.  
 
 <!-- Example parked link syntax for reference:
 [Dell laptops](https://www.dell.com)
 -->
+## Hardware
+- [iFixit Pro Tech Toolkit](https://amzn.to/4pv0Y71)  This toolkit has generally been my field tool kit over the last decade.  It has all the screwdrivers, picks, and other equipment that I see on a regular basis.  I love the quality of the tools and have as of yet to strip a screw with these screwdrivers.  
+
+- Engineer Screw Extractor Pliers - for when you have to deal with screws that have been stripped already.  I have used both the M2 and PZ-58 pliers for this tough job in the past.  [PZ-58](https://amzn.to/4pZ2uOv) and [M2](https://amzn.to/3Ym7aCc)  
+
+- [Xiaomi Electric Screwdriver](https://amzn.to/4rN6kvJ) This isn't quite as good as the Doctor's Electronic Sonic Screwdriver but it has its place in my toolkit.  
+
+- GL.iNet routers — [GL.iNet](https://www.gl-inet.com/) is my chosen solution for Digital Nomad VPNs.  I’ve used this company's products for years. I use them for VPN servers and clients. They are easy to set up, use, and are very reliable. They just work. The specific devices I have used in my setups are [Beryl AX](https://amzn.to/3MBpg0q), [Flint 2](https://amzn.to/4iVofg4), [Brume 2](https://amzn.to/4iMJJLL), and [Slate AX](https://amzn.to/4a35GnE).  You can learn about how I use these devices here:  [Digital Nomad VPN Setup](https://theexpattech.com/digital-nomading/digital-nomad-vpn-setup/)  I don't just use these devices for VPNs either - it is nice to have a travel router in your bag for the times that you are trying to troubleshoot a network issue in the field.  
+
+- [RapidSpar Data Recovery Toolkit](https://www.rapidspar.com/) is something useful when you want to try to recover lost client data from a damaged or failing HDD/SSD.  I used it when a client's niece had a drive failure that contained her Master's Thesis 2 weeks before it was due to be turned in and hadn't backed up in couple of weeks.  
+
+
+- *Mini PCs I recommend:*
+  - [Beelink mini PCs](https://www.bee-link.com/) — compact desktop systems.  
+    I have a few customers that do not like having something large on their desk and these systems are easily mounted to the VESA mount that many of today's monitors have. 
+  - [MINISFORUM mini PCs](https://www.minisforum.com/) — another mini-PC choice.  
+    Another mini-PC company I have used for customers just like the Beelink products. I switch back and forth between Beelink and these depending upon price and area of use.
+
 
 ## Software used to fix Windows-based computers listed in no particular order:  
 
@@ -52,7 +71,7 @@ I’ll keep adding to this page as I discover new gear and services and work thr
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) — temperature and voltage monitor.  
   HWMonitor has helped me find where problems are occurring. Temperature spikes shown can explain random shutdowns, and other problematic hardware.  
 
-- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) — drive health checker.  
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) drive health checker.  
   I have used this on my own systems. I have been able to check hard drives I buy and to also troubleshoot their performance issues. SMART data can be used to determine if a drive is failing and can be swapped out before it does occur.   
 
 - [MemTest86](https://www.memtest86.com/) — RAM testing utility.  
@@ -68,15 +87,7 @@ I’ll keep adding to this page as I discover new gear and services and work thr
 - [Everything](https://www.voidtools.com/) — file search utility.  
   Everything helps you find misplaced files. I have used it to help people find files that they saved but couldn't find.  
 
-## Hardware
-- GL.iNet routers — [GL.iNet](https://www.gl-inet.com/) is my chosen solution for Digital Nomad VPNs.  
-  I’ve used this company's products for years. I use them for VPN servers and clients. They are easy to set up, use, and are very reliable. They just work. 
 
-- Mini PCs I recommend:
-  - [Beelink mini PCs](https://www.bee-link.com/) — compact desktop systems.  
-    I have a few customers that do not like having something large on their desk and these systems are easily mounted to the VESA mount that many of today's monitors have. 
-  - [MINISFORUM mini PCs](https://www.minisforum.com/) — another mini-PC choice.  
-    Another mini-PC company I have used for customers just like the Beelink products. I switch back and forth between Beelink and these depending upon price and area of use.
 
 ## Software for building my website
 - [Hugo](https://gohugo.io/) — static site generator.  
@@ -91,3 +102,5 @@ I’ll keep adding to this page as I discover new gear and services and work thr
 
 - [Cloudflare](https://www.cloudflare.com/) — DNS and site protection.  
   Cloudflare has saved me from DNS headaches. I didn't want to stay with my original website hosting and DNS providers and Cloudflare fixed that for me quickly and easily.  
+  
+  I am sorry I am using Amazon Affliiate links but I get a small amount of money from them that enables me to keep providing quality content to the users of my site.  
