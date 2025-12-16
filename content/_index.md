@@ -4,7 +4,7 @@ description: "Exploring aviation, tech tips, and digital nomading"
 layout: "home"
 ---
 
-## Welcome to my site!
+## Welcome to my site!##
 
 This site is where I share aviation stories, practical tech tips, living in Mexico part-time, and lessons from digital nomading.  Yes, there is a lot of different topics here but I am trying to find out what content is something people want to read about and go from there.  If things take off on one side of the blog or another, I will spin off a separate site for that information.
 
