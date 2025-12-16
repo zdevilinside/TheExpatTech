@@ -1,5 +1,5 @@
 ---
-title: "Week 50 - These are the things I found interesting"
+title: "Week 50 - Sorry for the late post.  I was busy traveling the last 2 days."
 date: 2025-12-06
 authors: ["ZDevilInse"]
 description: "Slow going up - was traveling"

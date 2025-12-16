@@ -4,11 +4,12 @@ description: "Exploring aviation, tech tips, and digital nomading"
 layout: "home"
 ---
 
-## Welcome to my site!##
+## Welcome to my site!
 
 This site is where I share aviation stories, practical tech tips, living in Mexico part-time, and lessons from digital nomading.  Yes, there is a lot of different topics here but I am trying to find out what content is something people want to read about and go from there.  If things take off on one side of the blog or another, I will spin off a separate site for that information.
 
 I learned to fly while I was in my Junior and Senior years of High School.  I was at a boarding military school in Virginia, and they offered a flight program.  I remember my first solo quite vividly despite it being so many years ago.  Below is a picture of the actual plane I flew on my first solo.  
+
 ![N96096](n96096.jpg)  
 
 ---
