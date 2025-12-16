@@ -2,7 +2,7 @@
 title: "Week 50 - These are the things I found interesting"
 date: 2025-12-06
 authors: ["ZDevilInse"]
-description: "This week's stories worth sharing"
+description: "Slow going up - was traveling"
 summary: "Week 50: Music video incidents, my Frank Beard experience, NASCompares Hard Drives, Watch Repair with humor, Why Hybrid Hard Drives Failed, Samsung Halts SSD Production leak, Gl.iNet's Slate 7 review, and NASCompares Best NAS of the Year - 2025"
 ---
 

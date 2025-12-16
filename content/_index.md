@@ -7,7 +7,10 @@ layout: "home"
 ## Welcome to my site!
 
 This site is where I share aviation stories, practical tech tips, living in Mexico part-time, and lessons from digital nomading.  Yes, there is a lot of different topics here but I am trying to find out what content is something people want to read about and go from there.  If things take off on one side of the blog or another, I will spin off a separate site for that information.
----
+
+I learned to fly while I was in my Junior and Senior years of High School.  I was at a boarding military school in Virginia, and they offered a flight program.  I remember my first solo quite vividly despite it being so many years ago.  Below is a picture of the actual plane I flew on my first solo.  
+![N96096](n96096.jpg)  
+
 ---
 
 ## Content of the Week
@@ -27,8 +30,7 @@ This site is where I share aviation stories, practical tech tips, living in Mexi
 [Learn more information about me and how I got into computers back in the days when I had to ride a dinosaur to school.  Yeah, people tend to see me as someone that old in the IT field of today. →](/about/)
 ---
  
-I learned to fly while I was in my Junior and Senior years of High School.  I was at a boarding military school in Virginia, and they offered a flight program.  I remember my first solo quite vividly despite it being so many years ago.  Below is a picture of the actual plane I flew on my first solo.  
-![N96096](n96096.jpg)  
+
 
 After having to stop flying due to a medical issue, I pivoted into IT because it is something I grew up with as a kid.  My first technical certification was for a **PowerBook** laptop in 1994.  I earned my CompTIA A+ certification in 1999 and my first Dell certification later that year.  I kept on learning and allowed IT to completely consume me.  It became my hobby and my career.  Whenever I could attend a training course, I went.  I got as many certifications as I could while someone else was willing to pay for them.  
 
