@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.theexpattech.com/digital-nomading/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Another way to be a Digital Nomad</title>
+      <link>https://www.theexpattech.com/digital-nomading/remote-kvm/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.theexpattech.com/digital-nomading/remote-kvm/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;/* Add more space between table columns only for this page */&#xD;&#xA;table td, table th {&#xD;&#xA;  padding-left: 20px;&#xD;&#xA;  padding-right: 20px;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h1 id=&#34;where-do-i-go-from-here&#34;&gt;Where do I go from here?&lt;/h1&gt;&#xA;&lt;p&gt;Okay, you made the decision.  You want to be a &lt;em&gt;&amp;ldquo;digital nomad&amp;rdquo;&lt;/em&gt;.  So now you need to figure out HOW to do it.  Well, if you have a work-assigned system, you have a couple of options.  The first option is setting up a WireGuard VPN server/client and do it that way.  Recently, there is a new way to do this if you are afraid your computer will be caught outside of the area you are supposed to be - a remote KVM solution.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Recommended VPN Equipment</title>
       <link>https://www.theexpattech.com/digital-nomading/recommended-vpn-hardware/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>

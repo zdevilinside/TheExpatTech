@@ -2,9 +2,9 @@
 title: "Recommended VPN Equipment"
 date: 2025-11-28
 authors: ["ZDevilInside"]
-categories: ["Digital Nomading", "Tech Tips"]
+# categories: ["Digital Nomading", "Tech Tips"]
 tags: ["Digital Nomading", "Tech Tips"]
-image: "slate7.jpg"
+image: "/images/slate7.jpg"
 description: "The equipment I use"
 draft: false
 slug: "recommended-vpn-hardware"
@@ -31,7 +31,7 @@ To build a reliable Nomad VPN, you’ll need at least **two devices**. You can m
 
 > ⚠️ **Affiliate Disclosure:** Some of the links above are Amazon affiliate links.  
 > If you click through and make a purchase, I may earn a small commission — at no extra cost to you.  
-> I have to pay for my site somehow, and this helps keep it running.
+> This helps keep the site running.
 
 ---
 
