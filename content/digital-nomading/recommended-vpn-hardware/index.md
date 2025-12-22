@@ -4,7 +4,7 @@ date: 2025-11-28
 authors: ["ZDevilInside"]
 # categories: ["Digital Nomading", "Tech Tips"]
 tags: ["Digital Nomading", "Tech Tips"]
-image: "comet.jpg" 
+image: "slate7.jpg" 
 description: "The equipment I use"
 draft: false
 slug: "recommended-vpn-hardware"
