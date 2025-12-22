@@ -64,7 +64,7 @@ publishDir = "docs"
 
 [params]
   # Theme settings
-  defaultTheme = "dark"   # options: "light", "dark", "auto"
+  defaultTheme = "auto"   # options: "light", "dark", "auto"
   themeToggle = true      # show toggle button in header
 
 [permalinks]

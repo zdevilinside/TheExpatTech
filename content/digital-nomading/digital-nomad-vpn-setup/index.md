@@ -16,11 +16,13 @@ slug: "digital-nomad-vpn-setup"
 
 ![Top Secret](TSRD.jpg)
 
-###  **Unauthorized personnel beware!**  
+###  **Unauthorized personnel only!**  
 ###  This guide contains sensitive setup instructions.  
 ###  Proceed at your own risk — and remember, this is for educational purposes only.
 
 ***Management and Tech Investigation Teams are not authorized to continue past this point.***
+
+If you are a member of either of these teams, you must close your browser and never return to this site!  If you continue past this point, any investigations you are working upon are null and void.  
 
 ---
 

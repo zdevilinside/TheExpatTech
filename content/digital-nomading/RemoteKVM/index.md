@@ -4,7 +4,7 @@ date: 2025-11-28
 authors: ["ZDevilInside"]
 # categories: ["Digital Nomading", "Tech Tips"]
 tags: ["Digital Nomading", "Tech Tips"]
-image: "comet.jpg"
+image: "/images/comet.jpg"
 description: "What is a remote KVM?"
 draft: false
 slug: "Remote KVM"
