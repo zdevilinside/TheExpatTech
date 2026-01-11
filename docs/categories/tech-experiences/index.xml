@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Experiences on The Expat Tech</title>
-    <link>https://www.theexpattech.com/categories/tech-experiences/</link>
+    <link>http://localhost:1313/categories/tech-experiences/</link>
     <description>Recent content in Tech Experiences on The Expat Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.theexpattech.com/categories/tech-experiences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tech-experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dell Alienware Support: A $5,000 Frustration</title>
-      <link>https://www.theexpattech.com/tech-tips/alienware-support-frustration/</link>
+      <link>http://localhost:1313/tech-tips/alienware-support-frustration/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.theexpattech.com/tech-tips/alienware-support-frustration/</guid>
+      <guid>http://localhost:1313/tech-tips/alienware-support-frustration/</guid>
       <description>&lt;h1 id=&#34;my-ongoing-frustrations-with-dellalienware-support&#34;&gt;My Ongoing Frustrations with Dell/Alienware Support&lt;/h1&gt;&#xA;&lt;p&gt;I am writing to express my deep dissatisfaction with Dell/Alienware and their consistently inadequate technical support. Unfortunately, it has become impossible to ignore the reality: Dell’s support team demonstrates incompetence in both troubleshooting and customer communication.&lt;/p&gt;&#xA;&lt;p&gt;As someone with decades of IT experience—including certifications dating back to Apple in 1994, A+ and Dell certifications in 1999, and extensive work across Linux, Mac, and Windows environments for the U.S. government; I know what effective troubleshooting looks like. Dell’s support process falls far short of that.&lt;/p&gt;</description>
     </item>
   </channel>
