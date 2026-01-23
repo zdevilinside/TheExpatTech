@@ -3,7 +3,7 @@ title: "Residency in Mexico: Financial Requirements 2026"
 date: 2026-01-23
 authors: ["Steven"]
 categories: ["Living In Mexico"]
-tags: ["Living In Mexico", "Residency", "Immigration", "Minimum Wage"]
+tags: ["Residency", "Immigration", "Minimum Wage"]
 description: "Mexico has raised minimum wage and residency financial solvency requirements, making residency more costly."
 ---
 
