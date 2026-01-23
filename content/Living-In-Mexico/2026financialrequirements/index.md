@@ -13,6 +13,8 @@ It is now 2026 and Mexico has increased the minimum wage and financial solvency 
 
 The amounts have increased to such a point that Mexico is no longer the bargain it used to be before. Over the past five years, residency requirements have risen sharply. Temporary residency thresholds have nearly doubled, increasing by about **75–100%** compared to 2021. Permanent residency requirements have grown even more steeply: at the Tucson consulate, they are up by roughly **200%**, tripling the income and savings levels expected of applicants. At the London consulate, where requirements are expressed in UMA, the increase has been about **150–170%**, reflecting both inflation and adjustments to UMA values. These changes have outpaced Mexico’s minimum wage growth (about **120%** over the same period), underscoring how much more difficult it has become to qualify for residency today.
 
+As a note, just because the requirements page says something, INM has the ability to ask for more information.  Just relax, realize it is a process, and you can survive it.  In my case, when I renewed my residency, they asked for financial information despite it not being listed on the INM website as something that is needed.  It took a bit of work but was worth it in the end.
+
 ---
 
 ## Quick Comparison
