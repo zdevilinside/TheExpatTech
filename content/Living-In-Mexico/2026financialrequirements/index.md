@@ -9,11 +9,11 @@ description: "Mexico has raised minimum wage and residency financial solvency re
 
 # Residency in Mexico: Financial Requirements
 
-It is now 2026 and Mexico has increased the minimum wage and financial solvency requirements for residency.  The days of just walking across the border and living in Mexico are gone.  They now require you to get residency if you wish to live here.  If you come in on a FMM (Tourist Card) and are caught living in Mexico on it, you can be kicked out of the country, and have your passport marked "not valid for entry into Mexico" according to Sonia Diaz, a San Miguel-based immigration attorney.
+It is now 2026 and Mexico has increased the minimum wage and financial solvency requirements for residency. The days of just walking across the border and living in Mexico are gone. They now require you to get residency if you wish to live here. If you come in on a FMM (Tourist Card) and are caught living in Mexico on it, you can be kicked out of the country and have your passport marked "not valid for entry into Mexico," according to Sonia Diaz, a San Miguel–based immigration attorney.
 
-The amounts have increased to such a point that Mexico is no longer the bargain it used to be. Over the past five years, residency requirements have risen sharply. Temporary residency thresholds have nearly doubled, increasing by about **75–100%** compared to 2021. Permanent residency requirements have grown even more steeply: at the Tucson consulate, they are up by roughly **200%**, tripling the income and savings levels expected of applicants. At the London consulate, where requirements are expressed in UMA, the increase has been about **150–170%**, reflecting both inflation and adjustments to UMA values. These changes have outpaced Mexico’s minimum wage growth (about **120%** over the same period), underscoring how much more difficult it has become to qualify for residency today.
+The amounts have increased to such a point that Mexico is no longer the bargain it used to be. Over the past five years, residency requirements have risen sharply. Temporary residency thresholds have nearly doubled, increasing by about **75–100%** compared to 2021. Permanent residency requirements have grown even more steeply: at the Tucson consulate, they are up by roughly **200%**, tripling the income and savings levels expected of applicants. At the London consulate, where requirements are expressed in UMA, the increase has been about **120–130%**, reflecting both inflation and adjustments to UMA values. These changes have outpaced Mexico’s minimum wage growth (about **120%** over the same period), underscoring how much more difficult it has become to qualify for residency today.
 
-As a note, just because the requirements page says something, INM has the ability to ask for more information.  Just relax, realize it is a process, and you can survive it.  In my case, when I renewed my residency, they asked for financial information despite it not being listed on the INM website as something that is needed.  It took a bit of work but was worth it in the end.
+As a note, just because the requirements page says something, INM has the ability to ask for more information. Just relax, realize it is a process, and you can survive it. In my case, when I renewed my residency, they asked for financial information despite it not being listed on the INM website as something that is needed. It took a bit of work but was worth it in the end.
 
 ---
 
@@ -40,7 +40,7 @@ Requirement Type: Daily wage
 Thresholds: MXN $440.87/day (~MXN $13,226.10/month).  
 
 > **Note:** All amounts are shown in the currency used in the original consular or wage sources (USD for U.S. consulates, UMA units or GBP-equivalent for UK consulate references, MXN pesos for minimum wage data).  
-> **Note 2 :** Income or savings requirements can vary by consulate.
+> **Note 2:** Income or savings requirements can vary by consulate.
 
 ---
 
@@ -71,8 +71,8 @@ Applicants must demonstrate **monthly income or savings/investments** that meet 
 
 The **Unidad de Medida y Actualización (UMA)** is an inflation-indexed unit used in Mexico to calculate obligations such as fines, taxes, and residency requirements.  
 - UMA daily value (2026): **MXN $108.84**.  
-- **45,850 UMA ≈ MXN $4,987,314** (savings requirement).  
-- **1,140 UMA ≈ MXN $124,098/month** (income requirement).  
+- **45,850 UMA ≈ MXN $4,990,314** (savings requirement).  
+- **1,140 UMA ≈ MXN $124,078/month** (income requirement).  
 
 ---
 
@@ -95,7 +95,7 @@ The **Unidad de Medida y Actualización (UMA)** is an inflation-indexed unit use
   - Average: **17.80 MXN/USD**  
 
 - **Examples:**  
-  - $292,859 USD ≈ **MXN $5,213,900**  
+  - $292,859 USD ≈ **MXN $5,212,900**  
   - $7,322 USD/month ≈ **MXN $130,300/month**  
 
 ---
@@ -106,8 +106,10 @@ The **Unidad de Medida y Actualización (UMA)** is an inflation-indexed unit use
 |----------------|------------------------------|-----------------------------|---------------------|
 | **Temporary Residency** | **Income:** ~$2,000 USD/month<br>**Savings:** ~$35,000 USD | **Income:** ~$4,185 USD/month<br>**Savings:** ~$69,750 USD | ~75–100% increase |
 | **Permanent Residency (Tucson)** | **Income:** ~$2,500 USD/month<br>**Savings:** ~$100,000 USD | **Income:** $7,322 USD/month<br>**Savings:** $292,859 USD | ~200% increase |
-| **Permanent Residency (London, UMA-based)** | **Income:** ~500 UMA/month (~MXN $44,800 at 2021 UMA rate)<br>**Savings:** ~20,000 UMA (~MXN $1.8M) | **Income:** 1,140 UMA/month (~MXN $124,098)<br>**Savings:** 45,850 UMA (~MXN $4.98M) | ~120-130% increase |
-> **Note:** Income or savings requirements vary by consulate.  Please check your consulate for their requirements.
+| **Permanent Residency (London, UMA-based)** | **Income:** ~500 UMA/month (~MXN $44,800 at 2021 UMA rate)<br>**Savings:** ~20,000 UMA (~MXN $1.8M) | **Income:** 1,140 UMA/month (~MXN $124,078)<br>**Savings:** 45,850 UMA (~MXN $4.99M) | ~120–130% increase |
+
+> **Note:** Income or savings requirements vary by consulate. Please check your consulate for their requirements.
+
 ---
 
 ## Sources
