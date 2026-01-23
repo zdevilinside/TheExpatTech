@@ -95,7 +95,7 @@ The **Unidad de Medida y Actualización (UMA)** is an inflation-indexed unit use
   - Average: **17.80 MXN/USD**  
 
 - **Examples:**  
-  - $292,859 USD ≈ **MXN $5,210,000**  
+  - $292,859 USD ≈ **MXN $5,213,900**  
   - $7,322 USD/month ≈ **MXN $130,300/month**  
 
 ---
@@ -106,7 +106,7 @@ The **Unidad de Medida y Actualización (UMA)** is an inflation-indexed unit use
 |----------------|------------------------------|-----------------------------|---------------------|
 | **Temporary Residency** | **Income:** ~$2,000 USD/month<br>**Savings:** ~$35,000 USD | **Income:** ~$4,185 USD/month<br>**Savings:** ~$69,750 USD | ~75–100% increase |
 | **Permanent Residency (Tucson)** | **Income:** ~$2,500 USD/month<br>**Savings:** ~$100,000 USD | **Income:** $7,322 USD/month<br>**Savings:** $292,859 USD | ~200% increase |
-| **Permanent Residency (London, UMA-based)** | **Income:** ~500 UMA/month (~MXN $44,800 at 2021 UMA rate)<br>**Savings:** ~20,000 UMA (~MXN $1.8M) | **Income:** 1,140 UMA/month (~MXN $124,098)<br>**Savings:** 45,850 UMA (~MXN $4.98M) | ~150–170% increase |
+| **Permanent Residency (London, UMA-based)** | **Income:** ~500 UMA/month (~MXN $44,800 at 2021 UMA rate)<br>**Savings:** ~20,000 UMA (~MXN $1.8M) | **Income:** 1,140 UMA/month (~MXN $124,098)<br>**Savings:** 45,850 UMA (~MXN $4.98M) | ~120-130% increase |
 > **Note:** Income or savings requirements vary by consulate.  Please check your consulate for their requirements.
 ---
 
