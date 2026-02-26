@@ -6,17 +6,17 @@ categories: ["Tech Experiences"]
 tags: ["Dell", "Alienware", "Customer Support", "IT Frustrations"]
 image: "x17r2.jpeg"
 description: "A detailed account of Dell Alienware's poor support and warranty failures, leaving a $5,000 laptop unusable."
-draft: true
+draft: false
 slug: "alienware-support-frustration"
 ---
 
-## *Update:
+*Update:*
 
-After I returned to the United States for a short trip, I shipped my "dead" laptop to Dell to be fixed.  The diagnosis of the issue was the exact same thing I said all along; it needed a new motherboard and RAM module.  I received the replacement system.  It lasted a few days and after I got overseas with it, it BSOD'd, shut itself off, and won't power on at all.
+*After I returned to the United States for a short trip, I shipped my "dead" laptop to Dell to be fixed.  The diagnosis of the issue was the exact same thing I said all along; it needed a new motherboard and RAM module.  I received the repaired system the day before I was to return to Mexico.  How did that end up?  It lasted a few days and then it BSOD'd, shut itself off, and won't power on at all.*
 
-I contacted Dell in regards to this issue.  I was told to contact International Support and gave me a phone # to call.  When I call, it routes me to a line where it is announced that they are closed for a team meeting that should last for 1 hour.  I have attempted to call this # at least 15 times in the last 24 hours.  What happens?  The same recording.  When I contact Dell, they give me a link to go to to get a new service call.  I do that, and it gives me the exact same # as I have been trying for the last 24 hours and getting that same "we are closed for 1 hour for a team meeting" bit.  I sent a recording of that and the screenshot of where the online system I was given a link to showing the phone # is the same # I am supposed to call that I got from Dell previously.  
+*I contacted Dell in regards to this issue.  I was told to contact International Support and gave me a phone # to call.  When I call, it routes me to a line where it is announced that they are closed for a team meeting that should last for 1 hour.  I have attempted to call this # at least 15 times in the last 24 hours.  What happens?  The same recording.  When I contact Dell, they give me a link to go to to get a new service call.  I do that, and it gives me the exact same # as I have been trying for the last 24 hours and getting that same "we are closed for 1 hour for a team meeting" bit.  I sent a recording of that and the screenshot of where the online system I was given a link to showing the phone # is the same # I am supposed to call that I got from Dell previously.*  
 
-This system has been down for over 2 months.  It hasn't been fixed to the point where it is usable for longer than a couple of days.*  
+*This system has been down for over 2 months.  It hasn't been fixed to the point where it is usable for longer than a couple of days.*  
 
 # My Ongoing Frustrations with Dell/Alienware Support
 
